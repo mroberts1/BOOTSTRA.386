@@ -87,7 +87,11 @@ Let's back up for a second. In order to understand things you need to know a bit
 
 It's worth noting these aphorisms are mostly negative. We don't really have any for success. I think there's a tendency to break bad news with a bit of humor in a hope that it lands lighter.  I don't know if it works, but we do it anyway.
 
-I respond to Gilda, "it doesn't look like they're going to PDP IBM again" - a reference to their gang-buster microcomputer in the 1960s that made them successful. All their efforts in the world of microcomputers have felt like a circus without substance.
+I respond to Gilda, "it doesn't look like they're going to PDP IBM again" - a reference to DECs gang-buster microcomputer in the 1960s that made them successful. All their efforts in the world of microcomputers have felt like a circus without substance.
+
+Thomas returns soon as well after talking to a young a Indian programmer with a company named "Lotus". They've produced a new kind of desk calculator, we call them spreadsheets. The screen is arranged in rows and columns and then you can do computations involving the values in between them. 
+
+Back in the 70s Enterprise Resource Planning (ERP) software was hot. if you're manufacturing something, you have this cascade of inputs with costs, availability, all these constraints. You need to make sure you aren't losing money. In larger firms it's actually not easy to know how to price things and where the money is going and coming from. so spreadsheets, specifically Lotus 123, looks like feasible solution.
 
 Just at that moment, Hasegawa comes running over to me catching his breath. He's still too far away for me to hear him but has he gets closer I hear "they did it, they did it". He's flustered, surprised, almost nervous. Gilda and I give him a confused look. "They're called VisiCorp", come look. 
 
