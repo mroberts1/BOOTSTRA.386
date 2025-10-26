@@ -4,7 +4,7 @@
 
 ## Preface
 
-It was late 1982, headquarters in Boston tasked us with a bringing the microcomputer to the general public. Their fever dream was a full-screen interface supporting pointing devices connected through any bus, full color displays, and running on everything from future palmtops to today's mainframes. Also, it has to fit on a single floppy and a non-technical person should be able to use it in minutes.
+It was Fall 1982, headquarters in Boston tasked us with a bringing the microcomputer to the general public. Their fever dream was a full-screen interface supporting pointing devices connected through any bus, full color displays, and running on everything from future palmtops to today's mainframes. Also, it has to fit on a single floppy and a non-technical person should be able to use it in minutes.
 
 The problem is nobody has built this. knows how to build that. We don't even know if today's micros are capable of such a feat. We were going to try it anyway.
 
@@ -137,7 +137,7 @@ I pull myself out of bed, "Mind if I buy you Denny's?" It's always nice not to h
 
 Monday night at Denny's in Tehachapi is downright pleasant. It was us, some long haul truckers and a couple that looks like they'd been there since the WPA during the new deal. Hasegawa asks for extra napkins and a set of crayons. The waitress just brings him pen and paper. Nice place.
 
-I order eggs and hash browns. I am still a bit nauseous from the smell of cows from the I-5 less than 24 hours ago. "OK so here's the deal" I start. "We've got a runway until Q4, latest. We need a deliverable by then and it has to be compelling. Boston has more money than patience so I've got money but not time to burn. All this talk about rewriting DOS, it's too ambitious, we can't do it by then. We need something else."
+I order eggs and hash browns. I am still a bit nauseous from the smell of cows from the I-5 less than 24 hours ago. "OK so here's the deal" I start. "We've got a runway until 1983Q3, latest. We need a deliverable by then and it has to be compelling. Boston has more money than patience so I've got money but not time to burn. All this talk about rewriting DOS, it's too ambitious, we can't do it by then. We need something else."
 
 Hasegawa mumbles "toolkit" loud enough for Thomas to hear. "A tool-kit?" I say. "Yes, SDK. We need to have an easy way for developers to plug into our GUI. Maybe it can be a fall-back, you don't have to use us. So the customer they don't need our tool, they can still use the program without us."
 
@@ -147,7 +147,7 @@ Gilda looks down, "well we need something more concrete than that"
 
 I respond, "We have time. Not much. But we have some. At least enough to finish this food". 
 
-And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7am January weather of Northern California. Everyone else had gone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
+And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7am November weather of Northern California. Everyone else had gone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
 
 ## Version 0.0: Potemkin
 
@@ -158,7 +158,7 @@ We called in project Potemkin because we are really just scaffolding friendlier 
 We widely agreed this is the only viable way forward. We aren't large enough to command a position in every meaningful place in the marketplace so we must carve out our own. 
 
 ## Abort?
-90 days is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a porject manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
+90 days is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a project manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
 
 This all sounds abstract and it is. Fred Brooks, of IBM OS/360 fame, coined software as "pure thought stuff". Building is making manifest things imagined. There's tons of ambiguities, problems, and miscommunications. Engineers are the ultimate Monkey's Paw and we find out how some ideas are only compelling as long as they remain imagined but once they become real, we have no interest. 
 
@@ -259,7 +259,7 @@ Orion and I froze. "I think we had a mole" Orion says. "That's incredible." the 
 
 ## Fail?
 
-Everyone has read Mythical Man-month, the idea that adding another developer too late in the game actually makes the product take longer.  The problem is it's April and we're basically right where we were at in the Tehachapi Denny's - not willing to clone VisiCorp and trying to move ahead. And now we not only have the Apple Lisa to deal with but thanks to Thomas we know that Microsoft is working on a graphical system as well. I'm sure IBM and Digital Research is in the game as well. 
+Everyone has read Mythical Man-month, the idea that adding another developer too late in the game actually makes the product take longer.  The problem is it's February and we're basically right where we were at in the Tehachapi Denny's - not willing to clone VisiCorp and trying to move ahead. And now we not only have the Apple Lisa to deal with but thanks to Thomas we know that Microsoft is working on a graphical system as well. I'm sure IBM and Digital Research is in the game as well. 
 
 I feel asphyxiated before taking the first breath. I lean back in my chair. On the edge of my desk sit a pile of resumes. We get a trickle in constantly regardless of whether we have a job posted and it's my job to go through them and I do, sometimes, do my job on occasion. 
 
@@ -345,7 +345,7 @@ Everyone thinks time travel is going to be glamorous but really, you go back to 
 
 No friends, bank account, connections, place to live... 
 
-April 1983 wasn't really a time of significance. It's hard to explain but not all times are equally accessible. There's a topology and the distances are very non-euclidean. It's just as uneven and entropic as everything else this universe creates. For whatever reason, the next easily accessible date that requires under 50KW and wasn't millions of years ago is April 1983, 25 years before I was born. I have about a 5 minute window at 3:32am tonight to catch it otherwise I will be sent off to somewhere in the Proterozoic.
+February 1983 wasn't really a time of significance. It's hard to explain but not all times are equally accessible. There's a topology and the distances are very non-euclidean. It's just as uneven and entropic as everything else this universe creates. For whatever reason, the next easily accessible date that requires under 50KW and wasn't millions of years ago is February 1983, 25 years before I was born. I have about a 5 minute window at 3:32am tonight to catch it otherwise I will be sent off to somewhere in the Proterozoic.
 
 The best way to travel isn't to get vintage currency, that's expensive. What I do is purchase jewelry at estate sales. Then I pawn it off. At least that way I'll have a few hundred bucks. 
 
@@ -450,7 +450,7 @@ I look around the room, this is somehow working.
 
 "What's that on the back" Orion raises his finger.
 
-Without missing a beat I say "Ah that! That's for digital photography and videography." Hawegawa starts snapping photos as I continue, "this is about the size of an instamatic if you rotate it on its side" as I hold the phone in landscape mode, "see these buttons on top can be contextual. Sometimes it can raise volume, other times it can power the device or snap pictures, it all depends on what mode you are in."
+Without missing a beat I say "Ah that! That's for digital photography and videography." Hasegawa starts snapping photos as I continue, "this is about the size of an instamatic if you rotate it on its side" as I hold the phone in landscape mode, "see these buttons on top can be contextual. Sometimes it can raise volume, other times it can power the device or snap pictures, it all depends on what mode you are in."
 
 And then, "after you snap your picture you have it on the screen and can use the radio network to send it to someone or even share it publicly by uploading it to a server, all with a few strokes of the thumbs, in seconds."
 
@@ -495,7 +495,7 @@ I walk over to his PC, which is still up and running and flick on the monitor. O
 
 I lift the keyboard and find a mysterious prop about the size of my fingernail. It's a delicate plastic chip labeled "SanDisk Extreme Plus" and has a large "4" followed by the letter "TB". On the underside are metal contacts, like you'd find on an Atari game, 8 of them with 2 slightly longer. There's a slight plastic notch on the side. If he was trying to tell me something he failed.
 
-"He's gone" I announce Thursday morning at our "standup" meeting as I hold up the prop. "All I found was this thing. I can't make heads or tails out of it. I guess this is the finall shock-a-roo."
+"He's gone" I announce Thursday morning at our "standup" meeting as I hold up the prop. "All I found was this thing. I can't make heads or tails out of it. I guess this is the final shock-a-roo."
 
 Hasegawa, who is leaning back in his chair, chokes on his coffee as he sits forward. "Sharaku!" he blurts out. "It's Sharaku, not shock-a-roo." We all look confused.
 
@@ -522,7 +522,7 @@ From Left to Right: Jay, Hasagawa, Orion, Gilda, and Chuck
 
 
 <img width="495" height="480" alt="Untitled" src="https://github.com/user-attachments/assets/fd98acbc-f325-43c6-b852-f1f49a37f5fe" />
-Here's the now famous September 1983 'jaybox' demo photo by Hasegawa, originally included in his 1991 text "Pen Computing Design" which coined multi-touch rotation, pinch-zooming, and gestural swipes.
+Here's the now famous August 1983 'jaybox' demo photo by Hasegawa, originally included in his 1991 text "Pen Computing Design" which coined multi-touch rotation, pinch-zooming, and gestural swipes.
 
 ---
 
