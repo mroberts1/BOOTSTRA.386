@@ -60,17 +60,17 @@ It was Fall 1982. Headquarters in Boston tasked us with bringing the microcomput
 
 The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.
 
-We're going to try anyway.
+We're going to try anyway. We had no aspirations to become the cartographers of tomorrow's empires, breathing the first gasps of a rarified air that will eventually fill our technofuture.
 
 This is our story.
 
 # Planning Party
 
-When Nolan Bushnell sold Atari to start Chuck-E-Cheese a few years ago, we joked he was just going lower in the stack - providing the fuel to the fire on Sandhill Road. At least fuel to a team of ambitious engineers who I was eating late night pizza in Menlo Park on a Saturday night shortly after Halloween.
+When Nolan Bushnell sold Atari and started Chuck-E-Cheese a few years ago we joked he was just going lower in the stack - providing the fuel to the fire on Sandhill Road. At least fuel to a team of ambitious engineers who I was eating late night pizza in Menlo Park on a Saturday night with shortly after Halloween.
 
-We were talking about the future of computing and how it was going to change the office of the 1990s. We had been passing around this book, Smalltalk-80, describing some personal office computers by Xerox, unrelated to their 500 series minicomputers, to be used by just a single non-technical person to do work in a way that obsoletes the mail room, switchboard, and even the secretary.
+Like most Saturday night parties in Silicon Valley, we talked about the future of computing and how it was going to change the office of the 1990s. We were passing around this book, Smalltalk-80, describing some personal office computers by Xerox, unrelated to their 500 series minicomputers, to be used by just a single non-technical person to do work in a way that obsoletes the mail room, switchboard, and even the secretary.
 
-Xerox had even found a way to make these computers talk to each other similar to how Kahn, Kleinrock and Cerf did with their ARPA project at UCLA but without the giant BBN machine. Instead it was an add-on board - Metcalfe, the inventor, called it Ethernet.
+Xerox invented a way to make these computers talk to each other similar to how Kahn, Kleinrock and Cerf did with their ARPA project at UCLA but without the giant BBN machine. Instead it was an add-on board - Metcalfe, the inventor, called it Ethernet.
 
 As we ate our pizza, Gilda, a gifted Engineer from Stanford, pointed out that this was only going to be useful if non-technical people, without reading manuals, were able to effectively use the computers.
 
@@ -78,7 +78,7 @@ As we ate our pizza, Gilda, a gifted Engineer from Stanford, pointed out that th
 
 The question went unanswered. Xerox's machines sold about as well as cars from South Korea.  People would flip over a mouse and try to roll the ball with their hands like it's one of Bushnell's video games.
 
-Hasegawa, our designer, who is ex-Omron and Matsushita was busy drawing on a napkin. Our primary target is the office and a simplification of common tasks. Recently he had been trying to replace the schedule-book. 
+Hasegawa, our designer, who is ex-Omron and Matsushita was busy drawing on a napkin. Our primary target is the office and a simplification of common tasks. Recently he was been trying to replace the schedule-book. 
 
 He opens up the napkin and start drawing flow diagrams and the rest of us look over. "In Japanese", he says "the days of the week are single characters. It's a nice shorthand." There's a key up in the left-hand side that says "Monday - M, Tuesday - T, Wednesday - W, tHursday - H, Friday - F, Saturday - S, sUnday - U"
 
@@ -164,7 +164,7 @@ People applaud like they just saw Harry Houdini break out of a safe. No jargon, 
 
 He moves the mouse arrow over to the word "Print" and clicks the mouse button and then a few moments later, an Okidata printer head starts moving and produces exactly what we see on screen. "Holy shit" Orion blurts out, "can I buy that here?"
 
-The answer was irrelevant. Everyone that day was sold. We saw the future. It was like the Xerox experience but on a microcomputer. This is what Boston was waving their hands about. Nobody had known what it looked like.
+The answer was irrelevant. Everyone that day was sold. We saw the future. It was like the Xerox experience but on a microcomputer. This is what Boston was waving their hands about. Nobody knew what it looked like.
 
 Hasegawa takes his camera and puts in a new roll of film and starts snapping pictures of the demo. I look at him, "I'm sure they won't mind" he says.
 
@@ -178,7 +178,7 @@ I look back and we are at a consensus. We don't need to stay in Vegas another da
 
 # Menlo Return 
 
-I was tired. Probably too tired for the all night drive back through the desert and up the I-5. The Winnebago had two beds and luckily Hasegawa was up for trading off on the drive. I can't sleep though. I hear everyone talking as my head fills with anxiety.
+I was tired. Probably too tired for the all night drive back through the desert and up the I-5. The Winnebago has two beds and luckily Hasegawa was up for trading off on the drive. I can't sleep though. I hear everyone talking as my head fills with anxiety.
 
 We blaze past Barstow as I see a sky full of stars out the back window. "We can't just clone them" Thomas gripes as he looks over his notes. "We need to be finishing races they're still lacing up for." 
 
@@ -194,7 +194,7 @@ I pull myself out of bed, "Mind if I buy you Denny's?" It's always nice not to h
 
 Monday night at Denny's in Tehachapi is downright pleasant. It was us, some long haul truckers and a couple that looks like they'd been there since the WPA during the new deal. Hasegawa asks for extra napkins and a set of crayons. The waitress just brings him pen and paper. Nice place.
 
-I order eggs and hash browns. I am still a bit nauseous from the smell of cows from the I-5 less than 24 hours ago. "OK so here's the deal" I start. "We've got a runway until 1983Q3, latest. We need a deliverable by then and it has to be compelling. Boston has more money than patience so I've got money but not time to burn. All this talk about rewriting DOS, it's too ambitious, we can't do it by then. We need something else."
+I order eggs and hash browns. I am still a bit nauseous from the smell of cows from the I-5 less than 24 hours ago. "OK so here's the deal" I start. "We've got a runway until 1983Q3, latest. We need a deliverable by then and it has to be compelling. Boston has more money than patience so I've got cash but not time to burn. All this talk about rewriting DOS, it's too ambitious, we can't do it by then. We need something else."
 
 Hasegawa mumbles "toolkit" loud enough for Thomas to hear. "A tool-kit?" I say. "Yes, SDK. We need to have an easy way for developers to plug into our GUI. Maybe it can be a fall-back, you don't have to use us. So the customer they don't need our tool, they can still use the program without us."
 
@@ -204,7 +204,7 @@ Gilda looks down, "well we need something more concrete than that"
 
 I respond, "We have time. Not much. But we have some. At least enough to finish this food". 
 
-And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7am November weather of Northern California. Everyone else had gone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
+And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7am November weather of Northern California. Everyone else went hone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
 
 # Version 0.0: Potemkin
 
@@ -280,7 +280,7 @@ We all laugh and continue the demo.
 
 The day continues with diligence and we return to the office in the early afternoon. The Compaq stays in my trunk. It's a fine temporary home. 
 
-Thomas excuses himself for a smoke break and I go inside to meet with the rest of the team. I haven't disclosed this elsewhere but we have 16 people total. In negotations with the editors decided to exclude 12 for a variety of reasons, mostly because this text is long enough already. Regardless, I mention it here because I have a lot on my plate. There's QA, documentation, the device drivers team, I had completely forgotten to loop back in with Thomas.
+Thomas excuses himself for a smoke break and I go inside to meet with the rest of the team. I haven't disclosed this elsewhere but we have 16 people total. In negotations with the editors decided to exclude 12 for a variety of reasons, mostly because this text is long enough already. Regardless, I mention it here because I have a lot on my plate. There's QA, documentation, the device drivers team, I completely forgot to loop back in with Thomas.
 
 But then, the next day, he didn't come in. This happens occasionally. Employees can dissappear for a day. They can tell people and then we forget or they might get sick or have car issues and can't reach us ... but two days, that's when we get worried. I went around with one of those unnamed people that day to do my demo, someone from the documentation team. It was fine. Not as good as Thomas, but fine.
 
@@ -431,11 +431,11 @@ But that money and the rest of the stuff in my Samsonite really doesn't last lon
 
 What I need is a job. 
 
-Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I had always admired BOOTSTRA Technologies as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece, The Dreams of Tomorrow on its development.
+Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I always admired BOOTSTRA Technologies as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece, The Dreams of Tomorrow on its development.
 
 I wanted to be there, on those team, in those rooms, involved in those conversations. The artistry, audacity, and irreverence of the early computing revolution before it became the oppressive taste-maker has always captured my interest.
 
-I had forgotten that revolutionaries are controversial at best and being dismissed is the more common response. There was only one Steve Jobs and he ain't me. I was about to learn that the hard way, or maybe, not at all. Regardless, I'm up for the challenge.
+I forgot that revolutionaries are controversial at best and being dismissed is the more common response. There was only one Steve Jobs and he ain't me. I was about to learn that the hard way, or maybe, not at all. Regardless, I'm up for the challenge.
 
 The cheap motel I'm staying in is going to be torn down after the Loma Pieta earthquake and replaced with a mall. That will then get torn down and replaced with a 5-over-1 in 2028. Right now, however, it's $19.99/night. 1983 prices, gotta love them.
 
@@ -571,7 +571,7 @@ And with that, my phone took on a new name.  Quoting "The Dreams of Tomorrow":
 
 # The Return
 
-It was time for me to go. Literally. In 6 months, I built BOOTSTRA/386 and now it my window to leave. I had heard about the legendary Jay with no last name who had brought the microcomputer to the masses and really, during that interview I just used the name as a joke. 
+It was time for me to go. Literally. In 6 months, I built BOOTSTRA/386 and now it my window to leave. I heard about the legendary Jay with no last name who brought the microcomputer to the masses and really, during that interview I just used the name as a joke. 
 
 That's always the problem with time-travel, did I become my future reality? Was it inevitable or did I build it? I've entered the grandfather paradox of technology. Maybe putting "Quit" in the File drop down is actually a bad idea. Who knows? It's too late now. The sands of time sweep through all our fingers the same. Windows close before we realize they were ever open and opportunities enter the world of imagined counterfactuals. 
 
