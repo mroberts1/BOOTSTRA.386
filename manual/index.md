@@ -298,6 +298,25 @@ He responds "Sure why not? Start with 0xF0, left shift, OR with NOT itself ANDED
 
 I say "Hold on let me check that" as I put the handset down on the table and work it out through a pen and pad of paper.  What a clever trick, 4 bits on, 4 bits off, sliding left-wise in a ring, it's an animation in a single byte with just a few operations for each frame. I pick up the handset "Can you come in for an interview tomorrow morning at 9am?"
 
+*Note: if you want to try his solution, I have provided it below in BASIC*
+```basic
+10 M = &HF0
+20 WHICH = " #"
+30 ROW = ""
+40 M1 = M
+50 FOR i = 0 TO 8
+60 M1 = M1 \ 2
+70 ROW = ROW + MID$(WHICH, M1 MOD 2 + 1, 1)
+80 NEXT i
+90 PRINT ROW; ROW; ROW; ROW;
+100 M = M * 2
+110 M = M OR ((NOT M) AND &H10) \ 16
+120 SLEEP 1
+130 CLS
+140 GOTO 30
+```
+
+
 He says "Absolutely!"
 
 And I hang up the phone.
@@ -406,8 +425,6 @@ You've earned your 6 months. Go build this."
 
 
 ---
-
-"What the hell is this thing?", I scoffed, "two terabytes of storage, on chip the size of my fingernail?". I looked at the convincing plastic rectangle festooned with logos and claiming "2TB" by some imaginary company named "Lenovo". Underneath it was bespeckled with tiny yellow colored teeth. I guess this prankster thought they could just slide it in like an Atari 2600 cartridge. Into what I have no idea. Getting 2 kilobytes in this form-factor would have been an accomplishment. It felt as fragile as a tortilla chip. 
 
 
  (1) the awkward monday, (2) the explanation of the future like it's obvious. A manual pretotyping. They make cardboard cutouts and index cards and then non technical people come in with pointer sticks to emulate a mouse and try to accomplish tasks as they go back and realize "OK we need pillboxes" or whatever bootstrap feature. (3) the storm of companies like Microsoft and apple working on their own version. (4) the discovery of espionage - a Microsoft agent has been in their midst (5) the customer feedback "we don't need this yet" "I'm not doing these things with my computer right now" (6) the boss discovering the smart phone and the microsd card. (7) Jay presenting a speculative future world holding his dead cell phone and saying "these will be common in the future" and laying out the world of the 2020s to the perplexing awe of the coworkers and saying he uses these to "imagine tomorrow" and (8) his exit back to the future.
