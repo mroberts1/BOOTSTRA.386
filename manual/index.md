@@ -294,11 +294,16 @@ It was like an alien just landed in my backyard. I have no idea who he is but I'
 
 I pick up the phone and dial the number. A man on the other line answers, "Hello?". All I say is "Marching ants?"
 
-He responds "Sure why not? Start with 0xF0, left shift, OR with NOT itself ANDED with 0x10 right shifted 4 bits and repeat. Works really nicely on the 68000 but the 8086 can do it too."
+He responds "Sure why not? Start with F0, shift left, OR with NOT itself ANDED with 0x10 shift right 4 bits and repeat. Works really nicely on the 68000 but the 8086 can do it too."
 
 I say "Hold on let me check that" as I put the handset down on the table and work it out through a pen and pad of paper.  What a clever trick, 4 bits on, 4 bits off, sliding left-wise in a ring, it's an animation in a single byte with just a few operations for each frame. I pick up the handset "Can you come in for an interview tomorrow morning at 9am?"
 
-*Note: if you want to try his solution, I have provided it below in BASIC*
+He says "Absolutely!"
+
+And I hang up the phone.
+
+*Note: if you want to try his solution, I have provided it below in BASIC:*
+
 ```basic
 10 M = &HF0
 20 WHICH = " #"
@@ -315,11 +320,6 @@ I say "Hold on let me check that" as I put the handset down on the table and wor
 130 CLS
 140 GOTO 30
 ```
-
-
-He says "Absolutely!"
-
-And I hang up the phone.
 
 The next day Mr. Peg is there promptly at 9 in jeans and a t-shirt. My team however, wander in around 9:30. I call it Friday-itis, a very contagious disease. 
 
