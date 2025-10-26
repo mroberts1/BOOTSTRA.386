@@ -1,1 +1,4 @@
-pandoc index.md -o mybook.pdf --pdf-engine=xelatex
+#!/bin/bash
+# sudo apt install texlive-extra-utils pandoc texlive-xetex texlive-fonts-recommended
+pandoc index.md -o bootstra.pdf --pdf-engine=xelatex
+pdfbook2 bootstra.pdf

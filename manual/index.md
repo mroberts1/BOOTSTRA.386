@@ -56,15 +56,17 @@ pandoc-latex-environment:
 
 # Preface
 
-It was Fall 1982, headquarters in Boston tasked us with a bringing the microcomputer to the general public. Their fever dream was a full-screen interface supporting pointing devices connected through any bus, full color displays, and running on everything from future palmtops to today's mainframes. Also, it has to fit on a single floppy and a non-technical person should be able to use it in minutes.
+It was Fall 1982. Headquarters in Boston tasked us with bringing the microcomputer to the mainstream. Their dream was a full-screen interface supporting pointing devices connected through any bus and color displays running on everything from future palmtops to today's mainframes. Also, they want it to fit on a single floppy and be usable by a non-technical person in minutes.
 
-The problem is nobody has built this. knows how to build that. We don't even know if today's micros are capable of such a feat. We were going to try it anyway.
+The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.
+
+We're going to try anyway.
 
 This is our story.
 
 # Planning Party
 
-When Nolan Bushnell sold Atari to start Chuck-E-Cheese a few years ago, we joked he was just going lower in the stack - providing the fuel to the fire on Sandhill Road. At least fuel to a team of ambitious engineers who I was eating late night pizza in Menlo Park on a Saturday night around New Year with.
+When Nolan Bushnell sold Atari to start Chuck-E-Cheese a few years ago, we joked he was just going lower in the stack - providing the fuel to the fire on Sandhill Road. At least fuel to a team of ambitious engineers who I was eating late night pizza in Menlo Park on a Saturday night shortly after Halloween.
 
 We were talking about the future of computing and how it was going to change the office of the 1990s. We had been passing around this book, Smalltalk-80, describing some personal office computers by Xerox, unrelated to their 500 series minicomputers, to be used by just a single non-technical person to do work in a way that obsoletes the mail room, switchboard, and even the secretary.
 
@@ -96,13 +98,15 @@ But like most of our Saturday night conversations this disappeared into the ethe
 
 # On The Road
 
-The drive on Sunday to Vegas was a bit much for the 1973 Winnebago. It was the only vehicle we could rent that had a power outlet. Plus it's pretty fun. Going to Comdex is kinda like camping. OK, not really, we have a hotel. Comdex is a crucial convention for the tech industry. If you miss it, then you might as well just go out of business.
+The drive on Sunday to Vegas was a bit much for the 1973 Winnebago but it was the only vehicle we could rent that had a power outlet. Plus it's pretty fun. Going to Comdex is kinda like camping. OK, not really, we have a hotel. 
 
-It's the one time a year that companies are foolish enough to demo unannounced products and on top of that, send the actual engineers that are working on them. They get exactly zero training on what not to say. If you showered them with enough attention, they'd probably give you their SYSOP password to show how clever they were.
+Comdex is a crucial convention for the tech industry. If you miss it, then you might as well just go out of business.
+
+It's the one time a year companies are foolish enough to demo unannounced products. On top of that, they send the actual engineers who are working on them. These people get exactly zero training on what not to say. If you shower them with enough attention they'd probably give you their SYSOP password to show how clever they were.
 
 Among engineers the only skill required for spy-craft is smiles and flattery. The biggest bets in Vegas that week are placed on the floor of the Convention Center.
 
-The back of the Winnebago has Hasegawa, Orion, Gilda and a fourth member, Thomas, sitting around 3 microcomputers as I drive down the I-5 past fields of food and cows. So many fragrant cows. Almost makes me want to go Vegetarian.
+The back of the Winnebago has Hasegawa, Orion, Gilda and a fourth member, Thomas, sitting around 3 microcomputers as I drive down the I-5 past fields of food and cows. So many fragrant cows. Almost makes me want to go vegetarian.
 
 If you haven't had the chance to use a computer yet, let me introduce you to the strangeness. You get a 40 pound box that you place on a table and plug into a wall. Then you flip a switch and it gets increasingly noisy until the box sounds like it needs muffler. The machine chirps a beep as the screen or television you plugged into turns on and, usually, you see an incrementing number in the top left. It will go up into the hundreds in increments of 16. This checks what is known as volatile memory, it's what the computer needs to shuffle things around in its brain.
 
@@ -441,7 +445,7 @@ There's all these details nobody talks about and you don't realize until you're 
 
 Even the lights are different. They have harsh bright glows and buzzing sounds, flickering like the lights in some kind of video game. And then there's the lack of phones of course. I've got mine back at the hotel room, sure, along with my modern laptop and USB power brick ... I wasn't going to travel completely empty-handed.
 
-But it's not just phones, it's screens in general. Small CRTs flicker everywhere with washed out color and have this high pitched squeal when you turn them on. 50 years ago can feel so familiar yet at the same time, so foreign. The NES version of Super Mario Bros is still 18 months in the future.
+But it's not just phones, it's screens in general. Small CRTs flicker everywhere with washed out color and have this high pitched squeal when you turn them on. 50 years ago can feel so familiar yet at the same time, so foreign. The NES version of Super Mario Bros is still years in the future.
 
 Knowing history doesn't give you the ability to change the future, only to become needlessly invested in the futility of your ability to affect it.
 
@@ -460,7 +464,7 @@ Photographs
 \begin{center}
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{jaybox.png}
-    \captionof{figure}{The now famous August 1983 'jaybox' demo photo by Hasegawa, originally included in his 1991 text *Pen Computing Design* which coined multi-touch rotation, pinch-zooming, and gestural swipes.}
+    \captionof{figure}{The now famous August 1983 Jaybox photo by Hasegawa originally included in his 1991 text Pen Computing Design which coined multi-touch rotation, pinch-zooming, and gestural swipes.}
     \label{fig:image1}
 \end{minipage}
 
@@ -468,7 +472,7 @@ Photographs
 
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{group.png}
-    \captionof{figure}{From Left to Right: Jay, Hasagawa, Orion, Gilda, and Chuck.}
+    \captionof{figure}{From Left to Right: Jay, Hasegawa, Orion, Gilda, and Chuck.}
     \label{fig:image2}
 \end{minipage}
 \end{center}
@@ -525,7 +529,7 @@ He looks back at me and around the office. Everyone is silent for a few seconds 
 
 I try to think fast, "It's, it's a ... a prop." 
 
-Jeff Hawkins, the creator of the Palm Pilot, during it's creation, carried around a wooden version of the Palm Pilot and would theatrically interact with it to try to make sure the device they were creating was genuinely useful. That's in the future so I can be Jeff Hawkins for now. I continue:
+Jeff Hawkins, the creator of the Palm Pilot, during its creation, carried around a wooden version of the Palm Pilot and would theatrically interact with it to try to make sure the device they were creating was genuinely useful. That's in the future so I can be Jeff Hawkins for now. I continue:
 
 "Eventually, I believe the computer for everybody will not sit on a desk but instead, be in the pocket. I had a prop machined to imagine what I believe such a device might look like, perhaps 50 years from now."
 
@@ -545,7 +549,7 @@ I see Gilda shake her head incredulously.
 
 I look around the room, this is somehow working.
 
-"Instead of a physical keyboard there's one on the screen itself, which is a multi-touch screen. I can type with my thumbs or gesturally slide over the letters. The box can handle that processing just fine. This allows a single device for any alphabet. Also it's a better use of space. When I don't need to type I get the whole screen to engage."
+"Instead of a physical keyboard there's one on the screen itself, which is multi-touch. I can type with my thumbs or gesturally slide over the letters. The box can handle that processing just fine. This allows a single device for any alphabet. Also it's a better use of space. When I don't need to type I get the whole screen to engage."
 
 "What's that on the back" Orion raises his finger.
 
@@ -559,11 +563,11 @@ I let the silence do the talking. "The possibilites, they are endless. Imagine b
 
 "Now, " I go on, clearly getting ahead of myself, "if everyone has one and if they all contact the same server for the navigation, you could offer traffic conditions because you know how fast the devices, and thus the vehicles are moving. You don't have to listen to the AM radio for traffic, you have every accident and slowdown updated in real time."
 
-Hasegawa whispers "yes I can see it. News, sports, bank transactions, shopping ... and entertainment. Why not watch a movie on it if things are that cheap? This is what we are all building towards: the jay box."
+Hasegawa whispers "yes I can see it. News, sports, bank transactions, shopping ... and entertainment. Why not watch a movie on it if things are that cheap? This is what we are all building towards: the jaybox."
 
 And with that, my phone took on a new name.  Quoting "The Dreams of Tomorrow":
 
-  The jaybox contained within it a multitude of paradox: generalized enough that anyone could use it, yet individuated enough so it is deeply personal, both connecting and isolating, a way to see the world and shut yourself off from it, a fundamental reconstruction of the social fabric. This wasn't just a device of convenience but a new social contract - a Gutenberg moment in our lifetime.
+> The *Jaybox* contained within it a multitude of paradox: generalized enough that anyone could use it, yet individuated enough so it is deeply personal, both connecting and isolating, a way to see the world and shut yourself off from it, a fundamental reconstruction of the social fabric. This wasn't just a device of convenience but a new social contract - a Gutenberg moment in our lifetime.  If, that is, we ever manage to build it.
 
 # The Return
 
@@ -655,4 +659,5 @@ My goal now has become to create software that I can interact with like Jay inte
 \raggedright 
 \tiny
 
-BOOSTRA/386: A User's Manual is a fictional work licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0)}.  You are free to share and adapt, provided you give appropriate credit. See creativecommons.org/licenses/by/4.0
+BOOSTRA/386: A User's Manual is a 2025 *fictional* work by Chris McKenzie. It is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  You are free to share and adapt, provided you give appropriate credit. See creativecommons.org/licenses/by/4.0, github.com/kristopolous
+
