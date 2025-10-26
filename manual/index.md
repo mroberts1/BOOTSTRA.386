@@ -157,9 +157,7 @@ We called in project Potemkin because we are really just scaffolding friendlier 
 
 We widely agreed this is the only viable way forward. We aren't large enough to command a position in every meaningful place in the marketplace so we must carve out our own. 
 
-## The problem with Thomas 
-
-## Boston Tea Party
+## Abort?
 90 days is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a porject manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
 
 This all sounds abstract and it is. Fred Brooks, of IBM OS/360 fame, coined software as "pure thought stuff". Building is making manifest things imagined. There's tons of ambiguities, problems, and miscommunications. Engineers are the ultimate Monkey's Paw and we find out how some ideas are only compelling as long as they remain imagined but once they become real, we have no interest. 
@@ -192,7 +190,74 @@ The meeting was over.  28 days is brutal.
 
 I should probably use that health insurance while I still have it.
 
-## The Hail Mary
+## Retry?
+
+So we threw a dart and hit the wall. Before we can find the bulls we need to locate the damn dart board.
+
+Luckily there's hundreds of companies a short drive away and a new computer just came on the market, the Compaq. Weighing a mere 30 pounds, it can be tossed ... ok, dragged, into the back of my AMC Eagle. Thomas was my wing-man here. His binders full of notes and insistence on milking every detail out of someone is exactly what we need for this journey. 
+
+By far the most interesting experience we had was at an Ashton-Tate satellite office in Mountain View. It really started like all of our other demos. We go through a script of questions, show a variety of features, ask some pointed survey questions and then have a free form discussion. 
+
+After greeting our contact, Donald, we were taken into a conference room with a glass wall. As we do our demo, we can see people walk up and down the hallway and then a boyish looking man in glasses with a pocket protector and slide rule does a double take. He steps back and knocks on the door and peers in looking at us. 
+
+"Greg! It's been forever!" the man exclaimed, walking right up to Thomas, who looks at him baffled. "I didn't know you left Microsoft! Last I heard, you were down in Albuquerque working on the graphics kernel for that new project. How’s Bill doing?"
+
+Thomas looks at him and says "I'm sorry?"
+
+The man replies "We spoke with you last month. You're working on that secret graphical system at Microsoft". 
+
+I had to interject, "I'm sorry. I don't mean to be rude. Thomas has been with us at BOOTSTRA for over a year. I'm sorry, I think you're mistaken... We do have our own graphical system if you'd like to see."
+
+The man steps back in confusion, his face turning red in embarrassment "I'm ... I'm sorry. You look and sound just like him. I'm so sorry for interrupting you. Excuse me. I'm so sorry Donald." 
+
+Thomas pauses and responds "Oh it's quite alright. I suppose I look like many people. No worries at all."
+
+The man says "Excuse me." and then leaves the room. 
+
+Donalds asks "Has that ever happened to you before?"
+
+Thomas shrugs and says "No, I can't say it has. I hope Greg is handsome."
+
+We all laugh and continue the demo.
+
+The day continues with diligence and we return to the office in the early afternoon. The Compaq stays in my trunk. It's a fine temporary home. 
+
+Thomas excuses himself for a smoke break and I go inside to meet with the rest of the team. I haven't disclosed this elsewhere but we have 16 people total. In negotations with the editors decided to exclude 12 for a variety of reasons, mostly because this text is long enough already. Regardless, I mention it here because I have a lot on my plate. There's QA, documentation, the device drivers team, I had completely forgotten to loop back in with Thomas.
+
+But then, the next day, he didn't come in. This happens occasionally. Employees can dissappear for a day. They can tell people and then we forget or they might get sick or have car issues and can't reach us ... but two days, that's when we get worried. I went around with one of those unnamed people that day to do my demo, someone from the documentation team. It was fine. Not as good as Thomas, but fine.
+
+But then he was missing a second day. That's when we start to reach out. The phone number on record is our go to. A woman picks up the phone. We say we're looking for Thomas. She says "Thomas?" then she pauses for a second almost as if she remembered something, "Oh yes, I'm his wife. I'm not supposed to tell you much." she says, her voice strained, "I can tell you that he's in good health and unfortunately is resigning from BOOTSTRA." and then hangs up the phone.
+
+Resigned? That's incredibly weird. I went to tell Orion. "Hey, Thomas resigned." Orion gives me a confused look, "Wow. Why?" I was completely baffled. "I don't know. We were doing the demos, then he left for a smoke break and never returned."
+
+"That's crazy" Orion responds, "Did you get in an argument with him?"
+
+"No", I respond. "I mean the demos aren't going that great. I didn't think he was unhappy though ... " I pause for a second, "You know, something kinda weird happened at Ashton-Tate. This engineer thought he was a guy named Greg from Microsoft." 
+
+I sit for a second and think. No, impossible.
+
+"Hey Orion, can you call this number and ask for Greg". I give him the number I just called. Orion says "ask for Greg?" 
+
+I don't know what I'm doing. "Just try it. Put it on speaker, I'll close the door"
+
+Orion dials the phone and we hear it over the conference line, "Hey is Greg there" he asks. "No, he's at work right now. Can I take a message?" the woman responds. Orion presses the mute, "what now?" 
+
+"Make up a name, say you're an old friend from Microsoft" I wave my hands, not knowing what to do. Orion unmutes, "Sure, just tell him Maxwell Smart, an old friend from Microsoft called, he should know my number". The woman says "No problem, I'm sure he'll be happy to hear from you". 
+
+"Ok thanks" Orion says and lifts the hand set and drops it.
+
+"Maxwell Smart? From Get Smart?" I say. Orion shrugs his shoulders, "Might as well use a spy name to spy."
+
+I ask Orion to stay in the room as I flip through my rolodex and call up Donald from Ashton-Tate. "Hey Donald, who was that guy who interrupted us? I see, can you transfer us" the line clicks and goes dead for a second, "Hi, this is Chuck, from BOOTSTRA, Don't worry, I'm not angry. Tell me a bit more about what you remember about Greg. Yes..."
+
+Pitman shorthand, smoking breaks, multiple pen colors, 3x5 index cards, it was stunningly accurate. Then he said the clincher "The craziest part about it. 8PM, not AM, PM meeting."
+
+I still find it hard to believe "How sure are you?". He replies "I have his business card right here. Greg Stillman, Features Research. Here call his home phone number" and he read off the number we just called, twice. 
+
+Orion and I froze. "I think we had a mole" Orion says. "That's incredible." the man says. "It's ok. Potemkin sucks anyway, we need to toss most of it in the garbage" I reply, "I hope I didn't cause issues for you at the office." the man laughs, "I don't work for Donald. It's fine." We thank him and hang up the phone.
+
+
+## Fail?
 
 Everyone has read Mythical Man-month, the idea that adding another developer too late in the game actually makes the product take longer.  The problem is it's April and we're basically right where we were at in the Tehachapi Denny's - not willing to clone VisiCorp and trying to move ahead. And now we not only have the Apple Lisa to deal with but thanks to Thomas we know that Microsoft is working on a graphical system as well. I'm sure IBM and Digital Research is in the game as well. 
 
@@ -204,27 +269,40 @@ It worked. That's all he needed.
 
 As I shuffle through the pile I see another unconventional one that catches my eye by a guy named "Jay". It's strange, just a letter and a phone number, no credentials, no work history, nothing else listed:
 
-  Hey Chuck,
+>
+>  Hi,
+>
+>  I know you're leaning back in your chair reading this trying to get yourself out of a jam. Nobody reads resumes unless
+>  they need somebody. I also know there's a lot of sharks in the waters your swimming in. IBM, Apple, Microsoft. How will 
+>  you break ahead and how can I help? 
+>
+>  Let me convince you with an innovation I call "marching ants". You have a selection area and you could just draw a box.
+>  
+>  The problem is you can't choose white because some things are white and you can't choose black because some things are black 
+>  and inverting things can be hard to see if the area is complex enough.
+>
+>  So, what about a light show? Alternate the pixels and then cycle them, providing the illusion of an animated rectangle to 
+>  delineate a selection like ants marching.
+>
+>  The code is easy. Your team probably has it written, they just need to call it. 
+>
+>  There's plenty more where that came from. Give me a call.
+>  ~Jay
+>
 
-  I know you're leaning back in your chair reading this trying to get yourself out of a jam. Nobody reads resumes unless
-  they need somebody. I also know there's a lot of sharks in the waters your swimming in. IBM, Apple, Microsoft. How will 
-  you break ahead and how can I help? 
+It was like an alien just landed in my backyard. I have no idea who he is but I've got the money and project is on its last legs with respect to time. So why not?
 
-  Let me convince you with a little innovation I call marching ants. You have a selection area and you could just draw a box.
-  
-  The problem is you can't choose white because some things are black and you can't choose black because some things are white and inverting things can also be hard to see if the area is complex enough.
+I pick up the phone and dial the number. A man on the other line answers, "Hello?". All I say is "Marching ants?"
 
-  So, what about a light show? Alternate the pixels and then cycle them, providing the illusion of an animated rectangle to delineate a selection like ants marching.
+He responds "Sure why not? Start with 0xF0, left shift, OR with NOT itself ANDED with 0x10 right shifted 4 bits and repeat. Works really nicely on the 68000 but the 8086 can do it too."
 
-  The code is easy. Your team probably has it written, they just need to call it. 
+I say "Hold on let me check that" as I put the handset down on the table and work it out through a pen and pad of paper.  What a clever trick, 4 bits on, 4 bits off, sliding left-wise in a ring, it's an animation in a single byte with just a few operations for each frame. I pick up the handset "Can you come in for an interview tomorrow morning at 9am?"
 
-  There's plenty more where that came from. Give me a call.
-  ~Jay
+He says "Absolutely!"
 
-It was like an alien in a UFO had just landed in my backyard. I have no idea who he is but I've got the money and project is on its last legs with respect to time. So why not?
+And I hang up the phone.
 
-I picked up the phone and dialed the number.
-
+The next day Mr. Peg is there promptly at 9 in jeans and a t-shirt. My team however, wander in around 9:30. I call it Friday-itis, a very contagious disease. 
 
 ---
 
