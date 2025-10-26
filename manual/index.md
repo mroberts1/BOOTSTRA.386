@@ -503,6 +503,7 @@ I lift the keyboard and find a team photograph I've included in this text and a 
 > I will miss you all. I hope all my time will be as special as it was with you.
 > 
 > Sincerely,
+>
 > Jay Peg   1983/08/14
 > 
 
