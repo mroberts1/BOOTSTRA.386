@@ -1,8 +1,60 @@
-# BOOSTRA/386: A User's Manual
+---
+title: BOOSTRA/386`\\`{=latex}A User's Manual
+author: Jay Peg
+documentclass: book
+fontsize: 11pt
 
-## Jay Peg
+# --- 1. CLASS OPTIONS (Controls Chapter Start) ---
+classoption:
+  - openright # Chapters start on the right-hand (odd-numbered) page.
 
-## Preface
+# --- 2. FONT CONFIGURATION (The Robust Path Method) ---
+# Use the simple font name for the main font path.
+mainfont: CrimsonText-Regular
+mainfontoptions:
+  # The Path= MUST be on its own line and MUST be unquoted.
+  - Path=/usr/share/fonts/truetype/google-fonts/SERIF/
+  
+  # The variants use only the filenames, appended to the Path above.
+  - BoldFont = CrimsonText-Bold.ttf
+  - ItalicFont = CrimsonText-Italic.ttf
+  - BoldItalicFont = CrimsonText-BoldItalic.ttf
+
+# --- 3. GEOMETRY (5.5" x 8.5" Page Size) ---
+geometry:
+  - paperheight=8.5in
+  - paperwidth=5.5in
+  - twoside
+  - inner=0.55in
+  - outer=0.5in
+  - top=0.5in
+  - bottom=0.7in
+  - bindingoffset=0.25in
+
+# --- 4. PROFESSIONAL CHAPTER FORMATTING (FIXED Line Break Error) ---
+header-includes:
+  - \usepackage{caption}
+  - \usepackage{graphics}
+  - \usepackage{grffile}
+  - \usepackage{microtype}
+  - \usepackage{titlesec}
+  - \usepackage{comment}
+  - \usepackage{url}
+  - \usepackage{lettrine} # For the optional drop cap
+
+  # FIX: Redefines the chapter title display style (without problematic trailing command)
+  - \titleformat{\chapter}[display]{\normalfont\Large\centering}{\MakeUppercase{\chaptertitlename}\ \thechapter}{0.5em}{\Huge} 
+
+  - \newcommand{\hTwoFormat}{\clearpage\centering\bfseries}
+
+  # FIX: Safely defines the vertical spacing AFTER the title (eliminates the "no line to end" error)
+  - \titlespacing*{\chapter}{0pt}{100pt}{1.5\baselineskip}
+
+pandoc-latex-environment:
+  section: hTwoFormat
+---
+
+# Preface
 
 It was Fall 1982, headquarters in Boston tasked us with a bringing the microcomputer to the general public. Their fever dream was a full-screen interface supporting pointing devices connected through any bus, full color displays, and running on everything from future palmtops to today's mainframes. Also, it has to fit on a single floppy and a non-technical person should be able to use it in minutes.
 
@@ -10,7 +62,7 @@ The problem is nobody has built this. knows how to build that. We don't even kno
 
 This is our story.
 
-## Planning Party
+# Planning Party
 
 When Nolan Bushnell sold Atari to start Chuck-E-Cheese a few years ago, we joked he was just going lower in the stack - providing the fuel to the fire on Sandhill Road. At least fuel to a team of ambitious engineers who I was eating late night pizza in Menlo Park on a Saturday night around New Year with.
 
@@ -42,7 +94,8 @@ This is one of my most common analytical tools when I'm trying to assess product
 
 But like most of our Saturday night conversations this disappeared into the ether as fever dreams of future imaginaries fueled by fantasy and confusion.
 
-## On the road
+# On The Road
+
 The drive on Sunday to Vegas was a bit much for the 1973 Winnebago. It was the only vehicle we could rent that had a power outlet. Plus it's pretty fun. Going to Comdex is kinda like camping. OK, not really, we have a hotel. Comdex is a crucial convention for the tech industry. If you miss it, then you might as well just go out of business.
 
 It's the one time a year that companies are foolish enough to demo unannounced products and on top of that, send the actual engineers that are working on them. They get exactly zero training on what not to say. If you showered them with enough attention, they'd probably give you their SYSOP password to show how clever they were.
@@ -65,7 +118,7 @@ Everyone assumes this will be inevitable and people will do all kinds of things 
 
 As I cut across to Bakersfield I adjust the rear view mirror to see the young engineers fully bought into this implausible future. But little did I know, that in 24 hours, a single demo on the floor of the Las Vegas Convention center would make me believe it as well.
 
-## Visi-on Vision
+# Visi-on Vision
 
 Comdex isn't open to the public but that hasn't stopped it from becoming one of the largest events in Vegas. Wyse, Tandy, Olivetti, all have massive labyrinthian displays. We break up the team to start investigating.
 
@@ -119,7 +172,7 @@ As we hop into the Winnebago to go off and find some place to eat, my team can't
 
 I look back and we are at a consensus. We don't need to stay in Vegas another day. Forget the food, we got what we came for. It's time to go back to Menlo Park.
 
-## Menlo Return 
+# Menlo Return 
 
 I was tired. Probably too tired for the all night drive back through the desert and up the I-5. The Winnebago had two beds and luckily Hasegawa was up for trading off on the drive. I can't sleep though. I hear everyone talking as my head fills with anxiety.
 
@@ -149,7 +202,7 @@ I respond, "We have time. Not much. But we have some. At least enough to finish 
 
 And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7am November weather of Northern California. Everyone else had gone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
 
-## Version 0.0: Potemkin
+# Version 0.0: Potemkin
 
 MS-DOS function requests are done in 2 bytes. There's a catalog of what each of these codes mean. 09H (that's in base-16, don't ask) for instance, is "Display string" where "string" means a string of characters, as in some sentence. 16H is "Create file" and so on. What our team is trying to do is map each of these to their graphical equivalent. What would that look like in a VisiCorp like system? The idea is that then our traditional DOS program will, if we can say, magically transform to a graphical one with our technology.
 
@@ -157,7 +210,8 @@ We called in project Potemkin because we are really just scaffolding friendlier 
 
 We widely agreed this is the only viable way forward. We aren't large enough to command a position in every meaningful place in the marketplace so we must carve out our own. 
 
-## Abort?
+# Abort?
+
 90 days is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a project manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
 
 This all sounds abstract and it is. Fred Brooks, of IBM OS/360 fame, coined software as "pure thought stuff". Building is making manifest things imagined. There's tons of ambiguities, problems, and miscommunications. Engineers are the ultimate Monkey's Paw and we find out how some ideas are only compelling as long as they remain imagined but once they become real, we have no interest. 
@@ -190,7 +244,7 @@ The meeting was over.  28 days is brutal.
 
 I should probably use that health insurance while I still have it.
 
-## Retry?
+# Retry?
 
 So we threw a dart and hit the wall. Before we can find the bullseye we apparently need to locate the dart board.
 
@@ -257,7 +311,7 @@ I still find it hard to believe "How sure are you?". He replies "I have his busi
 Orion and I froze. "I think we had a mole" Orion says. "That's incredible." the man says. "It's ok. Potemkin sucks anyway, we need to toss most of it in the garbage" I reply, "I hope I didn't cause issues for you at the office." the man laughs, "I don't work for Donald. It's fine." We thank him and hang up the phone.
 
 
-## Fail?
+# Fail?
 
 Everyone has read Mythical Man-month, the idea that adding another developer too late in the game actually makes the product take longer.  The problem is it's February and we're basically right where we were at in the Tehachapi Denny's - not willing to clone VisiCorp and trying to move ahead. And now we not only have the Apple Lisa to deal with but thanks to Thomas we know that Microsoft is working on a graphical system as well. I'm sure IBM and Digital Research is in the game as well. 
 
@@ -359,7 +413,8 @@ I shrug my shoulders and look around the room, "Alright, fuck it." I pause and l
 
 Orion murmurs in disbelief, "We should get the security guard in here and see if that drawing makes sense to her as well".
 
-## Jay's world
+# Jay's World
+
 Everyone thinks time travel is going to be glamorous but really, you go back to a time before you were born as nobody. 
 
 No friends, bank account, connections, place to live... 
@@ -388,13 +443,40 @@ Even the lights are different. They have harsh bright glows and buzzing sounds, 
 
 But it's not just phones, it's screens in general. Small CRTs flicker everywhere with washed out color and have this high pitched squeal when you turn them on. 50 years ago can feel so familiar yet at the same time, so foreign. The NES version of Super Mario Bros is still 18 months in the future.
 
-
----
-
-
 Knowing history doesn't give you the ability to change the future, only to become needlessly invested in the futility of your ability to affect it.
 
-## Boston returns
+
+------
+
+\clearpage
+\begin{center}
+\vspace*{1.5em}
+\bfseries\large
+
+Photographs
+
+\hfill
+\end{center}
+\begin{center}
+\begin{minipage}[t]{0.80\textwidth}
+    \includegraphics[width=\textwidth]{jaybox.png}
+    \captionof{figure}{The now famous August 1983 'jaybox' demo photo by Hasegawa, originally included in his 1991 text *Pen Computing Design* which coined multi-touch rotation, pinch-zooming, and gestural swipes.}
+    \label{fig:image1}
+\end{minipage}
+
+\vspace{1.5em}
+
+\begin{minipage}[t]{0.80\textwidth}
+    \includegraphics[width=\textwidth]{group.png}
+    \captionof{figure}{From Left to Right: Jay, Hasagawa, Orion, Gilda, and Chuck.}
+    \label{fig:image2}
+\end{minipage}
+\end{center}
+
+
+
+
+# Boston II
 
 Silicon Valley didn't really become tech center until the 1990s. The corporate office is in a neoclassical brick building off Route 128 where everyone still dresses in suits, even on Friday. We enter the executive conference room with our duffelbag
 
@@ -431,7 +513,7 @@ You've earned your 6 months. Go build this."
 
 --
 
-## The jay box
+# The Jay Box
 
 I walk back from lunch into the office and break out into a cold sweat. Chuck is sitting there holding my dead Android phone looking it over. I shouldn't have had that in my backpack. I was listening to music last week and forgot to take it out. Damn it, damn it, damn it.
 
@@ -483,7 +565,8 @@ And with that, my phone took on a new name.  Quoting "The Dreams of Tomorrow":
 
   The jaybox contained within it a multitude of paradox: generalized enough that anyone could use it, yet individuated enough so it is deeply personal, both connecting and isolating, a way to see the world and shut yourself off from it, a fundamental reconstruction of the social fabric. This wasn't just a device of convenience but a new social contract - a Gutenberg moment in our lifetime.
 
-## The Return
+# The Return
+
 It was time for me to go. Literally. In 6 months, I built BOOTSTRA/386 and now it my window to leave. I had heard about the legendary Jay with no last name who had brought the microcomputer to the masses and really, during that interview I just used the name as a joke. 
 
 That's always the problem with time-travel, did I become my future reality? Was it inevitable or did I build it? I've entered the grandfather paradox of technology. Maybe putting "Quit" in the File drop down is actually a bad idea. Who knows? It's too late now. The sands of time sweep through all our fingers the same. Windows close before we realize they were ever open and opportunities enter the world of imagined counterfactuals. 
@@ -496,7 +579,7 @@ But now, I look on my own works, however mighty, and all they fill me with is de
 
 I set my time machine and I pull the lever.
 
-## Epilogue: The final shock-a-roo
+# Epilogue`\\`{=latex}The Final Shock-A-Roo
 
 Monday came by and Jay didn't come in for work. No calls, no contact. We assume he is sick. Would he quit before the release? No. After the demo? No. On Tuesday when there was still no Jay we decided to investigate.
 
@@ -545,17 +628,10 @@ The ideal tools are free of this negotiated cadence - they under-ask yet over-de
 My goal now has become to create software that I can interact with like Jay interacted with me. That, to quote Kidder's famous work, is My Dream of Tomorrow.
 
 
-<img width="768" height="512" alt="group" src="https://github.com/user-attachments/assets/35fe878b-2f64-47df-8859-ff2708011ec5" />
-From Left to Right: Jay, Hasagawa, Orion, Gilda, and Chuck
-
-
-
-<img width="495" height="480" alt="Untitled" src="https://github.com/user-attachments/assets/fd98acbc-f325-43c6-b852-f1f49a37f5fe" />
-Here's the now famous August 1983 'jaybox' demo photo by Hasegawa, originally included in his 1991 text "Pen Computing Design" which coined multi-touch rotation, pinch-zooming, and gestural swipes.
 
 ---
 
-## Bibliography
+# Bibliography
 
 * "Bootstrapping the World: An Oral History," *BYTE Magazine*, October 1985
 * Frederick P. Brooks, *The Mythical Man-Month: Essays on Software Engineering* (Addison-Wesley, 1975)
@@ -572,3 +648,11 @@ Here's the now famous August 1983 'jaybox' demo photo by Hasegawa, originally in
 * Ted Nelson, *Literary Machines* (1981)
 * Ivan Sutherland, *Sketchpad: A Man-Machine Graphical Communication System* (1963)
 * John Walker, *Inside Autodesk* (1989)
+
+\vspace*{0pt}
+\vfill      
+
+\raggedright 
+\tiny
+
+BOOSTRA/386: A User's Manual is a fictional work licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0)}.  You are free to share and adapt, provided you give appropriate credit. See creativecommons.org/licenses/by/4.0

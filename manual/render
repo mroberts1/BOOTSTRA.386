@@ -1,0 +1,1 @@
+pandoc index.md -o mybook.pdf --pdf-engine=xelatex
