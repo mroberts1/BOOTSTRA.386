@@ -43,7 +43,7 @@ This is one of my most common analytical tools when I'm trying to assess product
 But like most of our Saturday night conversations this disappeared into the ether as fever dreams of future imaginaries fueled by fantasy and confusion.
 
 ## On the road
-The drive on Sunday to Vegas was a bit much for the 1973 Winnebago. It was the only vehicle we could rent that could take a power. Going to Comdex is kinda like camping. OK, not really, we had a hotel. It's actually a crucial convention for the tech industry. If you miss it, then you might as well just go out of business.
+The drive on Sunday to Vegas was a bit much for the 1973 Winnebago. It was the only vehicle we could rent that had a power outlet. Plus it's pretty fun. Going to Comdex is kinda like camping. OK, not really, we have a hotel. Comdex is a crucial convention for the tech industry. If you miss it, then you might as well just go out of business.
 
 It's the one time a year that companies are foolish enough to demo unannounced products and on top of that, send the actual engineers that are working on them. They get exactly zero training on what not to say. If you showered them with enough attention, they'd probably give you their SYSOP password to show how clever they were.
 
@@ -192,15 +192,15 @@ I should probably use that health insurance while I still have it.
 
 ## Retry?
 
-So we threw a dart and hit the wall. Before we can find the bulls we need to locate the damn dart board.
+So we threw a dart and hit the wall. Before we can find the bullseye we apparently need to locate the dart board.
 
-Luckily there's hundreds of companies a short drive away and a new computer just came on the market, the Compaq. Weighing a mere 30 pounds, it can be tossed ... ok, dragged, into the back of my AMC Eagle. Thomas was my wing-man here. His binders full of notes and insistence on milking every detail out of someone is exactly what we need for this journey. 
+Luckily there's hundreds of companies a short drive away and a new computer just came on the market, the Compaq "portable". Weighing a mere 30 pounds, it can be tossed ... ok, dragged, into the back of my AMC Eagle. Thomas was my wing-man here. His binders full of notes and insistence on milking every detail out of someone is exactly what we need for this journey. 
 
 By far the most interesting experience we had was at an Ashton-Tate satellite office in Mountain View. It really started like all of our other demos. We go through a script of questions, show a variety of features, ask some pointed survey questions and then have a free form discussion. 
 
 After greeting our contact, Donald, we were taken into a conference room with a glass wall. As we do our demo, we can see people walk up and down the hallway and then a boyish looking man in glasses with a pocket protector and slide rule does a double take. He steps back and knocks on the door and peers in looking at us. 
 
-"Greg! It's been forever!" the man exclaimed, walking right up to Thomas, who looks at him baffled. "I didn't know you left Microsoft! Last I heard, you were down in Albuquerque working on the graphics kernel for that new project. How’s Bill doing?"
+"Greg! Funny seeing you here!" the man exclaims, walking right up to Thomas, who looks at him baffled. "I didn't know you left Microsoft! We met in the East Bay. You were working on the graphics kernel for that new project. How’s Bill doing?"
 
 Thomas looks at him and says "I'm sorry?"
 
