@@ -1,3 +1,7 @@
+# BOOSTRA/386: A User's Manual
+
+## Jay Peg
+
 ## Preface
 
 It was late 1982, headquarters in Boston tasked us with a bringing the microcomputer to the general public. Their fever dream was a full-screen interface supporting pointing devices connected through any bus, full color displays, and running on everything from future palmtops to today's mainframes. Also, it has to fit on a single floppy and a non-technical person should be able to use it in minutes.
@@ -198,7 +202,7 @@ Going through resumes is hard. The method I've landed on is "do I want to talk t
 
 It worked. That's all he needed. 
 
-As I shuffle through the pile I see another unconventional one that catches my eye by a guy named "Claude". It's strange, just a letter and a phone number, no credentials, no work history, nothing else listed:
+As I shuffle through the pile I see another unconventional one that catches my eye by a guy named "Jay". It's strange, just a letter and a phone number, no credentials, no work history, nothing else listed:
 
   Hey Chuck,
 
@@ -215,7 +219,7 @@ As I shuffle through the pile I see another unconventional one that catches my e
   The code is easy. Your team probably has it written, they just need to call it. 
 
   There's plenty more where that came from. Give me a call.
-  ~Claude
+  ~Jay
 
 It was like an alien in a UFO had just landed in my backyard. I have no idea who he is but I've got the money and project is on its last legs with respect to time. So why not?
 
@@ -252,13 +256,13 @@ Now Mike comes from 20 years at Woolworth's, he's en excellent sales guy but rea
 
 Everyone's mouth is open in shock as the only sound I hear is Michael's squeaky shoes stepping down the carpeted hallway walking away.
 
-I shrug my shoulders and look around the room, "Alright, fuck it." I pause and look for negative reaction. Seeing none, I continue "I guess you're hired. See you Monday 9 am. You go by Claude right?"
+I shrug my shoulders and look around the room, "Alright, fuck it." I pause and look for negative reaction. Seeing none, I continue "I guess you're hired. See you Monday 9 am. You go by Jay right?"
 
 "Yeah."
 
 Orion murmurs in disbelief, "We should get the security guard in here and see if that drawing makes sense to her as well".
 
-## Claude's world
+## Jay's world
 Everyone thinks time travel is going to be glamorous but really, you go back to a time before you were born as nobody. 
 
 No friends, bank account, connections, place to live... 
@@ -271,13 +275,13 @@ But that money and the rest of the stuff in my Samsonite really doesn't last lon
 
 What I need is a job. 
 
-Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I had always admired BOOTSTRA Technologies as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece on its development.
+Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I had always admired BOOTSTRA Technologies as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece, The Dreams of Tomorrow on its development.
 
 I wanted to be there, on those team, in those rooms, involved in those conversations. The artistry, audacity, and irreverence of the early computing revolution before it became the oppressive taste-maker has always captured my interest.
 
 I had forgotten that revolutionaries are controversial at best and being dismissed is the more common response. There was only one Steve Jobs and he ain't me. I was about to learn that the hard way, or maybe, not at all. Regardless, I'm up for the challenge.
 
-The cheap motel I'm staying in is going to be torn down after the Loma Linda earthquake and replaced with a mall. That will then get torn down and replaced with a 5-over-1 in 2028. Right now, however, it's $19.99/night. 1983 prices, gotta love them.
+The cheap motel I'm staying in is going to be torn down after the Loma Pieta earthquake and replaced with a mall. That will then get torn down and replaced with a 5-over-1 in 2028. Right now, however, it's $19.99/night. 1983 prices, gotta love them.
 
 After landing the job I had a weekend to kill. It's weird to walk around the place you grew up in and see a bunch of things you don't recognize. My favorite third-wave coffee house is a music store with the name "Sam Goody", in the distance all I see is smog and the most exotic foreign food I can find is sushi.
 
@@ -328,12 +332,64 @@ You've earned your 6 months. Go build this."
 "What the hell is this thing?", I scoffed, "two terabytes of storage, on chip the size of my fingernail?". I looked at the convincing plastic rectangle festooned with logos and claiming "2TB" by some imaginary company named "Lenovo". Underneath it was bespeckled with tiny yellow colored teeth. I guess this prankster thought they could just slide it in like an Atari 2600 cartridge. Into what I have no idea. Getting 2 kilobytes in this form-factor would have been an accomplishment. It felt as fragile as a tortilla chip. 
 
 
- (1) the awkward monday, (2) the explanation of the future like it's obvious. A manual pretotyping. They make cardboard cutouts and index cards and then non technical people come in with pointer sticks to emulate a mouse and try to accomplish tasks as they go back and realize "OK we need pillboxes" or whatever bootstrap feature. (3) the storm of companies like Microsoft and apple working on their own version. (4) the discovery of espionage - a Microsoft agent has been in their midst (5) the customer feedback "we don't need this yet" "I'm not doing these things with my computer right now" (6) the boss discovering the smart phone and the microsd card. (7) Claude presenting a speculative future world holding his dead cell phone and saying "these will be common in the future" and laying out the world of the 2020s to the perplexing awe of the coworkers and saying he uses these to "imagine tomorrow" and (8) his exit back to the future.
+ (1) the awkward monday, (2) the explanation of the future like it's obvious. A manual pretotyping. They make cardboard cutouts and index cards and then non technical people come in with pointer sticks to emulate a mouse and try to accomplish tasks as they go back and realize "OK we need pillboxes" or whatever bootstrap feature. (3) the storm of companies like Microsoft and apple working on their own version. (4) the discovery of espionage - a Microsoft agent has been in their midst (5) the customer feedback "we don't need this yet" "I'm not doing these things with my computer right now" (6) the boss discovering the smart phone and the microsd card. (7) Jay presenting a speculative future world holding his dead cell phone and saying "these will be common in the future" and laying out the world of the 2020s to the perplexing awe of the coworkers and saying he uses these to "imagine tomorrow" and (8) his exit back to the future.
 
 --
 
+## The jay box
 
-It was time for me to go. Literally. In 6 months, I built BOOTSTRA/386 and now it my window to leave. I had heard about the legendary Claude with no last name who had brought the microcomputer to the masses and really, during that interview I just used the name as a joke. 
+I walk back from lunch into the office and break out into a cold sweat. Chuck is sitting there holding my dead Android phone looking it over. I shouldn't have had that in my backpack. I was listening to music last week and forgot to take it out. Damn it, damn it, damn it.
+
+"Hey Jay, sorry, I had to get that report from your bag and I couldn't wait." he stops as he drags his finger over the corner of the phone, "I couldn't help but notice this plastic and glass box. I thought it was a mirror but it's got these buttons and this port, what is this thing?" 
+
+OK fine, gig is up. There was nothing else I could do. I make eye contact with him and say "Chuck, I'm a time traveler." 
+
+He looks back at me and around the office. Everyone is silent for a few seconds and then they all start laughing, "That's hilarious." he pauses as he looks at it again, "No really, what is this thing?"
+
+I try to think fast, "It's, it's a ... a prop." 
+
+Jeff Hawkins, the creator of the Palm Pilot, during it's creation, carried around a wooden version of the Palm Pilot and would theatrically interact with it to try to make sure the device they were creating was genuinely useful. That's in the future so I can be Jeff Hawkins for now. I continue:
+
+"Eventually, I believe the computer for everybody will not sit on a desk but instead, be in the pocket. I had a prop machined to imagine what I believe such a device might look like, perhaps 50 years from now."
+
+Chuck rotates the phone and looks interested at it. "Stand up, put it in your pocket, see how it feels" I announce, a bit more confident this might actually work.
+
+Chuck rises up and places the phone in his pocket and says "wow, this isn't that bad at all. It fits quite comfortably. I can remove it, place it in my hand, look at the screen and ... well how do I type? Do I talk to it?"
+
+I respond "No you uh ..." and I see everyone has stopped work and is looking at me now, "let's go to the conference room."
+
+Chuck hands me back my "prop" and we shuffle off to the main room where I am front and center, trying to explain myself out of this one.
+
+"Let's imagine everything that constrains us is gone." I start as I scribble on the black board, "Instead of 640KB, we have Gigabytes, or even Terabytes of memory and terabytes of storage as well - practically endless." People are on the edge of their seat listening to this banter so I continue, "not only, but let's also assume that computation and graphics are easily solved. I can do full motion video, 3d scenes, supercomputer level computation. And just to be crazy let's also assume that I can communicate via radio frequencies, on the order of hundreds of megabytes a second."
+
+I see Gilda shake her head incredulously.
+
+"And since we are in the distant future, this is all utterly affordable. I can get the device itself for about the cost of a microwave or nice pair of running shoes and the service for about the monthly subscription to a newspaper." I breath in heavily, "well, I have done this exercise and I think it will look something like this." as I hold the dead phone up presenting it.
+
+I look around the room, this is somehow working.
+
+"Instead of a physical keyboard there's one on the screen itself, which is a multi-touch screen. I can type with my thumbs or gesturally slide over the letters. The box can handle that processing just fine. This allows a single device for any alphabet. Also it's a better use of space. When I don't need to type I get the whole screen to engage."
+
+"What's that on the back" Orion raises his finger.
+
+Without missing a beat I say "Ah that! That's for digital photography and videography." Hawegawa starts snapping photos as I continue, "this is about the size of an instamatic if you rotate it on its side" as I hold the phone in landscape mode, "see these buttons on top can be contextual. Sometimes it can raise volume, other times it can power the device or snap pictures, it all depends on what mode you are in."
+
+And then, "after you snap your picture you have it on the screen and can use the radio network to send it to someone or even share it publicly by uploading it to a server, all with a few strokes of the thumbs, in seconds."
+
+"Incredible" Chuck mouths as I see Kidder slip into the room fervantly writing down notes. "So the schedulebook problem, it's solved by this" I go on, "Your communal calendar automatically updates and people can RSVP for your meetings electronically... In fact", I speak slowly and deliberately, "the entire meeting can happen on the box. Look at this notch in the front, it's a second camera lens, this one faces the user. All the meeting attendants start the conference program and hold the box up at the scheduled time and they enter a virtual meeting space where they can collaborate like a party line"
+
+I let the silence do the talking. "The possibilites, they are endless. Imagine biometric authentication, paying for things via a cryptographic radio protocol, just hovering the device over a payment terminal. Or what about navigation? Imagine a constellation of geo-stationary satellites where you can triangulate your position, super-impose it on top of a map, which is constantly updated from a remote server, and then have it suggest a navigational route."
+
+"Now, " I go on, clearly getting ahead of myself, "if everyone has one and if they all contact the same server for the navigation, you could offer traffic conditions because you know how fast the devices, and thus the vehicles are moving. You don't have to listen to the AM radio for traffic, you have every accident and slowdown updated in real time."
+
+Hasegawa whispers "yes I can see it. News, sports, bank transactions, shopping ... and entertainment. Why not watch a movie on it if things are that cheap? This is what we are all building towards: the jay box."
+
+And with that, my phone took on a new name.  Quoting "The Dreams of Tomorrow":
+
+  The jaybox contained within it a multitude of paradox: generalized enough that anyone could use it, yet individuated enough so it is deeply personal, both connecting and isolating, a way to see the world and shut yourself off from it, a fundamental reconstruction of the social fabric. This wasn't just a device of convenience but a new social contract - a Gutenberg moment in our lifetime.
+
+## The Return
+It was time for me to go. Literally. In 6 months, I built BOOTSTRA/386 and now it my window to leave. I had heard about the legendary Jay with no last name who had brought the microcomputer to the masses and really, during that interview I just used the name as a joke. 
 
 That's always the problem with time-travel, did I become my future reality? Was it inevitable or did I build it? I've entered the grandfather paradox of technology. Maybe putting "Quit" in the File drop down is actually a bad idea. Who knows? It's too late now. The sands of time sweep through all our fingers the same. Windows close before we realize they were ever open and opportunities enter the world of imagined counterfactuals. 
 
@@ -343,24 +399,69 @@ I came empty-handed and now I will leave them empty, a mystery of the ages. We w
 
 But now, I look on my own works, however mighty, and all they fill me with is despair.
 
-I set my time machine for 2025 and I pull the lever.
+I set my time machine and I pull the lever.
+
+## Epilogue: The final shock-a-roo
+
+Monday came by and Jay didn't come in for work. No calls, no contact. We assume he is sick. Would he quit before the release? No. After the demo? No. On Tuesday when there was still no Jay we decided to investigate.
+
+I drive over to his place and find the door unlocked. All his stuff is there, untouched but he is not. His car sits in the driveway. The hood is cold. 
+
+With nothing much more to go on I go to the police and fill out a missing person's form. Then I go to work.
+
+Wednesday morning around noon I get a call from the police. What I heard made me think we had another Thomas on our hands. The social security number? Fake - not scheduled to be issued for decades. Nothing matched real information at least as far as the police were concerned. I didn't know what to do. I leave work early that day in a daze and head back to the apartment and knock on the manager's door. I give her the situation and she's just as shocked as I am.
+
+Her info on him matches ours. We go to open his mailbox to investigate and a flood of unopened mail comes pouring out addressed to previous tenants. It looks like he has never opened the box. The samsonite suitcase he brought to Boston was gone. 
+
+I walk over to his PC, which is still up and running and flick on the monitor. On it is a black screen with the text: "Look Under Keyboard. This Page Intentionally Left Blank".
+
+I lift the keyboard and find a mysterious prop about the size of my fingernail. It's a delicate plastic chip labeled "SanDisk Extreme Plus" and has a large "4" followed by the letter "TB". On the underside are metal contacts, like you'd find on an Atari game, 8 of them with 2 slightly longer. There's a slight plastic notch on the side. If he was trying to tell me something he failed.
+
+"He's gone" I announce Thursday morning at our "standup" meeting as I hold up the prop. "All I found was this thing. I can't make heads or tails out of it. I guess this is the finall shock-a-roo."
+
+Hasegawa, who is leaning back in his chair, chokes on his coffee as he sits forward. "Sharaku!" he blurts out. "It's Sharaku, not shock-a-roo." We all look confused.
+
+Hasegawa clears his throat, "Sharaku Toshusai is a legendary Ukiyo-e artist in Japan. He came from nowhere, revolutionized Japanese art. He was the first to show the human side of the actors, the unflattering wrinkles and imperfections - not as we imagine but as they are. As a result his art appear more real, more authentic to life. You can see the full human in his work. But then, 10 months later, he dissappears without a trace. Nobody knows who he is, all we have are the prints. Children in Japan are told tales about him as a magical fox in school..."
+
+We sit in silence for a few minutes and realize he's gone, intentionally.  Hasegawa looks at me, "Press any key to continue" he stutters. 
+
+To this day I still have no idea what happened to Jay and sadly I somehow misplaced his mysterious prop. Maybe one day I'll find it, hopefully.
+
+As the months and years go by I increasingly realize Sharaku is a metaphor for the computer itself. You want it to empower you but not have power over you, for you to be able to influence it and not necessarily have it influence you. 
+
+It's moreover the philosophy of tools: they exist to bring harmony to your life. They need to exit before they're disruptive or a nuisance. 
+
+But of course, there's a lot of money to be made, a lot of power to be had by broken tools: they hold your attention hostage as you chase fleeting harmony - one they temporarily bequeath you at a cost like some kind of narcotic. These tools are fundamentally disingenous, facilitators of habitual self-abuse in the name of expedience. This is probably what television is.
+
+The ideal tools are free of this negotiated cadence - they under-ask yet over-deliver and facilitate without exploitation. That's what I want to have exist in the world.
+
+My goal now has become to create software that I can interact with like Jay interacted with me. That, to quote Kidder's famous work, is My Dream of Tomorrow.
 
 
 <img width="768" height="512" alt="group" src="https://github.com/user-attachments/assets/35fe878b-2f64-47df-8859-ff2708011ec5" />
-From Left to Right: Claude, Hasagawa, Orion, Gilda, and Chuck
+From Left to Right: Jay, Hasagawa, Orion, Gilda, and Chuck
 
 
 
 <img width="495" height="480" alt="Untitled" src="https://github.com/user-attachments/assets/fd98acbc-f325-43c6-b852-f1f49a37f5fe" />
-Here's the now famous September 1983 'Claude-box' demo photo by Hasegawa, originally included in his 1991 text "Pen Computing Design" which coined multi-touch rotation, pinch-zooming, and gestural swipes.
+Here's the now famous September 1983 'jaybox' demo photo by Hasegawa, originally included in his 1991 text "Pen Computing Design" which coined multi-touch rotation, pinch-zooming, and gestural swipes.
 
 ---
 
+## Bibliography
 
-"Abort, Retry, Fail?" isn't just a DOS-error, it's the core contention of our business.
-shock-a-roo
-sharaku
-Sincerely,
-C:\> aude
-
-
+* "Bootstrapping the World: An Oral History," *BYTE Magazine*, October 1985
+* Frederick P. Brooks, *The Mythical Man-Month: Essays on Software Engineering* (Addison-Wesley, 1975)
+* Douglas Engelbart, *Augmenting Human Intellect: A Conceptual Framework* (SRI, 1962)
+* C. Fisher, *Visions of the Interface* (MIT Press, 1985)
+* S. Hasegawa, *Pen Computing Design* (1991)
+* Alan Kay, *The Reactive Machine* (Xerox PARC Technical Report, 1982)
+* Tracy Kidder, *The Soul of a New Machine* (1981)
+* Tracy Kidder, *The Dreams of Tomorrow* (Houghton Mifflin, 1986)
+* Brenda Laurel, *Computers as Theatre* (Addison-Wesley, 1991)
+* J.C.R. Licklider, *Man-Computer Symbiosis* (1960)
+* B. Meyer, *Object-Oriented Software Construction* (1988)
+* Ted Nelson, *Computer Lib / Dream Machines* (1974)
+* Ted Nelson, *Literary Machines* (1981)
+* Ivan Sutherland, *Sketchpad: A Man-Machine Graphical Communication System* (1963)
+* John Walker, *Inside Autodesk* (1989)
