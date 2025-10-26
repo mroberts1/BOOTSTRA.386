@@ -493,9 +493,20 @@ Her info on him matches ours. We go to open his mailbox to investigate and a flo
 
 I walk over to his PC, which is still up and running and flick on the monitor. On it is a black screen with the text: "Look Under Keyboard. This Page Intentionally Left Blank".
 
-I lift the keyboard and find a mysterious prop about the size of my fingernail. It's a delicate plastic chip labeled "SanDisk Extreme Plus" and has a large "4" followed by the letter "TB". On the underside are metal contacts, like you'd find on an Atari game, 8 of them with 2 slightly longer. There's a slight plastic notch on the side. If he was trying to tell me something he failed.
+I lift the keyboard and find a team photograph I've included in this text and a mysterious prop about the size of my fingernail. It's a delicate plastic chip labeled "SanDisk Extreme Plus" and has a large "4" followed by the letter "TB". On the underside are metal contacts, like you'd find on an Atari game, 8 of them with 2 slightly longer. There's a slight plastic notch on the side. I look at the photograph and turn it around. On the back he left his note:
 
-"He's gone" I announce Thursday morning at our "standup" meeting as I hold up the prop. "All I found was this thing. I can't make heads or tails out of it. I guess this is the final shock-a-roo."
+>
+> Dear Everyone,  
+> 
+> I'm sorry I had to leave so suddenly. There was an opportunity far away I could not pass up. When you understand this prop, we may have a chance to meet again. I am looking forward to it.
+>
+> I will miss you all. I hope all my time will be as special as it was with you.
+> 
+> Sincerely,
+> Jay Peg   1983/08/14
+> 
+
+"He's gone" I announce Thursday morning at our "standup" meeting as I hold up the prop. "All I found was this thing and a photo with a cryptic note. I can't make heads or tails out of it. I guess this is the final shock-a-roo."
 
 Hasegawa, who is leaning back in his chair, chokes on his coffee as he sits forward. "Sharaku!" he blurts out. "It's Sharaku, not shock-a-roo." We all look confused.
 
