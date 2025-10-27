@@ -1,5 +1,5 @@
 ---
-title: BOOSTRA/386`\\`{=latex}A User's Manual
+title: Marching Rectangles
 author: Jay Peg
 documentclass: book
 fontsize: 11pt
