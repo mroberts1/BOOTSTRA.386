@@ -108,7 +108,7 @@ Among engineers the only skill required for spy-craft is smiles and flattery. Th
 
 The back of the Winnebago has Hasegawa, Orion, Gilda and a fourth member, Thomas, sitting around 3 microcomputers as I drive down the I-5 past fields of food and cows. So many fragrant cows. Almost makes me want to go vegetarian.
 
-If you haven't had the chance to use a computer yet, let me introduce you to the strangeness. You get a 40 pound box that you place on a table and plug into a wall. Then you flip a switch and it gets increasingly noisy until the box sounds like it needs muffler. The machine chirps a beep as the screen or television you plugged into turns on and, usually, you see an incrementing number in the top left. It will go up into the hundreds in increments of 16. This checks what is known as volatile memory, it's what the computer needs to shuffle things around in its brain.
+If you haven't had the chance to use a computer yet, let me introduce you to the strangeness. You get a 25 pound box that you place on a table and plug into a wall. Then you flip a switch and it gets increasingly noisy until the box sounds like it needs muffler. The machine chirps a beep as the screen or television you plugged into turns on and, usually, you see an incrementing number in the top left. It will go up into the hundreds in increments of 16. This checks what is known as volatile memory, it's what the computer needs to shuffle things around in its brain.
 
 A top of the line computer these days will go up to 640, which is about the size in computer terms of a paperback novel. This takes minutes. Enough for you to make a cup of coffee. 
 
@@ -263,7 +263,7 @@ Thomas responds, "Cable television!? Impressive."
 
 Grace it is. What's the task?
 
-Orion continues, "Beyond 1983! She should channel someone from 1987!"
+Orion continues, "Beyond 1983! She should channel someone from 1988!"
 
 "Sounds like a great user story" I say
 
@@ -277,7 +277,7 @@ I look at the clock "It's like 10:50 right now."
 
 ## Stumbling Through Future's Darkness
 
-I come back to the office at 10:30 PM to the smell of Christmas. Orion has festooned the conference table with pine resin candles in a set of concentric rectangles with a calendar for 1987 placed in the center. I look at him, "really?!"
+I come back to the office at 10:30 PM to the smell of Christmas. Orion has festooned the conference table with pine resin candles in a set of concentric rectangles with a calendar for 1988 placed in the center. I look at him, "really?!"
 
 "shhh!!" he scolds me, "it's a full moon, the spirits are settling."
 
@@ -293,9 +293,9 @@ Gilda whipser to Orion, "what on earth are you doing? Have you done this before?
 
 Orion shrugs, "Maybe?!" 
 
-Everyone sits down and Orion rings a bell on the table. "Thank you for joining us Grace. We are trying to get you to channel 1987". Grace removes her glasses, "I thought you were going to ask me some technical questions, maybe watch me do some work ... "
+Everyone sits down and Orion rings a bell on the table. "Thank you for joining us Grace. We are trying to get you to channel 1988". Grace removes her glasses, "I thought you were going to ask me some technical questions, maybe watch me do some work ... "
 
-Orion admits, "That's plan B. Let's do this for 5 minutes. You in?"
+Orion admits, "That's plan B. Let's do this for five minutes. You in?"
 
 She responds skeptically, "A PhD in Control Systems and now I'm Carnac the Magnificent." she looks areound for a second, "alright, fine. Let's do this"
 
@@ -311,17 +311,17 @@ Orion says "you look around with your eyes closed, somehow, with your imaginatio
 
 She responds "ok, sorry. I am looking around"
 
-Orion says "you focus your eyes on the calendar in the center, it is turned to March 15, 1987. I had you look at it when you walked in, you know what this looks like. Your gaze relaxes as you peer at the rest of your office and look up from your calendar. You turn your chair slightly. You are in front of a computer. It is a computer of the future, of 1987. One that we have never seen. What do you see?"
+Orion says "you focus your eyes on the calendar in the center, it is turned to March 15, 1988. I had you look at it when you walked in, you know what this looks like. Your gaze relaxes as you peer at the rest of your office and look up from your calendar. You turn your chair slightly. You are in front of a computer. It is a computer of the future, of 1988. One that we have never seen. What do you see?"
 
 She responds, "A mouse. And, a color display. It's a graphical computer."
 
 Orion asks "How is it different? How does this not look like 1983"
 
-She talks slower, "on my 1987 office, comparing it to 1983, it's ... let me tell you how I feel. My work, these days, my work is not about maintaining focus, it's about managing distractions. I look at my screen, hating it. I drown in faxes and pager messages. My computer has applications segmented in rectangles splitting a focus I must maintain and all I feel is nose - a constant churn of nagging static trying to find the signal of my North Star, I don't need tools. 
+She talks slower, "on my 1988 office, comparing it to 1983, it's ... let me tell you how I feel. My work, these days, my work is not about maintaining focus, it's about managing distractions. I look at my screen, hating it. I drown in faxes and pager messages. My computer has applications segmented in rectangles splitting a focus I must maintain and all I feel is noise; a constant churn of nagging static trying to find the signal of my North Star. 
 
-What I actually need is help. It has to assist me! 
+I don't need tools, what I actually need is help. The computer has to assist me, not abuse me! 
 
-It's like I've been handed a revolver to change channels and I fear I may turn it on myself!" she starts to tremble
+It's like I've been handed a revolver to change channels and I fear I may turn it on myself!" she starts to tremble.
 
 I open my eyes and look around, I feel like it's needed. I respond, "Ms. Jones, are you ok?". She doesn't responsd but goes on
 
@@ -371,7 +371,7 @@ Third of all, we need the user to have a hard disk. This is persistent memory on
 
 # Abort?
 
-4 months is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a project manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
+Four months is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a project manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
 
 This all sounds abstract and it is. Fred Brooks, of IBM OS/360 fame, coined software as "pure thought stuff". Building is making manifest things imagined. There's tons of ambiguities, problems, and miscommunications. Engineers are the ultimate Monkey's Paw and we find out how some ideas are only compelling as long as they remain imagined but once they become real, we have no interest. 
 
@@ -814,5 +814,5 @@ My goal now has become to create software that I can interact with like Jay inte
 \raggedright 
 \tiny
 
-BOOSTRA/386: A User's Manual is a 2025 *fictional* work by Chris McKenzie. It is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  You are free to share and adapt, provided you give appropriate credit. See creativecommons.org/licenses/by/4.0, github.com/kristopolous
+Marching Ants is a 2025 *fictional* work by Chris McKenzie. It is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  You are free to share and adapt, provided you give appropriate credit. See creativecommons.org/licenses/by/4.0, github.com/kristopolous
 
