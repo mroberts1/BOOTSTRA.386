@@ -207,9 +207,9 @@ I respond, "We have time. Not much. But we have some. At least enough to finish 
 And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7am November weather of Northern California. Everyone else went hone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
 
 # Version 0.0: Potemkin
-Before we get into details I want to go over a bit about product strategy with innovative markets.
+I call my core team in the office for a presentation I've put together so we can figure out exactly what we're going and how to succeed in innovative markets. I break the necessary strategy down to three principles:
 
-## Assume Competitor Success
+## 1. Assume Competitor Success
 The first thing to assume is VisiCorp is successful. We say "if so then what?" this is almost always a fruitful exploration and if you do it right, you come up with the "N+1" idea, assuming the current thing is the "N" idea.
 
 For example, let's go to 1979, the Sony Walkman is introduced. We have two business ideas. Based on the walkman's success or failure we are going ballpark what the probability of success of the two business models will be:
@@ -221,7 +221,7 @@ For example, let's go to 1979, the Sony Walkman is introduced. We have two busin
 
 In this albeit contrived example, the viability of the cassette as a music format is dependent on the success of the Walkman. However, cheap portable headphones could be used with many device without much effort. It's a better business to get into. That's the N+1 product.
 
-## Go Where They Can't
+## 2. Go Where They Can't
 If you know one thing about Walkmans, it's that they're about *ten times* the cost of a transistor radio. The last thing Sony wants to do is sell a premium product next to a discount accessory. 
 
 Doing this is antithetical to the positioning of their value proposition in the mind of the prospect.
@@ -238,7 +238,7 @@ Therefore, here, "cheaper" works. It doesn't always. Plenty of people care about
 
 In the world of microcomputer hardware, cheaper is indefensible because nobody would say "it's just like IBMs, only more premium." Not happening.
 
-## Find the Verticals and be the Horizontal
+## 3. Find the Verticals and be the Horizontal
 Direct competitors to the Sony Walkman here are companies like Sanyo and Sharp. All of them come with a cassette player, headphones, and batteries. So that constitutes the product vertical and any of those is a horizontal because it can work agnostically against the entire field.
 
 This works because each of these competitors are tied to their verticals, they want the products to sell the others. 
@@ -247,9 +247,110 @@ The key insight here is you never sell a thing, you sell a relationship with a c
 
 Take DEC Rainbow for example. They're designed to pair well with their VAX-11/780 minicomputers.  As a result, the Rainbows are "married" to the minicomputers and can't go off and form "relationships" with new computers without the "spouse" (minicomputer) getting bossy. 
 
-## 1983 and Beyond
+----
 
-So that's my staks in a nutshell.  
+I conclude the presentation taking longer than I intended but shorter than I needed, my constantly problem.
+
+Thomas looks up from his notebook, "I appreciate the free HBS lecture but what are we actually building?"
+
+Gilda shrugs, "well we aren't the actual user. I can debug circuitboards and program assembly. Don't ask me those questions, I just want a cheaper CAD machine."
+
+Orion looks up and hesitates, "What about Grace? She *is* a research scientist."
+
+I respond, "yeah, I really like Grace. You know she's got a Compact Disc player imported from Japan, it's operated by lasers. Always raves about this electronic synth music she gets imported from Italy. I think she's got a VCR and cable television as well."
+
+Thomas responds, "Cable television!? Impressive."
+
+Grace it is. What's the task?
+
+Orion continues, "Beyond 1983! She should channel someone from 1987!"
+
+"Sounds like a great user story" I say
+
+Orion waves his hands and shakes his head "No I mean summon. Through the Akashic records. Trust me I got this". He looks wild eyed, "Let's meet at 11."
+
+I look at the clock "It's like 10:50 right now."
+
+"pm" Orion finishes.
+
+"Oh.", I responds, "let me ask Grace"
+
+## Stumbling Through Future's Darkness
+
+I come back to the office at 10:30 PM to the smell of Christmas. Orion has festooned the conference table with pine resin candles in a set of concentric rectangles with a calendar for 1987 placed in the center. I look at him, "really?!"
+
+"shhh!!" he scolds me, "it's a full moon, the spirits are settling."
+
+"Really" I whisper, "really, Grace is a research scientist. Not Madame Blavatsky."  Orion hands me a velvet shawl, "put this on and sit down. Look forward and focus on your breathing."
+
+I'm too tired to fight. I slept in the parking lot last night, we were in Vegas yesterday. I'm fine. Let's do this.
+
+As it comes closer to 11 more people show up. I guess word spreads around the office quickly. Grace arrives in her BMW right at 11. She walks in.
+
+"Why are the lights off? Is this what I was invited to? This is most unusual." she sniffs a bit "Is that sagebrush?" 
+
+Gilda whipser to Orion, "what on earth are you doing? Have you done this before?"
+
+Orion shrugs, "Maybe?!" 
+
+Everyone sits down and Orion rings a bell on the table. "Thank you for joining us Grace. We are trying to get you to channel 1987". Grace removes her glasses, "I thought you were going to ask me some technical questions, maybe watch me do some work ... "
+
+Orion admits, "That's plan B. Let's do this for 5 minutes. You in?"
+
+She responds skeptically, "A PhD in Control Systems and now I'm Carnac the Magnificent." she looks areound for a second, "alright, fine. Let's do this"
+
+Orion calmly sooths, "Alright good. Close your eyes."
+
+Grace reponds, "eyes closed"
+
+Orion says "you look around"
+
+Grace interrups, "eyes closed Orion!"
+
+Orion says "you look around with your eyes closed, somehow, with your imagination"
+
+She responds "ok, sorry. I am looking around"
+
+Orion says "you focus your eyes on the calendar in the center, it is turned to March 15, 1987. I had you look at it when you walked in, you know what this looks like. Your gaze relaxes as you peer at the rest of your office and look up from your calendar. You turn your chair slightly. You are in front of a computer. It is a computer of the future, of 1987. One that we have never seen. What do you see?"
+
+She responds, "A mouse. And, a color display. It's a graphical computer."
+
+Orion asks "How is it different? How does this not look like 1983"
+
+She talks slower, "on my 1987 office, comparing it to 1983, it's ... let me tell you how I feel. My work, these days, my work is not about maintaining focus, it's about managing distractions. I look at my screen, hating it. I drown in faxes and pager messages. My computer has applications segmented in rectangles splitting a focus I must maintain and all I feel is nose - a constant churn of nagging static trying to find the signal of my North Star, I don't need tools. 
+
+What I actually need is help. It has to assist me! 
+
+It's like I've been handed a revolver to change channels and I fear I may turn it on myself!" she starts to tremble
+
+I open my eyes and look around, I feel like it's needed. I respond, "Ms. Jones, are you ok?". She doesn't responsd but goes on
+
+"I don't want to operate a computer, I want to do my work!
+
+Lord have mercy! 
+
+I need the right tool! Not extra strength, Not heavy duty but appropriately sized and shaped for what I need to do!"
+
+Orion has now opened his eyes and is looking at me, "Ms. Jones, are you ok?"
+
+She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, a moldy rectangle invading my mind. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again"
+
+By now I look around and many people have opened ther eyes. Thomas actually never closed his and was writing all this down.
+
+Gilda speaks up, "Alright Ms. Jones, if you can hear me, what do we ned to build."
+
+she responds "A machine of focus that vanquishes distraction and faciltates flow. Driven like a car yet played like a piano.  I will always run out of time before I run out of work. Attention isn't my focus, focus is my attention. Somehow we were always in control and we steered things into embankments. I don't know why ..."
+
+Orion reaches around the candles and places the calendar page on one of the flames as Mr. Jones jolts and wakes up
+
+She clears her throat "Excuse me. I seem to have fallen asleep. I'm sorry. Should we begin?"
+
+Sure I say, "we were just having some fun here. Tell us about the latest research in UX" as I get up and turn on the lights.
+
+"Why of course, I'd be glad to" as Grace gets up and heads to the black board.
+
+
+
 ---
 
 MS-DOS function requests are done in 2 bytes. There's a catalog of what each of these codes mean. 09H (that's in base-16, don't ask) for instance, is "Display string" where "string" means a string of characters, as in some sentence. 16H is "Create file" and so on. What our team is trying to do is map each of these to their graphical equivalent. What would that look like in a VisiCorp like system? The idea is that then our traditional DOS program will, if we can say, magically transform to a graphical one with our technology.
