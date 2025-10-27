@@ -49,6 +49,17 @@ header-includes:
 
   # FIX: Safely defines the vertical spacing AFTER the title (eliminates the "no line to end" error)
   - \titlespacing*{\chapter}{0pt}{100pt}{1.5\baselineskip}
+  - \usepackage{listings}
+  - \lstdefinelanguage{dialog}{}
+  - \lstset{
+      basicstyle=\ttfamily\small,
+      breaklines=true,
+      breakatwhitespace=true,
+      xleftmargin=1em,
+      xrightmargin=1em,
+      aboveskip=0.5em,
+      belowskip=0.5em
+   }
 
 pandoc-latex-environment:
   section: hTwoFormat
@@ -68,7 +79,7 @@ This is our story.
 
 When Nolan Bushnell sold Atari and started Chuck-E-Cheese a few years ago we joked he was just going lower in the stack - providing the fuel to the fire on Sandhill Road. At least fuel to a team of ambitious engineers who I was eating late night pizza in Menlo Park on a Saturday night with shortly after Halloween.
 
-Like most Saturday night parties in Silicon Valley, we talked about the future of computing and how it was going to change the office of the 1990s. We were passing around this book, Smalltalk-80, describing some personal office computers by Xerox, unrelated to their 500 series minicomputers, to be used by just a single non-technical person to do work in a way that obsoletes the mail room, switchboard, and even the secretary.
+Like most Saturday night parties in Silicon Valley, we talked about the future of computing and how it was going to change the office of the 1990s. We were passing around this book, *Smalltalk-80*, describing some personal office computers by Xerox, unrelated to their 500 series minicomputers, to be used by just a single non-technical person to do work in a way that obsoletes the mail room, switchboard, and even the secretary.
 
 Xerox invented a way to make these computers talk to each other similar to how Kahn, Kleinrock and Cerf did with their ARPA project at UCLA but without the giant BBN machine. Instead it was an add-on board - Metcalfe, the inventor, called it Ethernet.
 
@@ -76,11 +87,11 @@ As we ate our pizza, Gilda, a gifted Engineer from Stanford, pointed out that th
 
 "This is a monumental task", she says, while munching on a slice of pizza, "think about the desk calculator. We can't effectively explain the memory and percent buttons to people, how do you expect those same people to typeset a sales report by themselves?"
 
-The question went unanswered. Xerox's machines sold about as well as cars from South Korea.  People would flip over a mouse and try to roll the ball with their hands like it's one of Bushnell's video games.
+The question went unanswered. Xerox's machines sold about as well as cars from South Korea. People would flip over a mouse and try to roll the ball with their hands like it's one of Bushnell's video games.
 
 Hasegawa, our designer, who is ex-Omron and Matsushita was busy drawing on a napkin. Our primary target is the office and a simplification of common tasks. Recently he was been trying to replace the schedule-book. 
 
-He opens up the napkin and start drawing flow diagrams and the rest of us look over. "In Japanese", he says "the days of the week are single characters. It's a nice shorthand." There's a key up in the left-hand side that says "Monday - M, Tuesday - T, Wednesday - W, tHursday - H, Friday - F, Saturday - S, sUnday - U"
+He opens up the napkin and start drawing flow diagrams and the rest of us look over. "In Japanese", he says "the days of the week, at least on our calendars, are single characters. It's a nice shorthand." There's a key up in the left-hand side that says "Monday - M, Tuesday - T, Wednesday - W, tHursday - H, Friday - F, Saturday - S, sUnday - U"
 
 "See you press one of the letters and then by default that's for all those days. Then you can follow it by a number for the time. So you can do "MWF1000" for 10 AM. Then you can enter details on the next screen..."
 
@@ -188,7 +199,7 @@ Orion sips some cold green tea he's been nursing since Vegas as he lays on the o
 
 "Yea but to do what?" Gilda asks rubbing her temples. "I mean look, if WordPerfect is looking for like Alt-F2, we can't just translate that into a mouse or display a box on the screen, every application is different in how that exists internally. The applications themselves have to be aware of the difference in a way in order to have the affordances."
 
-Hasegawa shouts back "Hey, I need to stop for gas. But also I've got something to say". As the Winnebago slides off the highway in a town called Tehachapi that closes at 8pm except for a single Texaco and a Denny's, I give up on sleeping. Maybe we should go get some food after all. 
+Hasegawa shouts back "Hey, I need to stop for gas. But also I've got something to say". As the Winnebago slides off the highway in a town called Tehachapi that closes at 8 PM except for a single Texaco and a Denny's, I give up on sleeping. Maybe we should go get some food after all. 
 
 I pull myself out of bed, "Mind if I buy you that dinner after all?" It's always nice not to have to ask twice. 
 
@@ -271,7 +282,7 @@ Orion waves his hands and shakes his head "No I mean summon. Through the Akashic
 
 I look at the clock "It's like 10:50 right now."
 
-"pm" Orion finishes.
+"PM" Orion finishes.
 
 "Oh.", I responds, "let me ask Grace"
 
@@ -359,15 +370,15 @@ I look at my core team "are you up for staying?" Thomas puts his notebook down, 
 
 I realize, well I do have an executive recorder I never use. Everyone agrees to stay and I roll it in on a cart. Here's the trascript I got from the reel-to-reel:
 
-```dialog
-GILDA: Orion, what the fuck was that?
+```{.dialog}
+GILDA: Orion, what on earth was that?
 ORION: The future I think?
 THOMAS: OK (muffled) What did we actually get from it?
 ORION: There's so much there. We can't build the thought stuffs of our collective electronic dreams.
 CHUCK: But we have to
 ORION: They are flimsy impertinent bedfellows (pause) spanning fuzzy impermanent horizons, an optical illusion that shows a different face with every glance. 
 GILDA: Oh please, first Grace now you...
-ORION: we can only hope to facilitate a fulfilling relationship with their desires through our software.
+ORION: We can only hope to facilitate a fulfilling relationship with their desires through our software.
 THOMAS: Right (muffled) work with that? What are we building?
 ORION: The future is about managing infinities and disciplining the imaginaries. 
 CHUCK: Not a product, a relationship.
@@ -604,7 +615,7 @@ Now Mike comes from 20 years at Woolworth's, he's en excellent sales guy but rea
 
 Everyone's mouth is open in shock as the only sound I hear is Michael's squeaky shoes stepping down the carpeted hallway walking away.
 
-I shrug my shoulders and look around the room, "Alright, fuck it." I pause and look for negative reaction. Seeing none, I continue "I guess you're hired. See you Monday 9 am. You go by Jay right?"
+I shrug my shoulders and look around the room, "Alright, let's do it." I pause and look for negative reaction. Seeing none, I continue "I guess you're hired. See you Monday 9 am. You go by Jay right?"
 
 "Yeah."
 
@@ -624,7 +635,7 @@ But that money and the rest of the stuff in my Samsonite really doesn't last lon
 
 What I need is a job. 
 
-Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I always admired BOOTSTRA Technologies as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece, The Dreams of Tomorrow on its development.
+Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I always admired BOOTSTRA Technologies as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece, *The Dreams of Tomorrow* on its development.
 
 I wanted to be there, on those team, in those rooms, involved in those conversations. The artistry, audacity, and irreverence of the early computing revolution before it became the oppressive taste-maker has always captured my interest.
 
