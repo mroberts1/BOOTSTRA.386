@@ -58,9 +58,9 @@ pandoc-latex-environment:
 
 It was Fall 1982. Headquarters in Boston tasked us with bringing the microcomputer to the mainstream. Their dream was a full-screen interface supporting pointing devices connected through any bus and color displays running on everything from future palmtops to today's mainframes. Also, they want it to fit on a single floppy and be usable by a non-technical person in minutes.
 
-The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.
+The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.  We were going to try anyway. 
 
-We're going to try anyway. We had no aspirations to become the cartographers of tomorrow's empires, breathing the first gasps of a rarified air that will eventually fill our technofuture.
+We had no aspirations of becoming the cartographers of tomorrow's empires or breathing the first gasps of a rarified air that will eventually fill our technofuture. It was just kinda right place, right time, I guess.
 
 This is our story.
 
@@ -333,7 +333,7 @@ I need the right tool! Not extra strength, Not heavy duty but appropriately size
 
 Orion has now opened his eyes and is looking at me, "Ms. Jones, are you ok?"
 
-She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, a moldy rectangle invading my mind. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again"
+She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, a shimmering black moldy rectangle invading my mind. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again"
 
 By now I look around and many people have opened ther eyes. Thomas actually never closed his and was writing all this down.
 
@@ -341,7 +341,7 @@ Gilda speaks up, "Alright Ms. Jones, if you can hear me, what do we ned to build
 
 she responds "A machine of focus that vanquishes distraction and faciltates flow. Driven like a car yet played like a piano.  I will always run out of time before I run out of work. Attention isn't my focus, focus is my attention. Somehow we were always in control and we steered things into embankments. I don't know why ..."
 
-Orion reaches around the candles and places the calendar page on one of the flames as Mr. Jones jolts and wakes up
+Orion reaches around the candles and places the calendar page on one of the flames as Ms. Jones jolts and wakes up
 
 She clears her throat "Excuse me. I seem to have fallen asleep. I'm sorry. Should we begin?"
 
