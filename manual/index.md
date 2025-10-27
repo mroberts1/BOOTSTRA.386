@@ -158,7 +158,7 @@ Just at that moment, Hasegawa comes running over to me catching his breath. He's
 
 We follow him through the maze of stalls and see a large crowd around a number of IBM PCs. I'm a fairly tall guy so I peak over and see a black 3 button mouse hooked up to a screen displaying a cascade of black boxes in a monochrome graphics mode. In one of the boxes is a bar graph and another looks like a Lotus-123 screen, no - that's their own spreadsheet. 
 
-The employee clicks on one of the boxes with a region hidden and it comes to the front, almost as if it's a stack of applications. Inside this box is a number of words in a horizontal strip. The employee moves the mouse over the item labeled "Italics" and clicks on it. No hotkeys, no Wordperfect function strip. And then the text redraws as slanted italics. 
+The employee clicks on one of the boxes with a region hidden and it comes to the front, almost as if it's a stack of applications. Inside this box is a number of words in a horizontal strip. The employee moves the mouse over the item labeled "Italics" and clicks on it. No hotkeys, no WordPerfect function strip. And then the text redraws as slanted italics. 
 
 People applaud like they just saw Harry Houdini break out of a safe. No jargon, no manuals. You just point and click. I peer down the aisle and see Orion at the Commodore booth looking at some new portables and motion him to come over.  Hasegawa's mouth continues to be open in shock. The employee changes a value in the spreadsheet and then the bar-graph redraws itself automatically. It's stunning.
 
@@ -207,6 +207,50 @@ I respond, "We have time. Not much. But we have some. At least enough to finish 
 And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7am November weather of Northern California. Everyone else went hone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
 
 # Version 0.0: Potemkin
+Before we get into details I want to go over a bit about product strategy with innovative markets.
+
+## Assume Competitor Success
+The first thing to assume is VisiCorp is successful. We say "if so then what?" this is almost always a fruitful exploration and if you do it right, you come up with the "N+1" idea, assuming the current thing is the "N" idea.
+
+For example, let's go to 1979, the Sony Walkman is introduced. We have two business ideas. Based on the walkman's success or failure we are going ballpark what the probability of success of the two business models will be:
+
+| Walkman | Succeeds | Fails |
+|---------|----------|-------|
+| Cheap Headphones | 95% | 80% |
+| Cassette Store | 99% | 50% |
+
+In this albeit contrived example, the viability of the cassette as a music format is dependent on the success of the Walkman. However, cheap portable headphones could be used with many device without much effort. It's a better business to get into. That's the N+1 product.
+
+## Go Where They Can't
+If you know one thing about Walkmans, it's that they're about *ten times* the cost of a transistor radio. The last thing Sony wants to do is sell a premium product next to a discount accessory. 
+
+Doing this is antithetical to the positioning of their value proposition in the mind of the prospect.
+
+They could, however, maybe get into the business of cassette sales, perhaps through a mail order catalog. That is well within their wheelhouse.
+
+Most engineers make this mistake by trying to go exactly where their competitors also want to go. They want *X* but "better", "faster" or some other superlative.
+
+Superlative based positioning is only defensible if their opposite is also a plausible positioning.
+
+For instance, nobody would advertise they are "worse" or "slower" option. They could however, in our contrived example, claim to be a "premium" product, to oppose "discount". 
+
+Therefore, here, "cheaper" works. It doesn't always. Plenty of people care about premium audio but very few are looking for premium microcomputers.
+
+In the world of microcomputer hardware, cheaper is indefensible because nobody would say "it's just like IBMs, only more premium." Not happening.
+
+## Find the Verticals and be the Horizontal
+Direct competitors to the Sony Walkman here are companies like Sanyo and Sharp. All of them come with a cassette player, headphones, and batteries. So that constitutes the product vertical and any of those is a horizontal because it can work agnostically against the entire field.
+
+This works because each of these competitors are tied to their verticals, they want the products to sell the others. 
+
+The key insight here is you never sell a thing, you sell a relationship with a customer expressed as a thing. These relationships are intrinsically human and operate the same way.
+
+Take DEC Rainbow for example. They're designed to pair well with their VAX-11/780 minicomputers.  As a result, the Rainbows are "married" to the minicomputers and can't go off and form "relationships" with new computers without the "spouse" (minicomputer) getting bossy. 
+
+## 1983 and Beyond
+
+So that's my staks in a nutshell.  
+---
 
 MS-DOS function requests are done in 2 bytes. There's a catalog of what each of these codes mean. 09H (that's in base-16, don't ask) for instance, is "Display string" where "string" means a string of characters, as in some sentence. 16H is "Create file" and so on. What our team is trying to do is map each of these to their graphical equivalent. What would that look like in a VisiCorp like system? The idea is that then our traditional DOS program will, if we can say, magically transform to a graphical one with our technology.
 
@@ -214,9 +258,19 @@ We called in project Potemkin because we are really just scaffolding friendlier 
 
 We widely agreed this is the only viable way forward. We aren't large enough to command a position in every meaningful place in the marketplace so we must carve out our own. 
 
+## VisiCalc for everything else
+
+Our goals, in summary, are to be able to load multiple applications at once without them realizing they are sharing the computer. There's a wild amount of hacks that we need to do to get this done.
+
+First of all, it doesn't look like our applications can overlap like visicalc. Second, we'll have to somehow lie to the application that the computer has less volatile memory because we need a bunch for ourselves.
+
+Third of all, we need the user to have a hard disk. This is persistent memory on magnetic platters. They're very expensive.
+
+---
+
 # Abort?
 
-90 days is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a project manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
+4 months is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a project manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
 
 This all sounds abstract and it is. Fred Brooks, of IBM OS/360 fame, coined software as "pure thought stuff". Building is making manifest things imagined. There's tons of ambiguities, problems, and miscommunications. Engineers are the ultimate Monkey's Paw and we find out how some ideas are only compelling as long as they remain imagined but once they become real, we have no interest. 
 
