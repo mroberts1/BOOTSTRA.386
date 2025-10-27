@@ -190,7 +190,7 @@ Orion sips some cold green tea he's been nursing since Vegas as he lays on the o
 
 Hasegawa shouts back "Hey, I need to stop for gas. But also I've got something to say". As the Winnebago slides off the highway in a town called Tehachapi that closes at 8pm except for a single Texaco and a Denny's, I give up on sleeping. Maybe we should go get some food after all. 
 
-I pull myself out of bed, "Mind if I buy you Denny's?" It's always nice not to have to ask twice. 
+I pull myself out of bed, "Mind if I buy you that dinner after all?" It's always nice not to have to ask twice. 
 
 Monday night at Denny's in Tehachapi is downright pleasant. It was us, some long haul truckers and a couple that looks like they'd been there since the WPA during the new deal. Hasegawa asks for extra napkins and a set of crayons. The waitress just brings him pen and paper. Nice place.
 
@@ -299,25 +299,25 @@ Orion admits, "That's plan B. Let's do this for five minutes. You in?"
 
 She responds skeptically, "A PhD in Control Systems and now I'm Carnac the Magnificent." she looks areound for a second, "alright, fine. Let's do this"
 
-Orion calmly sooths, "Alright good. Close your eyes."
+Orion calmly sooths, "Alright good. Everyone hold the hand of the person next to you. We together form a rectangular portal around this office table into the world of tomorrow. Now, close your eyes."
 
-Grace reponds, "eyes closed"
+Grace reponds, "Ok, Eyes closed."
 
-Orion says "you look around"
+Orion says "You look around."
 
-Grace interrups, "eyes closed Orion!"
+Grace interrups, "My eyes are closed Orion!"
 
-Orion says "you look around with your eyes closed, somehow, with your imagination"
+Orion pauses, almost offended, and speaks slower "you look around with your eyes closed, somehow, with your imagination."
 
-She responds "ok, sorry. I am looking around"
+She responds "ok, sorry. I am looking around."
 
-Orion says "you focus your eyes on the calendar in the center, it is turned to March 15, 1988. I had you look at it when you walked in, you know what this looks like. Your gaze relaxes as you peer at the rest of your office and look up from your calendar. You turn your chair slightly. You are in front of a computer. It is a computer of the future, of 1988. One that we have never seen. What do you see?"
+Orion whispers "you focus your eyes on the calendar in the center, it is turned to March 15, 1988. I had you look at it when you walked in, you know what this looks like. Your gaze relaxes as you peer at the rest of your office and look up from your calendar. You turn your chair slightly. You are in front of a computer. It is a computer of the future, of 1988. One that we have never seen. What do you see?"
 
-She responds, "A mouse. And, a color display. It's a graphical computer."
+She responds, "A mouse. And, a color display. It's ... It's a graphical Apple computer, off-white, almost beige."
 
-Orion asks "How is it different? How does this not look like 1983"
+Orion asks "How else is it different? How does this not look like 1983"
 
-She talks slower, "on my 1988 office, comparing it to 1983, it's ... let me tell you how I feel. My work, these days, my work is not about maintaining focus, it's about managing distractions. I look at my screen, hating it. I drown in faxes and pager messages. My computer has applications segmented in rectangles splitting a focus I must maintain and all I feel is noise; a constant churn of nagging static trying to find the signal of my North Star. 
+She talks slower, "On my 1988 office, comparing it to 1983. It's ... let me actually tell you how I feel." She reels back as a breeze sweeps through the room "The room is changing. LCD panels, portables the size of a binder ... my work ... today, these days, my work is not about maintaining focus, it's about managing distractions. I look at my screen, then look again, too much. It's too much, I'm hating it. I drown in ... faxes and ... pager messages from friends and solicitors. My computer has applications segmented in rectangles splitting a focus I must maintain and all I feel is noise; a constant churn of nagging static trying to find the signal of my North Star. 
 
 I don't need tools, what I actually need is help. The computer has to assist me, not abuse me! 
 
@@ -333,9 +333,9 @@ I need the right tool! Not extra strength, Not heavy duty but appropriately size
 
 Orion has now opened his eyes and is looking at me, "Ms. Jones, are you ok?"
 
-She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, a shimmering black moldy rectangle invading my mind. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again"
+She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, the shimmering darkness of this moldy rectangle invades my mind, trying to conquer the frontier of my thoughts. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again and detoxicify myself from its enabling malevolence."
 
-By now I look around and many people have opened ther eyes. Thomas actually never closed his and was writing all this down.
+By now I look around and many people have opened ther eyes. Thomas actually never closed his and is writing all this down. I'm glad I have that notebook.
 
 Gilda speaks up, "Alright Ms. Jones, if you can hear me, what do we ned to build."
 
@@ -345,13 +345,51 @@ Orion reaches around the candles and places the calendar page on one of the flam
 
 She clears her throat "Excuse me. I seem to have fallen asleep. I'm sorry. Should we begin?"
 
-Sure I say, "we were just having some fun here. Tell us about the latest research in UX" as I get up and turn on the lights.
+The room has a palpable deafening silence. It was my turn to speak to it.
+
+"Sure," I say, "we were just having some fun here. Tell us about the latest research in UX" as I get up and turn on the lights.
 
 "Why of course, I'd be glad to" as Grace gets up and heads to the black board.
 
+The next 90 minutes we get a tour de force of Fitts Law on the keyboard home row, GOMS  efficiency models, KLM timing routines that harken back to Taylor's Scientific Management, all the dead-end ideas we were trying to run away from.
 
+Various office members excused themselves in murmurs as the night wore on and the clock struck 1:00 AM as Grace concluded.
 
----
+I look at my core team "are you up for staying?" Thomas puts his notebook down, "I don't know if I can maintain focus right now Chuck." 
+
+I realize, well I do have an executive recorder I never use. Everyone agrees to stay and I roll it in on a cart. Here's the trascript I got from the reel-to-reel:
+
+```dialog
+GILDA: Orion, what the fuck was that?
+ORION: The future I think?
+THOMAS: OK (muffled) What did we actually get from it?
+ORION: There's so much there. We can't build the thought stuffs of our collective electronic dreams.
+CHUCK: But we have to
+ORION: They are flimsy impertinent bedfellows (pause) spanning fuzzy impermanent horizons, an optical illusion that shows a different face with every glance. 
+GILDA: Oh please, first Grace now you...
+ORION: we can only hope to facilitate a fulfilling relationship with their desires through our software.
+THOMAS: Right (muffled) work with that? What are we building?
+ORION: The future is about managing infinities and disciplining the imaginaries. 
+CHUCK: Not a product, a relationship.
+GILDA: So, SQL? An expert system? What CGA mode are we talking about?
+THOMAS: You're starting with the computer Gilda, and ending with the human. We ... we need to start with the human and end with the computer.
+GILDA: I'm not a behavioral psychologist.
+ORION: Better start...
+```
+
+And then the recording ends. I had forgotten to rewind the tape before pressing record.
+
+We were there for another hour but I have no recollection exactly what we spoke” → “We stayed another hour, but I can’t recall a word we said.  It felt like one of the Milton Ericksons hypnotism sessions.
+
+All I know is what we wrote on the blackboard after erasing Grace's stuff. It was labeled "Computer as a colleague" with task labeled flow diagrams and a digital divide from the human world to the digital and back again. 
+
+What we are doing is pushing the frontier of the digital divide closer to the human. 
+
+Grace's wild hallucinations is the marching computer claiming ever increasing territory and, one can suppose, eventually boxing the human in so it becomes an obligatory form of engagement instead of an optional. Electronic imperialism conquering daily life. 
+
+Our job, however, is just the invasion of Normandy. The digital Potsdam accords will be left to another generation. We just have to make sure we can land on those damn beaches successfully.
+
+# Preparing the Invasion
 
 MS-DOS function requests are done in 2 bytes. There's a catalog of what each of these codes mean. 09H (that's in base-16, don't ask) for instance, is "Display string" where "string" means a string of characters, as in some sentence. 16H is "Create file" and so on. What our team is trying to do is map each of these to their graphical equivalent. What would that look like in a VisiCorp like system? The idea is that then our traditional DOS program will, if we can say, magically transform to a graphical one with our technology.
 
