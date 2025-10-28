@@ -364,41 +364,64 @@ The room has a palpable deafening silence. It was my turn to speak to it.
 
 The next 90 minutes we get a tour de force of Fitts Law on the keyboard home row, GOMS  efficiency models, KLM timing routines that harken back to Taylor's Scientific Management, all the dead-end ideas we were trying to run away from.
 
-Various office members excused themselves in murmurs as the night wore on and the clock struck 1:00 AM as Grace concluded.
+Various office members excused themselves in murmurs as the night wore on. The clock struck 1:00 AM as Grace concluded and excused herself as well. 
 
-I look at my core team "are you up for staying?" Thomas puts his notebook down, "I don't know if I can maintain focus right now Chuck." 
+I thank her kindly and look at my core team, clearly ready for sleep, and try to push them a bit: "are you up for staying and talking about this?" 
 
-I realize, well I do have an executive recorder I never use. Everyone agrees to stay and I roll it in on a cart. Here's the trascript I got from the reel-to-reel:
+Thomas puts his notebook down, "I don't know if I can maintain focus right now Chuck." 
+
+I realize I have an executive recorder I never use. Everyone agrees to stay and I roll it in on a cart. Here's the trascript I have from the reel-to-reel:
 
 ```{.dialog}
+CHUCK: Ok, I think it's going. Thanks for waiting. Anyone want to start.
 GILDA: Orion, what on earth was that?
 ORION: The future I think?
 THOMAS: OK (muffled) What did we actually get from it?
 ORION: There's so much there. We can't build the thought stuffs of our collective electronic dreams.
-CHUCK: But we have to
+CHUCK: But we have to...
 ORION: They are flimsy impertinent bedfellows (pause) spanning fuzzy impermanent horizons, an optical illusion that shows a different face with every glance. 
 GILDA: Oh please, first Grace now you...
 ORION: We can only hope to facilitate a fulfilling relationship with their desires through our software.
 THOMAS: Right (muffled) work with that? What are we building?
-ORION: The future is about managing infinities and disciplining the imaginaries. 
+ORION: The future is about managing infinities and disciplining imaginaries. 
 CHUCK: Not a product, a relationship.
-GILDA: So, SQL? An expert system? What CGA mode are we talking about?
+GILDA: So, SQL? An expert system? What CGA mode are we talking about? Got some 8086 routine we can use?
 THOMAS: You're starting with the computer Gilda, and ending with the human. We ... we need to start with the human and end with the computer.
 GILDA: I'm not a behavioral psychologist.
 ORION: Better start...
 ```
 
-And then the recording ends. I had forgotten to rewind the tape before pressing record.
+And then the tape ends. I had forgotten to rewind the tape before pressing record.
 
-We were there for another hour but I have no recollection exactly what we spoke” → “We stayed another hour, but I can’t recall a word we said.  It felt like one of the Milton Ericksons hypnotism sessions.
+We were there for another hour, maybe two. I have no recollection exactly what we spoke, althought I remember how it felt. I imagine it to be like one of the Milton Ericksons hypnotism sessions.
 
-All I know is what we wrote on the blackboard after erasing Grace's stuff. It was labeled "Computer as a colleague" with task labeled flow diagrams and a digital divide from the human world to the digital and back again. 
+All I know is what I saw on the blackboard the next morning. Grace's algorithms partially erased had a chicken scratched label, obviously in Thomas' penmanship, "Computer as a colleague" with task labeled flow diagrams and a digital divide from the human world to the digital and back again. 
+
+They all had the following model
+
+```
+              GOAL
+
+New Digital         The Current
+   Frontier         Frontier
+          |         |
+HUMAN     |         |   COMPUTER
+          | Subtask |
+ Subtask -+-->--->--+->-> Task
+          |         |   |
+          | Subtask |   |
+  Goal <--+--<---<--+-<-+
+          |         |
+          |< < < < <|
+          |Potemkin!|
+          |< < < < <|
+```
 
 What we are doing is pushing the frontier of the digital divide closer to the human. 
 
-Grace's wild hallucinations is the marching computer claiming ever increasing territory and, one can suppose, eventually boxing the human in so it becomes an obligatory form of engagement instead of an optional. Electronic imperialism conquering daily life. 
+Grace's wild hallucinations is the marching computer claiming ever increasing territory and, one can suppose, eventually boxing the human in so it becomes an obligatory form of engagement instead of an optional one. Electronic imperialism conquering daily life. 
 
-Our job, however, is just the invasion of Normandy. The digital Potsdam accords will be left to another generation. We just have to make sure we can land on those damn beaches successfully.
+Our job, however, is the invasion of Normandy. The digital Potsdam Accords are left to another generation. We just have to make sure we can land those beaches successfully.
 
 # Preparing the Invasion
 
