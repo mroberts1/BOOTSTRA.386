@@ -292,7 +292,7 @@ I come back to the office at 10:30 PM to the smell of Christmas. Orion has festo
 
 "shhh!!" he scolds me, "it's a full moon, the spirits are settling."
 
-"Really" I whisper, "really, Grace is a research scientist. Not Madame Blavatsky."  Orion hands me a velvet shawl, "put this on and sit down. Look forward and focus on your breathing."
+"Really" I whisper, "really, Grace is an ex-Navy research scientist. Not Madame Blavatsky."  Orion hands me a velvet shawl, "put this on and sit down. Look forward and focus on your breathing."
 
 I'm too tired to fight. I slept in the parking lot last night, we were in Vegas yesterday. I'm fine. Let's do this.
 
@@ -328,7 +328,13 @@ She responds, "A mouse. And, a color display. It's ... It's a graphical Apple co
 
 Orion asks "How else is it different? How does this not look like 1983"
 
-She talks slower, "On my 1988 office, comparing it to 1983. It's ... let me actually tell you how I feel." She reels back as a breeze sweeps through the room "The room is changing. LCD panels, portables the size of a binder ... my work ... today, these days, my work is not about maintaining focus, it's about managing distractions. I look at my screen, then look again, too much. It's too much, I'm hating it. I drown in ... faxes and ... pager messages from friends and solicitors. My computer has applications segmented in rectangles splitting a focus I must maintain and all I feel is noise; a constant churn of nagging static trying to find the signal of my North Star. 
+She talks slower, "On my 1988 office, comparing it to 1983. It's ... let me actually tell you how I feel." 
+
+She reels back as a breeze sweeps through the room "The room is changing. My baby, off to college?"
+
+Gilda whispers to me "She doesn't have children?" and I respond "No. I don't think she's even married yet"
+
+Ms. Jones goes on, "LCD panels, portables the size of a binder ... my work ... today, these days, my work is not about maintaining focus, it's about managing distractions. I look at my screen, then look again, too much. It's too much, I'm hating it. I drown in ... faxes and ... conversations from friends and solicitors. My computer has applications segmented in rectangles splitting a focus I must maintain and all I feel is noise; a constant churn of nagging static trying to find the signal of my North Star. 
 
 I don't need tools, what I actually need is help. The computer has to assist me, not abuse me! 
 
@@ -350,7 +356,7 @@ By now I look around and many people have opened ther eyes. Thomas actually neve
 
 Gilda speaks up, "Alright Ms. Jones, if you can hear me, what do we ned to build."
 
-she responds "A machine of focus that vanquishes distraction and faciltates flow. Driven like a car yet played like a piano.  I will always run out of time before I run out of work. Attention isn't my focus, focus is my attention. Somehow we were always in control and we steered things into embankments. I don't know why ..."
+She responds "A machine of focus that vanquishes distraction and faciltates flow. Driven like a car yet played like a piano.  I will always run out of time before I run out of work. Attention isn't my focus, focus is my attention. Somehow we were always in control and we steered things into embankments. I don't know why ..."
 
 Orion reaches around the candles and places the calendar page on one of the flames as Ms. Jones jolts and wakes up
 
@@ -393,28 +399,28 @@ ORION: Better start...
 
 And then the tape ends. I had forgotten to rewind the tape before pressing record.
 
-We were there for another hour, maybe two. I have no recollection exactly what we spoke, althought I remember how it felt. I imagine it to be like one of the Milton Ericksons hypnotism sessions.
+We are there until sunrise. I have no recollection exactly what we spoke, although I remember how it felt. I imagine it to be like one of the Milton Ericksons hypnotism sessions.
 
-All I know is what I saw on the blackboard the next morning. Grace's algorithms partially erased had a chicken scratched label, obviously in Thomas' penmanship, "Computer as a colleague" with task labeled flow diagrams and a digital divide from the human world to the digital and back again. 
+I came in to the office around noon the next day and looked at the blackboard, an artifact of the blacked out night. Grace's algorithms are partially erased and at the top, obviously in Thomas' penmanship, "Computer as a colleague" with "Goal" labeled flow diagrams and a digital divide from the human world to the digital and back again. 
 
-They all had the following model
+They all have the following model
 
 ```
               GOAL
 
 New Digital         The Current
    Frontier         Frontier
-          |         |
-HUMAN     |         |   COMPUTER
-          | Subtask |
- Subtask -+-->--->--+->-> Task
-          |         |   |
-          | Subtask |   |
-  Goal <--+--<---<--+-<-+
-          |         |
-          |< < < < <|
-          |Potemkin!|
-          |< < < < <|
+          :         |
+HUMAN     :         |   COMPUTER
+          :   Task  |
+  Task ---+--->-->--+---> Task
+          :         |   |
+          :  Task   |   |
+  Goal <--+--<--<---+-<-+
+          :         |
+          :< < < < <|
+          :Potemkin!|
+          :< < < < <|
 ```
 
 What we are doing is pushing the frontier of the digital divide closer to the human. 
