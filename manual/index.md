@@ -406,21 +406,25 @@ I came in to the office around noon the next day and looked at the blackboard, a
 They all have the following model
 
 ```
-              GOAL
+
+           SOME GOAL
 
 New Digital         The Current
    Frontier         Frontier
           :         |
-HUMAN     :         |   COMPUTER
+----------:---------|----------
+HUMAN     :         |  COMPUTER
+          :         |
           :   Task  |
   Task ---+--->-->--+---> Task
           :         |   |
           :  Task   |   |
   Goal <--+--<--<---+-<-+
           :         |
-          :< < < < <|
+          :  <   <  |
           :Potemkin!|
-          :< < < < <|
+          :  <   <  |
+
 ```
 
 What we are doing is pushing the frontier of the digital divide closer to the human. 
@@ -444,6 +448,17 @@ Our goals, in summary, are to be able to load multiple applications at once with
 First of all, it doesn't look like our applications can overlap like visicalc. Second, we'll have to somehow lie to the application that the computer has less volatile memory because we need a bunch for ourselves.
 
 Third of all, we need the user to have a hard disk. This is persistent memory on magnetic platters. They're very expensive.
+
+
+We wanted to slap layers on top of each other and connect them by interface, but the IBM PC doesn’t really work that way. The 640×200 monochrome screen has separate 8 KB banks for odd and even scanlines. Each bank is effectively two “frames,” and the video hardware cycles between them like a two-page flipbook, only the pages are interleaved in memory.
+
+To display anything, you fill the buffers as fast as you can; the hardware turns your writes into visible pixels. Everything ticks to a central clock, 4.77 MHz, the PC’s Planck constant.
+
+As a result everything you make feels like a meticulously designed clock, some ornate Turkish automaton from the 1830s. Yet upon this, we must build reasonable software and couldn’t ship a little short man hiding inside mylar disks to play chess.
+
+Well kinda. That's the open secret about computers in general. People use them as if they're magic. But they're actually just as stupid as any other machine. The magic is the disk. On a record we know the symphony isn't inside the stereo and instead we have a dumb machine that makes an electronic speaker move along the groove a record.
+
+Computers are the same. The dumb machine dances by whatever song, in this case software, you feed into it. I'm kind of the conductor and the engineers are kind of the symphony.
 
 ---
 
@@ -711,6 +726,25 @@ Photographs
 \end{center}
 
 
+# BOOTSTRA
+
+Tracy Kidder enters the chat
+
+Gilda snaps back, "Oh you want another UCSD P-system?"
+
+The UCSD P-system is a lambasted operating system decades ahead of its time from the late 1970s. Similar to how Android, Python, PHP, Ruby, and the Web work in the 21sth century code is written against not the underlying computer but for a suite of functions that run on a theoretical, idealized "virtual machine". On the P-System, it's done in Pascal and compiled to something called P-code. This inarguably works as it is the primary way software is written in the 21st century. Modern processors have specialized instructions and architectures to accomodate for software that uses such design. They have the resources to orchestrate such an abstraction. However, on early 1980s computer hardware, this is wildly ambitious.
+
+"No, stop. Look. The P-System is for assembly that will never be native and CPUs that will never be built."
+
+"I don't care about the 8086." I finally say exasperated. "Look what did we have nine years ago? The MITS Altair 8800. A bank of lights, paper punched tape 256 byte of memory out of the box... now I've got 2500 times that sitting on my desk. What will the world be like nine years from now?" ... I pause, "Let's not build new things to glean harvested fields.  We are here to sow the seeds of the next season. Are we farmers or scavangers?"
+
+Chuck leans back in his chair, "That's very poetic but I agree with Gilda. How is this dfferent from the P-System?"
+
+Dealing with the past is so exhausting sometimes. I continue "We can all agree, in the future, the graphics layer will be more sensible, we will have faster buses so we don't have to jump through hoops to do 32-bit operations. We will have hardware instructions that simplify countless things. Claiming there's going to be a hardware P-System is unreasonable. Claiming there's going to be a 200 MB hard disk instead of a 10 MB one, 8 MB of memory instead of 640 KB, 256 colors instead of 2? This isn't fantasy. We all know it's coming, probably by the end of the decade. 
+
+These clever clockwork routines won't work on the machines with 50Mhz clocks. We need to think in a grounded basis that moves beyond it."
+
+Gilda finally understood that building empires and preparing for them are different games.
 
 
 # Boston II
@@ -742,6 +776,9 @@ She drops them in a nearby trash can.
 You've earned your 6 months. Go build this."
 
 
+# Software begins
+
+"Look, we aren't going to outsell Microsoft or Apple. They are too entrenched and their positions are too defensible. But this doesn't mean we can't change the world." I look at Chuck and everyone, "It's our time to make a lasting mark on the future of computing. When it comes to impact, I'd rather make change than cash, it'd be nice to have both. But change is in reach and cash, not so much. Let's just build the future. 
 
 ---
 

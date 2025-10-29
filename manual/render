@@ -2,4 +2,5 @@
 # sudo apt install texlive-extra-utils pandoc texlive-xetex texlive-fonts-recommended
 wc -w index.md
 pandoc index.md -o bootstra.pdf --pdf-engine=xelatex --listings
+web bootstra.pdf
 pdfbook2 bootstra.pdf
