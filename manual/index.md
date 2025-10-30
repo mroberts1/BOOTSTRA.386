@@ -730,7 +730,7 @@ Photographs
 
 I rolled in to the office at 9 AM Monday morning wearing the same thing I wore on Friday. First mistake. Everyone was in slacks and formal wear. I had completely forgotten that the street wear tech office is a 1990s invention. That was casual Friday. Luckily nobody said anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
 
-As I enter I see my company issued computer, an IBM PC with a classic Model M keyboard, a DOS prompt on screen, 10MB hard drive, the works. There's these other boxes I don't recognize. One is labeled "CYBERDRIVE" another is a "Microfazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
+As I enter I see my company issued computer, an IBM PC with a classic giant heavy keyboard, a DOS prompt on the screen, 10MB hard drive, the works. There's these other boxes I don't recognize. One is labeled "Cyberdrive" another is a "MicroFazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
 
 I am surprised but I really shouldn't be. What did I expect the programmer's workstation to look like in 1983? I guess I'm expected to know how to use this and the software on the disk labelled "IBM Macro Assembler"
 
@@ -745,6 +745,10 @@ I'm well in over my head on this one. I look briefly at another programmer in th
 I realized although I'm pretty familiar with the future, I'm actually not at all familiar with the past. I mean, I know the history but when handed the tools, I'm realizing I have no idea how to do the work.
 
 Somehow if I want to keep this job I'll have to bluff my way through while I do a self-study crash course, hopefully via the public library if they even have the reference books yet.
+
+The room I'm sitting in has the same people from the interview along with a few others busy typing away. There's a corkboard with a bunch of computer print-outs and pins cascading down in columns. I take a closer look. Oh, wow, bug tracking. There's a filing cabinet with numeric labels on them and if I pull a drawer, there's a long taped together scroll describing the issue and giving a chronology.
+
+It's like my whole world has become analog. The song "21st Century Digital Boy" by Bad Religion starts going through my head. It's an oldies to me and to them it's like a decade in the future. I've never felt more screwed.
 
 ---
 
