@@ -397,11 +397,11 @@ GILDA: I'm not a behavioral psychologist.
 ORION: Better start...
 ```
 
-And then the tape ends. I had forgotten to rewind the tape before pressing record.
+And then the tape ends. I had forgotten to rewind the thing before pressing record.
 
-We are there until sunrise. I have no recollection exactly what we spoke, although I remember how it felt. I imagine it to be like one of the Milton Erickson's hypnotism sessions.
+We are there until sunrise. I have no recollection exactly what we spoke although I remember how it felt. I imagine it to be like one of the Milton Erickson's hypnotism sessions.
 
-I came in to the office around noon the next day and looked at the blackboard, an artifact of the blacked out night. Grace's algorithms are partially erased and at the top, obviously in Thomas' penmanship, "Computer as a colleague" with "Goal" labeled flow diagrams and a digital divide from the human world to the digital and back again. 
+I come in to the office around noon the next day and look at the black board, an artifact of the blacked out night. Grace's algorithms are partially erased and at the top, obviously in Thomas' penmanship, "Computer as a colleague" with "Goal" labeled flow diagrams and a digital divide from the human world to the digital and back again. 
 
 They all have the following model
 
@@ -687,9 +687,9 @@ I forgot that revolutionaries are controversial at best and being dismissed is t
 
 The cheap motel I'm staying in is going to be torn down after the Loma Pieta earthquake and replaced with a mall. That will then get torn down and replaced with a 5-over-1 in 2028. Right now, however, it's $19.99/night. 1983 prices, gotta love them.
 
-After landing the job I had a weekend to kill. It's weird to walk around the place you grew up in and see a bunch of things you don't recognize. My favorite third-wave coffee house is a music store with the name "Sam Goody", in the distance all I see is smog and the most exotic foreign food I can find is sushi.
+After landing the job I have a weekend to kill. It's weird to walk around the place you grew up in and see a bunch of things you don't recognize. My favorite third-wave coffee house is a music store with the name "Sam Goody", in the distance all I see is smog and the most exotic foreign food I can find is sushi.
 
-There's all these details nobody talks about and you don't realize until you're there: people purchasing newspapers from newsstands or cigarette vending machines in diners with hazes of smoke on the ceilings. Even the cars. You think you know what the cars are going to be like.  Did you know that not all cars had side-view mirrors on both sides? There's a bunch without them. And they're noisy.
+There's all these details nobody talks about and you don't realize until you're there: people purchasing newspapers from newsstands or cigarette vending machines in diners with hazes of smoke on the ceilings. Even the cars. You think you know what the cars are going to be like.  Did you know that not all cars have side-view mirrors on both sides? There's a bunch without them. And they're noisy.
 
 Even the lights are different. They have harsh bright glows and buzzing sounds, flickering like the lights in some kind of video game. And then there's the lack of phones of course. I've got mine back at the hotel room, sure, along with my modern laptop and USB power brick ... I wasn't going to travel completely empty-handed.
 
@@ -736,19 +736,25 @@ Photographs
 
 # BOOTSTRA
 
-I rolled in to the office at 9 AM Monday morning wearing the same thing I wore on Friday. First mistake. Everyone was in slacks and formal wear. I had completely forgotten that the street wear tech office is a 1990s invention. That was casual Friday. Luckily nobody said anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
+I rolled in to the office at 9 AM Monday morning wearing the same thing I wore on Friday. First mistake. Everyone was in slacks and formal wear. I completely forgot that the street-wear tech office is a 1990s invention. That was casual Friday, this is Office Monday. Luckily nobody says anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
 
-As I enter I see my company issued computer, an IBM PC with a classic giant heavy keyboard, a DOS prompt on the screen, 10MB hard drive, the works. There's these other boxes I don't recognize. One is labeled "Cyberdrive" another is a "MicroFazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
+As I go to my cubicle, I see my company issued computer, an IBM PC with a classic giant heavy keyboard, a DOS prompt on the screen, 10MB hard drive, the works. There's these other boxes I don't recognize. One is labeled "Cyberdrive" another is a "MicroFazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
 
-I am surprised but I really shouldn't be. What did I expect the programmer's workstation to look like in 1983? I guess I'm expected to know how to use this and the software on the disk labelled "IBM Macro Assembler"
+There's a coaxial network connection on the back of the machine. Probably for crude networking. It's fairly obvious sneakernet is the dominant medium.
+
+This is all probably exorbitantly expensive. Back where I'm from, the microchips inside of talking greeting cards are more capable than all this.
+
+I am surprised but I really shouldn't be. What did I expect the programmer's workstation to look like in 1983? I guess I'm expected to know how to use the software on the disk labelled "IBM Macro Assembler".
 
 I don't. 
 
 I've never even touched an original IBM PC. I press the space bar. Ok, now I have.
 
-21st century computer programming is nothing like this. First of all, I have LLMs and the Internet. Second, I'm dealing with abstract objects that I have control and insight into. With this, I'm just sending core instructions to the processor. I need to have all kinds of opinions simply because nothing is being done for me.  And third, based on this floppy disk holder, they aren't using any revision control system. I'm apparently just supposed to make a daily floppy. There is something called SCCS and I think it's around but obviously it's not very popular.
+21st century computer programming is nothing like this. First of all, I have LLMs and the Internet. Second, I'm dealing with abstract objects that I have control and insight into. With this, I'm just sending core instructions to the processor. I need to have all kinds of opinions simply because nothing is being done for me.  I've got none of those.
 
-I'm well in over my head on this one. I look briefly at another programmer in the room. They're using the EDLIN line editor to navigate around the file and referencing a DOT matrix print-out. 
+Thirdly, based on this floppy disk holder, they aren't using any revision control system. I'm apparently just supposed to make a daily snapshot. There *is* a really early revision control system called SCCS and I think it's around but obviously it's not very popular.
+
+I'm well in over my head on this. I look briefly at another programmer in the room. They're using the EDLIN line editor to navigate around the file and referencing a Dot-Matrix print-out.  
 
 I realized although I'm pretty familiar with the future, I'm actually not at all familiar with the past. I mean, I know the history but when handed the tools, I'm realizing I have no idea how to do the work.
 
@@ -760,7 +766,7 @@ It's like my whole world has become analog. The song "21st Century Digital Boy" 
 
 I felt dumb asking questions, I should know this. Some people used this full screen editor and some were on a line editor. It almost looked like an old word processor. This might be the emacs/vim war of 1983 ... I'll probably be on the full screen side. 
 
-I watch one of the coders exit out of the program, return to the DOS prompt, then run a command and immediately get up and walk away. right, translating the code into computer binary used to take 10 minutes or so and the computer couldn't do anything else so you just press the compile button and walk away.
+I watch one of the coders exit out of the program, return to the DOS prompt, then run a command and immediately get up and walk away. Right... translating the code into computer binary used to take 10 minutes or so and the computer couldn't do anything else so you just press the compile button and walk away.
 
 It was then I realized that tools are a function of your behavior as much as behavior is a function of your tools... The delicate interplay is the thing we call productivity.
 
