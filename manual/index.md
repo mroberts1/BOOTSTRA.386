@@ -725,6 +725,14 @@ Photographs
 \end{minipage}
 \end{center}
 
+\vspace{1.5em}
+
+\begin{minipage}[t]{0.80\textwidth}
+    \includegraphics[width=\textwidth]{board.png}
+    \captionof{figure}{From "The Dreams of Tomorrow", photographed by Kidder, this is Jay writing up a mock interface. The men on the left and right are from potential customers from Ashton-Tate. The other two are Hasegawa and Gilda}
+    \label{fig:image3}
+\end{minipage}
+\end{center}
 
 # BOOTSTRA
 
