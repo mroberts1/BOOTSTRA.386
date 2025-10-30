@@ -10,15 +10,15 @@ classoption:
 
 # --- 2. FONT CONFIGURATION (The Robust Path Method) ---
 # Use the simple font name for the main font path.
-#mainfont: CrimsonText-Regular
-#mainfontoptions:
+mainfont: CrimsonText-Regular
+mainfontoptions:
   # The Path= MUST be on its own line and MUST be unquoted.
-#  - Path=/usr/share/fonts/truetype/google-fonts/SERIF/
+  - Path=/usr/share/fonts/truetype/google-fonts/SERIF/
   
   # The variants use only the filenames, appended to the Path above.
-#  - BoldFont = CrimsonText-Bold.ttf
-#  - ItalicFont = CrimsonText-Italic.ttf
-#  - BoldItalicFont = CrimsonText-BoldItalic.ttf
+  - BoldFont = CrimsonText-Bold.ttf
+  - ItalicFont = CrimsonText-Italic.ttf
+  - BoldItalicFont = CrimsonText-BoldItalic.ttf
 
 # --- 3. GEOMETRY (5.5" x 8.5" Page Size) ---
 geometry:
@@ -67,9 +67,9 @@ pandoc-latex-environment:
 
 # Preface
 
-Fall 1982: Headquarters in Boston tasks us with bringing the microcomputer to the mainstream. Their dream is a full-screen interface supporting pointing devices and color displays running on everything from future palmtops to today's IBM PC. Also, they want it to be usable by a non-technical person in minutes.
+Fall 1982: FNC Headquarters in Boston tasks us with bringing the microcomputer to the mainstream. Their dream is a full-screen interface supporting pointing devices and color displays running on everything from future palmtops to today's IBM PC usable by a non-technical person in minutes.
 
-The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.  We were going to try anyway. 
+The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.  Hence why I'm manning an office 3,000 miles away in Menlo Park, operating "Project Sparkle". 
 
 We had no aspirations of becoming the cartographers of tomorrow's empires or breathing the first gasps of a rarified air that will eventually fill our technofuture. That was just kinda right place, right time, I guess.
 
@@ -83,7 +83,7 @@ Like most Saturday night parties in Silicon Valley, we talked about the future o
 
 Xerox invented a way to make these computers talk to each other similar to how Kahn, Kleinrock and Cerf did with their ARPA project at UCLA but without the giant BBN machine. Instead it was an add-on board - Metcalfe, the inventor, called it Ethernet.
 
-As we ate our pizza, Gilda, a gifted Engineer from Stanford, pointed out that this was only going to be useful if non-technical people, without reading manuals, were able to effectively use the computers.
+As we ate our pizza, Kat, a gifted Engineer from Stanford, pointed out that this was only going to be useful if non-technical people, without reading manuals, were able to effectively use the computers.
 
 "This is a monumental task", she says, while munching on a slice of pizza, "think about the desk calculator. We can't effectively explain the memory and percent buttons to people, how do you expect those same people to typeset a sales report by themselves?"
 
@@ -117,7 +117,7 @@ It's the one time a year companies are foolish enough to demo unannounced produc
 
 Among engineers the only skill required for spy-craft is smiles and flattery. The biggest bets in Vegas that week are placed on the floor of the Convention Center.
 
-The back of the Winnebago has Hasegawa, Orion, Gilda and a fourth member, Thomas, sitting around 3 microcomputers as I drive down the I-5 past fields of food and cows. So many fragrant cows. Almost makes me want to go vegetarian.
+The back of the Winnebago has Hasegawa, Orion, Kat and a fourth member, Thomas, sitting around 3 microcomputers as I drive down the I-5 past fields of food and cows. So many fragrant cows. Almost makes me want to go vegetarian.
 
 If you haven't had the chance to use a computer yet, let me introduce you to the strangeness. You get a 25 pound box that you place on a table and plug into a wall. Then you flip a switch and it gets increasingly noisy until the box sounds like it needs muffler. The machine chirps a beep as the screen or television you plugged into turns on and, usually, you see an incrementing number in the top left. It will go up into the hundreds in increments of 16. This checks what is known as volatile memory, it's what the computer needs to shuffle things around in its brain.
 
@@ -137,7 +137,7 @@ As I cut across to Bakersfield I adjust the rear view mirror to see the young en
 
 Comdex isn't open to the public but that hasn't stopped it from becoming one of the largest events in Vegas. Wyse, Tandy, Olivetti, all have massive labyrinthian displays. We break up the team to start investigating.
 
-Gilda loops back up with me first: "DEC has a bunch of their new Rainbows on display. Bad command or file name". That's a bit of shop talk.
+Kat loops back up with me first: "DEC has a bunch of their new Rainbows on display. Bad command or file name". That's a bit of shop talk.
 
 Let's back up for a second. In order to understand things you need to know a bit more about these computers. The terse language that you type while running the MS-DOS software can generate a variety of common errors. Here's the glossary:
 
@@ -159,13 +159,13 @@ Let's back up for a second. In order to understand things you need to know a bit
 
 It's worth noting these aphorisms are mostly negative. We don't really have any for success. I think there's a tendency to break bad news with a bit of humor in a hope that it lands lighter.  I don't know if it works, but we do it anyway.
 
-I respond to Gilda, "it doesn't look like they're going to PDP IBM again" - a reference to DECs gang-buster microcomputer in the 1960s that made them successful. All their efforts in the world of microcomputers have felt like a circus without substance.
+I respond to Kat, "it doesn't look like they're going to PDP IBM again" - a reference to DECs gang-buster microcomputer in the 1960s that made them successful. All their efforts in the world of microcomputers have felt like a circus without substance.
 
 Thomas returns soon as well after talking to a young a Indian programmer with a company named "Lotus". They've produced a new kind of desk calculator, we call them spreadsheets. The screen is arranged in rows and columns and then you can do computations involving the values in between them. 
 
 Back in the 70s Enterprise Resource Planning (ERP) software was hot. if you're manufacturing something, you have this cascade of inputs with costs, availability, all these constraints. You need to make sure you aren't losing money. In larger firms it's actually not easy to know how to price things and where the money is going and coming from. so spreadsheets, specifically Lotus 123, looks like feasible solution.
 
-Just at that moment, Hasegawa comes running over to me catching his breath. He's still too far away for me to hear him but has he gets closer I hear "they did it, they did it". He's flustered, surprised, almost nervous. Gilda and I give him a confused look. "They're called VisiCorp", come look. 
+Just at that moment, Hasegawa comes running over to me catching his breath. He's still too far away for me to hear him but has he gets closer I hear "they did it, they did it". He's flustered, surprised, almost nervous. Kat and I give him a confused look. "They're called VisiCorp", come look. 
 
 We follow him through the maze of stalls and see a large crowd around a number of IBM PCs. I'm a fairly tall guy so I peak over and see a black 3 button mouse hooked up to a screen displaying a cascade of black boxes in a monochrome graphics mode. In one of the boxes is a bar graph and another looks like a Lotus-123 screen, no - that's their own spreadsheet. 
 
@@ -193,11 +193,11 @@ I was tired. Probably too tired for the all night drive back through the desert 
 
 We blaze past Barstow as I see a sky full of stars out the back window. "We can't just clone them" Thomas gripes as he looks over his notes. "We need to be finishing races they're still lacing up for." 
 
-"Yeah sure, I mean sure" Gilda agrees, "but are we really going to get into the game with Wordstar and Multimate? Isn't that a crowded marketplace? And is that really our product?"
+"Yeah sure, I mean sure" Kat agrees, "but are we really going to get into the game with Wordstar and Multimate? Isn't that a crowded marketplace? And is that really our product?"
 
 Orion sips some cold green tea he's been nursing since Vegas as he lays on the other mattress, "What we really need to be is a graphical DOS. Like swap out all the services, clone them, but do so graphically. The applications are stupid, they are just function calling, we just make those functions do something else. Call us instead." 
 
-"Yea but to do what?" Gilda asks rubbing her temples. "I mean look, if WordPerfect is looking for like Alt-F2, we can't just translate that into a mouse or display a box on the screen, every application is different in how that exists internally. The applications themselves have to be aware of the difference in a way in order to have the affordances."
+"Yea but to do what?" Kat asks rubbing her temples. "I mean look, if WordPerfect is looking for like Alt-F2, we can't just translate that into a mouse or display a box on the screen, every application is different in how that exists internally. The applications themselves have to be aware of the difference in a way in order to have the affordances."
 
 Hasegawa shouts back "Hey, I need to stop for gas. But also I've got something to say". As the Winnebago slides off the highway in a town called Tehachapi that closes at 8 PM except for a single Texaco and a Denny's, I give up on sleeping. Maybe we should go get some food after all. 
 
@@ -211,7 +211,7 @@ Hasegawa mumbles "toolkit" loud enough for Thomas to hear. "A tool-kit?" I say. 
 
 "But we enhance the experience" I finish. "Yes, the worst experience is the current paradigm"
 
-Gilda looks down, "well we need something more concrete than that" 
+Kat looks down, "well we need something more concrete than that" 
 
 I respond, "We have time. Not much. But we have some. At least enough to finish this food". 
 
@@ -260,19 +260,19 @@ Take DEC Rainbow for example. They're designed to pair well with their VAX-11/78
 
 ----
 
-I conclude the presentation taking longer than I intended but shorter than I needed, my constantly problem.
+I conclude the presentation taking longer than I intend but shorter than I need, my constant problem.
 
 Thomas looks up from his notebook, "I appreciate the free HBS lecture but what are we actually building?"
 
-Gilda shrugs, "well we aren't the actual user. I can debug circuitboards and program assembly. Don't ask me those questions, I just want a cheaper CAD machine."
+Kat shrugs, "well we aren't the actual user. I can debug circuitboards and program assembly. Don't ask me these questions, I just want a cheaper CAD machine."
 
 Orion looks up and hesitates, "What about Grace? She *is* a research scientist."
 
-I respond, "yeah, I really like Grace. You know she's got a Compact Disc player imported from Japan, it's operated by lasers. Always raves about this electronic synth music she gets imported from Italy. I think she's got a VCR and cable television as well."
+I respond, "yeah, I really like Grace. You know she's got a Compact Disc player imported from Japan, it's operated by lasers. Always raves about this electronic synth music she gets from Italy. I think she's got a VCR and cable television as well."
 
-Thomas responds, "Cable television!? Impressive."
+Thomas responds, "Cable television!? Impressive..."
 
-Grace it is. What's the task?
+"Grace it is. What's the task?" Kat responds.
 
 Orion continues, "Beyond 1983! She should channel someone from 1988!"
 
@@ -300,7 +300,7 @@ As it comes closer to 11 more people show up. I guess word spreads around the of
 
 "Why are the lights off? Is this what I was invited to? This is most unusual." she sniffs a bit "Is that sagebrush?" 
 
-Gilda whipser to Orion, "what on earth are you doing? Have you done this before?"
+Kat whipser to Orion, "what on earth are you doing? Have you done this before?"
 
 Orion shrugs, "Maybe?!" 
 
@@ -332,7 +332,7 @@ She talks slower, "On my 1988 office, comparing it to 1983. It's ... let me actu
 
 She reels back as a breeze sweeps through the room "The room is changing. My baby, off to college?"
 
-Gilda whispers to me "She doesn't have children?" and I respond "No. I don't think she's even married yet"
+Kat whispers to me "She doesn't have children?" and I respond "No. I don't think she's even married yet"
 
 Ms. Jones goes on, "LCD panels, portables the size of a binder ... my work ... today, these days, my work is not about maintaining focus, it's about managing distractions. I look at my screen, then look again, too much. It's too much, I'm hating it. I drown in ... faxes and ... conversations from friends and solicitors. My computer has applications segmented in rectangles splitting a focus I must maintain and all I feel is noise; a constant churn of nagging static trying to find the signal of my North Star. 
 
@@ -354,7 +354,7 @@ She grips tighter on the hand holding and continues, "The machine feels grafted 
 
 By now I look around and many people have opened their eyes. Thomas actually never closed his and is writing all this down. I'm glad I have that notebook.
 
-Gilda speaks up, "Alright Ms. Jones, if you can hear me, what do we need to build."
+Kat speaks up, "Alright Ms. Jones, if you can hear me, what do we need to build."
 
 She responds "A machine of focus that vanquishes distraction and facilitates flow. Driven like a car yet played like a piano.  I will always run out of time before I run out of work. Attention isn't my focus, focus is my attention. Somehow we were always in control and we steered things into embankments. I don't know why ..."
 
@@ -392,7 +392,7 @@ THOMAS: Right (muffled) work with that? What are we building?
 ORION: The future is about managing infinities and disciplining imaginaries. 
 CHUCK: Not a product, a relationship.
 GILDA: So, SQL? An expert system? What CGA mode are we talking about? Got some 8088 routine we can use?
-THOMAS: You're starting with the computer Gilda, and ending with the human. We ... we need to start with the human and end with the computer.
+THOMAS: You're starting with the computer Kat, and ending with the human. We ... we need to start with the human and end with the computer.
 GILDA: I'm not a behavioral psychologist.
 ORION: Better start...
 ```
@@ -441,7 +441,7 @@ We called in project Potemkin because we are really just scaffolding friendlier 
 
 We widely agreed this is the only viable way forward. We aren't large enough to command a position in every meaningful place in the marketplace so we must carve out our own. 
 
-## VisiCalc for everything else
+## VisiOn for everything
 
 Our goals, in summary, are to be able to load multiple applications at once without them realizing they are sharing the computer. There's a wild amount of hacks that we need to do to get this done.
 
@@ -449,16 +449,25 @@ First of all, it doesn't look like our applications can overlap like visicalc. S
 
 Third of all, we need the user to have a hard disk. This is persistent memory on magnetic platters. They're very expensive.
 
-
-We wanted to slap layers on top of each other and connect them by interface, but the IBM PC doesn’t really work that way. The 640×200 monochrome screen has separate 8 KB banks for odd and even scanlines. Each bank is effectively two “frames,” and the video hardware cycles between them like a two-page flipbook, only the pages are interleaved in memory.
+As far as the software we really want to slap layers on top of each other and connect them by interface, but the IBM PC doesn’t really work that way - it's a complicated machine. For instance, the 640×200 monochrome screen has separate 8 KB banks for odd and even scanlines. Each bank is effectively two “frames,” and the video hardware cycles between them like a two-page flipbook, only the pages are interleaved in memory.
 
 To display anything, you fill the buffers as fast as you can; the hardware turns your writes into visible pixels. Everything ticks to a central clock, 4.77 MHz, the PC’s Planck constant.
 
-As a result everything you make feels like a meticulously designed clock, some ornate Turkish automaton from the 1830s. Yet upon this, we must build reasonable software and couldn’t ship a little short man hiding inside mylar disks to play chess.
+As a result everything you make feels like a meticulously designed clock, some ornate Turkish automaton from the 1830s. Yet upon this, we must build reasonable software and unfortunately can’t ship a little short man hiding inside mylar disks to play chess.
 
-Well kinda. That's the open secret about computers in general. People use them as if they're magic. But they're actually just as stupid as any other machine. The magic is the disk. On a record we know the symphony isn't inside the stereo and instead we have a dumb machine that makes an electronic speaker move along the groove a record.
+Well kinda. That's the open secret about computers in general. People use them as if they're magic. But they're actually just as stupid as any other machine. The magic is the disk. On a record we know the symphony isn't inside the stereo. Instead we have a dumb machine that makes an electronic speaker move along the groove a record.
 
 Computers are the same. The dumb machine dances by whatever song, in this case software, you feed into it. I'm kind of the conductor and the engineers are kind of the symphony.
+
+So there seems to be more or less three types of software: Wordprocessing, Financial, and Database. There's a lot of players in this field: Fox & Geller, Continental, Sorcim, Micropro ... and then there's wildcards like Lifetree's Volkswriter (VW) - even used by a few people in the office. 
+
+What we need to do is two-fold:
+
+ * Create an environment where there's non-disruptive flow between these various applications
+ * Remove the cognitive load needed to perform the executive function of the task. It should be subliminal by exposing the interface
+
+It wasn't so much that Potemkin is moving a solid line but closer to a ragged perimeter, capturing the more laboriouis tasks from the user and freeing them of the burden. At least that's the objective.
+
 
 ---
 
@@ -486,7 +495,7 @@ I focus my eyes on an existential plane, feeling myself astral project, like I'm
 
 And then, I commit a heresy.
 
-"If everyone is to have a computer, are there more people or companies? What will the demands be for a $500,000 BOOTSTRA 7000-DS series minicomputer be in the year 2000 in a world of $500 micros?" 
+"If everyone is to have a computer, are there more people or companies? What will the demands be for a $500,000 FNC 7000-DS series minicomputer be in the year 2000 in a world of $500 micros?" 
 
 I swear someone scoffed at me and to this day I'll never know who. 
 
@@ -512,7 +521,7 @@ Thomas looks at him and says "I'm sorry?"
 
 The man replies "We spoke with you last month. You're working on that secret graphical system at Microsoft". 
 
-I had to interject, "I'm sorry. I don't mean to be rude. Thomas has been with us at BOOTSTRA for over a year. I'm sorry, I think you're mistaken... We do have our own graphical system if you'd like to see."
+I had to interject, "I'm sorry. I don't mean to be rude. Thomas has been with us at FNC for over a year. I'm sorry, I think you're mistaken... We do have our own graphical system if you'd like to see."
 
 The man steps back in confusion, his face turning red in embarrassment "I'm ... I'm sorry. You look and sound just like him. I'm so sorry for interrupting you. Excuse me. I'm so sorry Donald." 
 
@@ -532,7 +541,7 @@ Thomas excuses himself for a smoke break and I go inside to meet with the rest o
 
 But then, the next day, he didn't come in. This happens occasionally. Employees can disappear for a day. They can tell people and then we forget or they might get sick or have car issues and can't reach us ... but two days, that's when we get worried. I went around with one of those unnamed people that day to do my demo, someone from the documentation team. It was fine. Not as good as Thomas, but fine.
 
-But then he was missing a second day. That's when we start to reach out. The phone number on record is our go to. A woman picks up the phone. We say we're looking for Thomas. She says "Thomas?" then she pauses for a second almost as if she remembered something, "Oh yes, I'm his wife. I'm not supposed to tell you much." she says, her voice strained, "I can tell you that he's in good health and unfortunately is resigning from BOOTSTRA." and then hangs up the phone.
+But then he was missing a second day. That's when we start to reach out. The phone number on record is our go to. A woman picks up the phone. We say we're looking for Thomas. She says "Thomas?" then she pauses for a second almost as if she remembered something, "Oh yes, I'm his wife. I'm not supposed to tell you much." she says, her voice strained, "I can tell you that he's in good health and unfortunately is resigning from FNC." and then hangs up the phone.
 
 Resigned? That's incredibly weird. I went to tell Orion. "Hey, Thomas resigned." Orion gives me a confused look, "Wow. Why?" I was completely baffled. "I don't know. We were doing the demos, then he left for a smoke break and never returned."
 
@@ -554,13 +563,13 @@ Orion dials the phone and we hear it over the conference line, "Hey is Greg ther
 
 "Maxwell Smart? From Get Smart?" I say. Orion shrugs his shoulders, "Might as well use a spy name to spy."
 
-I ask Orion to stay in the room as I flip through my Rolodex and call up Donald from Ashton-Tate. "Hey Donald, who was that guy who interrupted us? I see, can you transfer us" the line clicks and goes dead for a second, "Hi, this is Chuck, from BOOTSTRA, Don't worry, I'm not angry. Tell me a bit more about what you remember about Greg. Yes..."
+I ask Orion to stay in the room as I flip through my Rolodex and call up Donald from Ashton-Tate. "Hey Donald, who was that guy who interrupted us? I see, can you transfer us" the line clicks and goes dead for a second, "Hi, this is Chuck, from FNC, Don't worry, I'm not angry. Tell me a bit more about what you remember about Greg. Yes..."
 
 Pitman shorthand, smoking breaks, multiple pen colors, 3x5 index cards, it was stunningly accurate. Then he said the clincher "The craziest part about it. 8 PM, not AM, PM meeting."
 
-I still find it hard to believe "How sure are you?". He replies "I have his business card right here. Greg Stillman, Features Research. Here call his home phone number" and he read off the number we just called, twice. 
+I still find it hard to believe, "How sure are you?" He replies "I have his business card right here. Greg Stillman, Features Research. Here call his home phone number" and he read off the number we just called, twice. 
 
-Orion and I froze. "I think we had a mole" Orion says. "That's incredible." the man says. "It's OK. Potemkin sucks anyway, we need to toss most of it in the garbage" I reply, "I hope I didn't cause issues for you at the office." the man laughs, "I don't work for Donald. It's fine." We thank him and hang up the phone.
+Orion and I freeze. "I think we had a mole" Orion says. "That's incredible." the man says. "It's OK. Potemkin sucks anyway, we need to toss most of it in the garbage" I reply, "I hope I didn't cause issues for you at the office." The man laughs, "I don't work for Donald. It's fine." We thank him and hang up the phone.
 
 
 # Fail?
@@ -637,7 +646,7 @@ We ask the candidate what his idea would look like.
 
 The candidate looks around the room almost as if asking permission to get up and then pushes his chair back and walks over to the chalkboard. He draws an oblong horizontal rectangle. Inside it are the words "File" "Edit" "View" "Windows" and "Help". Then he scratches a rectangle around the "File" and says "Alright the user points the mouse at this and then a rectangle below appears, we call it a menu" as he places the words "New", "Open", "Open Recent", "Save", "Save As", and "Exit".
 
-Gilda gets up and walks up to him as she picks up her chalk. "Interesting idea, but here's the problems." she doesn't even look at the candidate as she starts pressing dots on the chalkboard, "see, File is a noun, Edit and View are verbs. You've just gone from Noun-Verb in the first column to Verb-Noun in the second. And also, why is exiting the program in the File's command box? Who would look for it there? Why not under the Windows command box?"
+Kat gets up and walks up to him as she picks up her chalk. "Interesting idea, but here's the problems." she doesn't even look at the candidate as she starts pressing dots on the chalkboard, "see, File is a noun, Edit and View are verbs. You've just gone from Noun-Verb in the first column to Verb-Noun in the second. And also, why is exiting the program in the File's command box? Who would look for it there? Why not under the Windows command box?"
 
 The candidate looks back at the board and mumbles, "I ... I never thought of that..."
 
@@ -645,7 +654,7 @@ Orion gets up from his chair revealing his sandals and shorts as walks on over a
 
 The candidate turns back and stares at us in utter bafflement, almost as if his world is shattered. 
 
-Gilda shoots back "And what happens when the person clicks on Edit". The candidate innocently stammers, "that's where you can manipulate the clipboard buffer and do things like format the thing you are working on."
+Kat shoots back "And what happens when the person clicks on Edit". The candidate innocently stammers, "that's where you can manipulate the clipboard buffer and do things like format the thing you are working on."
 
 The room full of engineers shake their head in disbelief. I was breaking out in a cold sweat, nervous that inviting such a crackpot in would ruin my standing with my team.
 
@@ -679,7 +688,7 @@ But that money and the rest of the stuff in my Samsonite really doesn't last lon
 
 What I need is a job. 
 
-Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I always admired BOOTSTRA Technologies as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece, *The Dreams of Tomorrow* on its development.
+Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I always admired FNC as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece, *The Dreams of Tomorrow* on the BOOSTRA team.
 
 I wanted to be there, on those team, in those rooms, involved in those conversations. The artistry, audacity, and irreverence of the early computing revolution before it became the oppressive taste-maker has always captured my interest.
 
@@ -720,7 +729,7 @@ Photographs
 
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{group.png}
-    \captionof{figure}{From Left to Right: Jay, Hasegawa, Orion, Gilda, and Chuck.}
+    \captionof{figure}{From Left to Right: Jay, Hasegawa, Orion, Kat, and Chuck.}
     \label{fig:image2}
 \end{minipage}
 
@@ -728,7 +737,7 @@ Photographs
 
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{board.png}
-    \captionof{figure}{From "The Dreams of Tomorrow", photographed by Kidder, this is Jay writing up a mock interface. The men on the left and right are potential customers from Ashton-Tate. The other two are Hasegawa and Gilda}
+    \captionof{figure}{From "The Dreams of Tomorrow", photographed by Kidder, this is Jay writing up a mock interface. The men on the left and right are from potential customers from Ashton-Tate. The other two are Hasegawa and Kat}
     \label{fig:image3}
 \end{minipage}
 \end{center}
@@ -777,7 +786,7 @@ Chuck taps me on the shoulder, "hey welcome aboard"
 
 Tracy Kidder enters the chat
 
-Gilda snaps back, "Oh you want another UCSD P-system?"
+Kat snaps back, "Oh you want another UCSD P-system?"
 
 The UCSD P-system is a lambasted operating system decades ahead of its time from the late 1970s. Similar to how Android, Python, PHP, Ruby, and the Web work in the 21st century code is written against not the underlying computer but for a suite of functions that run on a theoretical, idealized "virtual machine". On the P-System, it's done in Pascal and compiled to something called P-code. This unarguably works as it is the primary way software is written in the 21st century. Modern processors have specialized instructions and architectures to accommodate for software that uses such design. They have the resources to orchestrate such an abstraction. However, on early 1980s computer hardware, this is wildly ambitious.
 
@@ -785,13 +794,13 @@ The UCSD P-system is a lambasted operating system decades ahead of its time from
 
 "I don't care about the 8088." I finally say exasperated. "Look what did we have nine years ago? The MITS Altair 8800. A bank of lights, paper punched tape 256 byte of memory out of the box... now I've got 2500 times that sitting on my desk. What will the world be like nine years from now?" ... I pause, "Let's not build new things to glean harvested fields.  We are here to sow the seeds of the next season. Are we farmers or scavengers?"
 
-Chuck leans back in his chair, "That's very poetic but I agree with Gilda. How is this different from the P-System?"
+Chuck leans back in his chair, "That's very poetic but I agree with Kat. How is this different from the P-System?"
 
 Dealing with the past is so exhausting sometimes. I continue "We can all agree, in the future, the graphics layer will be more sensible, we will have faster buses so we don't have to jump through hoops to do 32-bit operations. We will have hardware instructions that simplify countless things. Claiming there's going to be a hardware P-System is unreasonable. Claiming there's going to be a 200 MB hard disk instead of a 10 MB one, 8 MB of memory instead of 640 KB, 256 colors instead of 2? This isn't fantasy. We all know it's coming, probably by the end of the decade. 
 
 These clever clockwork routines won't work on the machines with 50Mhz clocks. We need to think in a grounded basis that moves beyond it."
 
-Gilda finally understood that building empires and preparing for them are different games.
+Kat finally understood that building empires and preparing for them are different games.
 
 
 # Boston II
@@ -860,7 +869,7 @@ Chuck hands me back my "prop" and we shuffle off to the main room where I am fro
 
 "Let's imagine everything that constrains us is gone." I start as I scribble on the black board, "Instead of 640KB, we have Gigabytes, or even Terabytes of memory and terabytes of storage as well - practically endless." People are on the edge of their seat listening to this banter so I continue, "not only, but let's also assume that computation and graphics are easily solved. I can do full motion video, 3d scenes, supercomputer level computation. And just to be crazy let's also assume that I can communicate via radio frequencies, on the order of hundreds of megabytes a second."
 
-I see Gilda shake her head incredulously.
+I see Kat shake her head incredulously.
 
 "And since we are in the distant future, this is all utterly affordable. I can get the device itself for about the cost of a microwave or nice pair of running shoes and the service for about the monthly subscription to a newspaper." I breath in heavily, "well, I have done this exercise and I think it will look something like this." as I hold the dead phone up presenting it.
 
