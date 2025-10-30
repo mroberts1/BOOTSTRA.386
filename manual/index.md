@@ -10,15 +10,15 @@ classoption:
 
 # --- 2. FONT CONFIGURATION (The Robust Path Method) ---
 # Use the simple font name for the main font path.
-mainfont: CrimsonText-Regular
-mainfontoptions:
+#mainfont: CrimsonText-Regular
+#mainfontoptions:
   # The Path= MUST be on its own line and MUST be unquoted.
-  - Path=/usr/share/fonts/truetype/google-fonts/SERIF/
+#  - Path=/usr/share/fonts/truetype/google-fonts/SERIF/
   
   # The variants use only the filenames, appended to the Path above.
-  - BoldFont = CrimsonText-Bold.ttf
-  - ItalicFont = CrimsonText-Italic.ttf
-  - BoldItalicFont = CrimsonText-BoldItalic.ttf
+#  - BoldFont = CrimsonText-Bold.ttf
+#  - ItalicFont = CrimsonText-Italic.ttf
+#  - BoldItalicFont = CrimsonText-BoldItalic.ttf
 
 # --- 3. GEOMETRY (5.5" x 8.5" Page Size) ---
 geometry:
@@ -67,17 +67,17 @@ pandoc-latex-environment:
 
 # Preface
 
-It was Fall 1982. Headquarters in Boston tasked us with bringing the microcomputer to the mainstream. Their dream was a full-screen interface supporting pointing devices connected through any bus and color displays running on everything from future palmtops to today's mainframes. Also, they want it to fit on a single floppy and be usable by a non-technical person in minutes.
+Fall 1982: Headquarters in Boston tasks us with bringing the microcomputer to the mainstream. Their dream is a full-screen interface supporting pointing devices and color displays running on everything from future palmtops to today's IBM PC. Also, they want it to be usable by a non-technical person in minutes.
 
 The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.  We were going to try anyway. 
 
-We had no aspirations of becoming the cartographers of tomorrow's empires or breathing the first gasps of a rarified air that will eventually fill our technofuture. It was just kinda right place, right time, I guess.
+We had no aspirations of becoming the cartographers of tomorrow's empires or breathing the first gasps of a rarified air that will eventually fill our technofuture. That was just kinda right place, right time, I guess.
 
 This is our story.
 
 # Planning Party
 
-When Nolan Bushnell sold Atari and started Chuck-E-Cheese a few years ago we joked he was just going lower in the stack - providing the fuel to the fire on Sandhill Road. At least fuel to a team of ambitious engineers who I was eating late night pizza in Menlo Park on a Saturday night with shortly after Halloween.
+When Nolan Bushnell sold Atari and started Chuck-E-Cheese a few years ago we joked he is just going lower in the stack - providing the fuel to the fire on Sandhill Road. At least fuel to a team of ambitious engineers who I was eating late night pizza in Menlo Park on a Saturday night with shortly after Halloween.
 
 Like most Saturday night parties in Silicon Valley, we talked about the future of computing and how it was going to change the office of the 1990s. We were passing around this book, *Smalltalk-80*, describing some personal office computers by Xerox, unrelated to their 500 series minicomputers, to be used by just a single non-technical person to do work in a way that obsoletes the mail room, switchboard, and even the secretary.
 
@@ -723,20 +723,19 @@ Photographs
     \captionof{figure}{From Left to Right: Jay, Hasegawa, Orion, Gilda, and Chuck.}
     \label{fig:image2}
 \end{minipage}
-\end{center}
 
 \vspace{1.5em}
 
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{board.png}
-    \captionof{figure}{From "The Dreams of Tomorrow", photographed by Kidder, this is Jay writing up a mock interface. The men on the left and right are from potential customers from Ashton-Tate. The other two are Hasegawa and Gilda}
+    \captionof{figure}{From "The Dreams of Tomorrow", photographed by Kidder, this is Jay writing up a mock interface. The men on the left and right are potential customers from Ashton-Tate. The other two are Hasegawa and Gilda}
     \label{fig:image3}
 \end{minipage}
 \end{center}
 
 # BOOTSTRA
 
-I rolled in to the office at 9 AM Monday morning wearing the same thing I wore on Friday. First mistake. Everyone was in slacks and formal wear. I completely forgot that the street-wear tech office is a 1990s invention. That was casual Friday, this is Office Monday. Luckily nobody says anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
+I roll in to the office at 9 AM Monday morning wearing the same thing I wore on Friday. First mistake. Everyone is in slacks and formal wear. I completely forgot that the street-wear tech office is a 1990s invention. That was casual Friday, this is Office Monday. Luckily nobody says anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
 
 As I go to my cubicle, I see my company issued computer, an IBM PC with a classic giant heavy keyboard, a DOS prompt on the screen, 10MB hard drive, the works. There's these other boxes I don't recognize. One is labeled "Cyberdrive" another is a "MicroFazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
 
@@ -977,5 +976,5 @@ My goal now has become to create software that I can interact with like Jay inte
 \raggedright 
 \tiny
 
-Marching Ants is a 2025 *fictional* work by Chris McKenzie. It is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  You are free to share and adapt, provided you give appropriate credit. See creativecommons.org/licenses/by/4.0, github.com/kristopolous
+Marching Rectangles is a 2025 *fictional* work by Chris McKenzie. It is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  You are free to share and adapt, provided you give appropriate credit. See creativecommons.org/licenses/by/4.0, github.com/kristopolous
 
