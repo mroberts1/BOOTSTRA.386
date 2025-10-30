@@ -391,7 +391,7 @@ ORION: We can only hope to facilitate a fulfilling relationship with their desir
 THOMAS: Right (muffled) work with that? What are we building?
 ORION: The future is about managing infinities and disciplining imaginaries. 
 CHUCK: Not a product, a relationship.
-GILDA: So, SQL? An expert system? What CGA mode are we talking about? Got some 8086 routine we can use?
+GILDA: So, SQL? An expert system? What CGA mode are we talking about? Got some 8088 routine we can use?
 THOMAS: You're starting with the computer Gilda, and ending with the human. We ... we need to start with the human and end with the computer.
 GILDA: I'm not a behavioral psychologist.
 ORION: Better start...
@@ -565,7 +565,7 @@ Orion and I froze. "I think we had a mole" Orion says. "That's incredible." the 
 
 # Fail?
 
-Everyone has read Mythical Man-month, the idea that adding another developer too late in the game actually makes the product take longer.  The problem is it's February and we're basically right where we were at in the Tehachapi Denny's - not willing to clone VisiCorp and trying to move ahead. And now we not only have the Apple Lisa to deal with but thanks to Thomas we know that Microsoft is working on a graphical system as well. I'm sure IBM and Digital Research is in the game as well. 
+Everyone has read Mythical Man-Month, the idea that adding another developer too late in the game actually makes the product take longer.  The problem is it's March and we're basically right where we were at in the Tehachapi Denny's - not willing to clone VisiCorp and trying to move ahead. And now we not only have the Apple Lisa to deal with but thanks to Thomas we know that Microsoft is working on a graphical system as well. I'm sure IBM and Digital Research is in the game too.
 
 I feel asphyxiated before taking the first breath. I lean back in my chair. On the edge of my desk sit a pile of resumes. We get a trickle in constantly regardless of whether we have a job posted and it's my job to go through them and I do, sometimes, do my job on occasion. 
 
@@ -600,7 +600,7 @@ It was like an alien just landed in my backyard. I have no idea who he is but I'
 
 I pick up the phone and dial the number. A man on the other line answers, "Hello?". All I say is "Marching ants?"
 
-He responds "Sure why not? Start with F0, shift left, OR with NOT itself ANDED with 0x10 shift right 4 bits and repeat. Works really nicely on the 68000 but the 8086 can do it too."
+He responds "Sure why not? Start with F0, shift left, OR with NOT itself ANDED with 0x10 shift right 4 bits and repeat. Works really nicely on the 68000 but the 8088 can do it too."
 
 I say "Hold on let me check that" as I put the handset down on the table and work it out through a pen and pad of paper.  What a clever trick, 4 bits on, 4 bits off, sliding left-wise in a ring, it's an animation in a single byte with just a few operations for each frame. I pick up the handset "Can you come in for an interview tomorrow morning at 9:00 AM?"
 
@@ -728,6 +728,28 @@ Photographs
 
 # BOOTSTRA
 
+I rolled in to the office at 9 AM Monday morning wearing the same thing I wore on Friday. First mistake. Everyone was in slacks and formal wear. I had completely forgotten that the street wear tech office is a 1990s invention. That was casual Friday. Luckily nobody said anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
+
+As I enter I see my company issued computer, an IBM PC with a classic Model M keyboard, a DOS prompt on screen, 10MB hard drive, the works. There's these other boxes I don't recognize. One is labeled "CYBERDRIVE" another is a "Microfazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
+
+I am surprised but I really shouldn't be. What did I expect the programmer's workstation to look like in 1983? I guess I'm expected to know how to use this and the software on the disk labelled "IBM Macro Assembler"
+
+I don't. 
+
+I've never even touched an original IBM PC. I press the space bar. Ok, now I have.
+
+21st century computer programming is nothing like this. First of all, I have LLMs and the Internet. Second, I'm dealing with abstract objects that I have control and insight into. With this, I'm just sending core instructions to the processor. I need to have all kinds of opinions simply because nothing is being done for me.  And third, based on this floppy disk holder, they aren't using any revision control system. I'm apparently just supposed to make a daily floppy. There is something called SCCS and I think it's around but obviously it's not very popular.
+
+I'm well in over my head on this one. I look briefly at another programmer in the room. They're using the EDLIN line editor to navigate around the file and referencing a DOT matrix print-out. 
+
+I realized although I'm pretty familiar with the future, I'm actually not at all familiar with the past. I mean, I know the history but when handed the tools, I'm realizing I have no idea how to do the work.
+
+Somehow if I want to keep this job I'll have to bluff my way through while I do a self-study crash course, hopefully via the public library if they even have the reference books yet.
+
+---
+
+
+
 Tracy Kidder enters the chat
 
 Gilda snaps back, "Oh you want another UCSD P-system?"
@@ -736,7 +758,7 @@ The UCSD P-system is a lambasted operating system decades ahead of its time from
 
 "No, stop. Look. The P-System is for assembly that will never be native and CPUs that will never be built."
 
-"I don't care about the 8086." I finally say exasperated. "Look what did we have nine years ago? The MITS Altair 8800. A bank of lights, paper punched tape 256 byte of memory out of the box... now I've got 2500 times that sitting on my desk. What will the world be like nine years from now?" ... I pause, "Let's not build new things to glean harvested fields.  We are here to sow the seeds of the next season. Are we farmers or scavengers?"
+"I don't care about the 8088." I finally say exasperated. "Look what did we have nine years ago? The MITS Altair 8800. A bank of lights, paper punched tape 256 byte of memory out of the box... now I've got 2500 times that sitting on my desk. What will the world be like nine years from now?" ... I pause, "Let's not build new things to glean harvested fields.  We are here to sow the seeds of the next season. Are we farmers or scavengers?"
 
 Chuck leans back in his chair, "That's very poetic but I agree with Gilda. How is this different from the P-System?"
 
