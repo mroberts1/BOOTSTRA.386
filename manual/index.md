@@ -750,6 +750,14 @@ The room I'm sitting in has the same people from the interview along with a few 
 
 It's like my whole world has become analog. The song "21st Century Digital Boy" by Bad Religion starts going through my head. It's an oldies to me and to them it's like a decade in the future. I've never felt more screwed.
 
+I felt dumb asking questions, I should know this. Some people used this full screen editor and some were on a line editor. It almost looked like an old word processor. This might be the emacs/vim war of 1983 ... I'll probably be on the full screen side. 
+
+I watch one of the coders exit out of the program, return to the DOS prompt, then run a command and immediately get up and walk away. right, translating the code into computer binary used to take 10 minutes or so and the computer couldn't do anything else so you just press the compile button and walk away.
+
+It was then I realized that tools are a function of your behavior as much as behavior is a function of your tools... The delicate interplay is the thing we call productivity.
+
+Chuck taps me on the shoulder, "hey welcome aboard"
+
 ---
 
 
