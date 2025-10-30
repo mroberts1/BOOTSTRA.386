@@ -316,11 +316,11 @@ Grace reponds, "Ok, Eyes closed."
 
 Orion says "You look around."
 
-Grace interrups, "My eyes are closed Orion!"
+Grace interrupts, "My eyes are closed Orion!"
 
 Orion pauses, almost offended, and speaks slower "you look around with your eyes closed, somehow, with your imagination."
 
-She responds "ok, sorry. I am looking around."
+She responds "OK, sorry. I am looking around."
 
 Orion whispers "you focus your eyes on the calendar in the center, it is turned to March 15, 1988. I had you look at it when you walked in, you know what this looks like. Your gaze relaxes as you peer at the rest of your office and look up from your calendar. You turn your chair slightly. You are in front of a computer. It is a computer of the future, of 1988. One that we have never seen. What do you see?"
 
@@ -340,7 +340,7 @@ I don't need tools, what I actually need is help. The computer has to assist me,
 
 It's like I've been handed a revolver to change channels and I fear I may turn it on myself!" she starts to tremble.
 
-I open my eyes and look around, I feel like it's needed. I respond, "Ms. Jones, are you ok?". She doesn't responsd but goes on
+I open my eyes and look around, I feel like it's needed. I respond, "Ms. Jones, are you OK?". She doesn't respond but goes on
 
 "I don't want to operate a computer, I want to do my work!
 
@@ -348,15 +348,15 @@ Lord have mercy!
 
 I need the right tool! Not extra strength, Not heavy duty but appropriately sized and shaped for what I need to do!"
 
-Orion has now opened his eyes and is looking at me, "Ms. Jones, are you ok?"
+Orion has now opened his eyes and is looking at me, "Ms. Jones, are you OK?"
 
 She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, the shimmering darkness of this moldy rectangle invades my mind, trying to conquer the frontier of my thoughts. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again and detoxicify myself from its enabling malevolence."
 
-By now I look around and many people have opened ther eyes. Thomas actually never closed his and is writing all this down. I'm glad I have that notebook.
+By now I look around and many people have opened their eyes. Thomas actually never closed his and is writing all this down. I'm glad I have that notebook.
 
-Gilda speaks up, "Alright Ms. Jones, if you can hear me, what do we ned to build."
+Gilda speaks up, "Alright Ms. Jones, if you can hear me, what do we need to build."
 
-She responds "A machine of focus that vanquishes distraction and faciltates flow. Driven like a car yet played like a piano.  I will always run out of time before I run out of work. Attention isn't my focus, focus is my attention. Somehow we were always in control and we steered things into embankments. I don't know why ..."
+She responds "A machine of focus that vanquishes distraction and facilitates flow. Driven like a car yet played like a piano.  I will always run out of time before I run out of work. Attention isn't my focus, focus is my attention. Somehow we were always in control and we steered things into embankments. I don't know why ..."
 
 Orion reaches around the candles and places the calendar page on one of the flames as Ms. Jones jolts and wakes up
 
@@ -368,7 +368,7 @@ The room has a palpable deafening silence. It was my turn to speak to it.
 
 "Why of course, I'd be glad to" as Grace gets up and heads to the black board.
 
-The next 90 minutes we get a tour de force of Fitts Law on the keyboard home row, GOMS  efficiency models, KLM timing routines that harken back to Taylor's Scientific Management, all the dead-end ideas we were trying to run away from.
+The next 90 minutes we get a tour de force of Fitt's Law on the keyboard home row, GOMS  efficiency models, KLM timing routines that harken back to Taylor's Scientific Management, all the dead-end ideas we were trying to run away from.
 
 Various office members excused themselves in murmurs as the night wore on. The clock struck 1:00 AM as Grace concluded and excused herself as well. 
 
@@ -376,10 +376,10 @@ I thank her kindly and look at my core team, clearly ready for sleep, and try to
 
 Thomas puts his notebook down, "I don't know if I can maintain focus right now Chuck." 
 
-I realize I have an executive recorder I never use. Everyone agrees to stay and I roll it in on a cart. Here's the trascript I have from the reel-to-reel:
+I realize I have an executive recorder I never use. Everyone agrees to stay and I roll it in on a cart. Here's the transcript I have from the reel-to-reel:
 
 ```{.dialog}
-CHUCK: Ok, I think it's going. Thanks for waiting. Anyone want to start.
+CHUCK: OK, I think it's going. Thanks for waiting. Anyone want to start.
 GILDA: Orion, what on earth was that?
 ORION: The future I think?
 THOMAS: OK (muffled) What did we actually get from it?
@@ -399,7 +399,7 @@ ORION: Better start...
 
 And then the tape ends. I had forgotten to rewind the tape before pressing record.
 
-We are there until sunrise. I have no recollection exactly what we spoke, although I remember how it felt. I imagine it to be like one of the Milton Ericksons hypnotism sessions.
+We are there until sunrise. I have no recollection exactly what we spoke, although I remember how it felt. I imagine it to be like one of the Milton Erickson's hypnotism sessions.
 
 I came in to the office around noon the next day and looked at the blackboard, an artifact of the blacked out night. Grace's algorithms are partially erased and at the top, obviously in Thomas' penmanship, "Computer as a colleague" with "Goal" labeled flow diagrams and a digital divide from the human world to the digital and back again. 
 
@@ -478,7 +478,7 @@ We like the technology, it is genuinely something new. But we built it, it's our
 
 "Look, I'm doing the same thing I usually do, just now with cartoon symbols"  McBride says. "I had no idea how to build a pie graph in Lotus 123 and having a bunch of words splattered on the screen with drawings isn't clearing things up."
 
-"I am losing faith that these are products we should be building" McBride raises his eyebrows as hs shakes his head.
+"I am losing faith that these are products we should be building" McBride raises his eyebrows as he shakes his head.
 
 "I heard Lisa sales are terrible" Sheryl responds. 
 
@@ -490,7 +490,7 @@ And then, I commit a heresy.
 
 I swear someone scoffed at me and to this day I'll never know who. 
 
-McBride stares at me agressively, "You will be back here in 28 days. You will come with something better. Have a good day." 
+McBride stares at me aggressively, "You will be back here in 28 days. You will come with something better. Have a good day." 
 
 The meeting was over.  28 days is brutal.
 
@@ -500,7 +500,7 @@ I should probably use that health insurance while I still have it.
 
 So we threw a dart and hit the wall. Before we can find the bullseye we apparently need to locate the dart board.
 
-Luckily there's hundreds of companies a short drive away and a new computer just came on the market, the Compaq "portable". Weighing a mere 30 pounds, it can be tossed ... ok, dragged, into the back of my AMC Eagle. Thomas was my wing-man here. His binders full of notes and insistence on milking every detail out of someone is exactly what we need for this journey. 
+Luckily there's hundreds of companies a short drive away and a new computer just came on the market, the Compaq "portable". Weighing a mere 30 pounds, it can be tossed ... OK, dragged, into the back of my AMC Eagle. Thomas was my wing-man here. His binders full of notes and insistence on milking every detail out of someone is exactly what we need for this journey. 
 
 By far the most interesting experience we had was at an Ashton-Tate satellite office in Mountain View. It really started like all of our other demos. We go through a script of questions, show a variety of features, ask some pointed survey questions and then have a free form discussion. 
 
@@ -528,9 +528,9 @@ We all laugh and continue the demo.
 
 The day continues with diligence and we return to the office in the early afternoon. The Compaq stays in my trunk. It's a fine temporary home. 
 
-Thomas excuses himself for a smoke break and I go inside to meet with the rest of the team. I haven't disclosed this elsewhere but we have 16 people total. In negotations with the editors decided to exclude 12 for a variety of reasons, mostly because this text is long enough already. Regardless, I mention it here because I have a lot on my plate. There's QA, documentation, the device drivers team, I completely forgot to loop back in with Thomas.
+Thomas excuses himself for a smoke break and I go inside to meet with the rest of the team. I haven't disclosed this elsewhere but we have 16 people total. In negotiations with the editors decided to exclude 12 for a variety of reasons, mostly because this text is long enough already. Regardless, I mention it here because I have a lot on my plate. There's QA, documentation, the device drivers team, I completely forgot to loop back in with Thomas.
 
-But then, the next day, he didn't come in. This happens occasionally. Employees can dissappear for a day. They can tell people and then we forget or they might get sick or have car issues and can't reach us ... but two days, that's when we get worried. I went around with one of those unnamed people that day to do my demo, someone from the documentation team. It was fine. Not as good as Thomas, but fine.
+But then, the next day, he didn't come in. This happens occasionally. Employees can disappear for a day. They can tell people and then we forget or they might get sick or have car issues and can't reach us ... but two days, that's when we get worried. I went around with one of those unnamed people that day to do my demo, someone from the documentation team. It was fine. Not as good as Thomas, but fine.
 
 But then he was missing a second day. That's when we start to reach out. The phone number on record is our go to. A woman picks up the phone. We say we're looking for Thomas. She says "Thomas?" then she pauses for a second almost as if she remembered something, "Oh yes, I'm his wife. I'm not supposed to tell you much." she says, her voice strained, "I can tell you that he's in good health and unfortunately is resigning from BOOTSTRA." and then hangs up the phone.
 
@@ -548,19 +548,19 @@ I don't know what I'm doing. "Just try it. Put it on speaker, I'll close the doo
 
 Orion dials the phone and we hear it over the conference line, "Hey is Greg there" he asks. "No, he's at work right now. Can I take a message?" the woman responds. Orion presses the mute, "what now?" 
 
-"Make up a name, say you're an old friend from Microsoft" I wave my hands, not knowing what to do. Orion unmutes, "Sure, just tell him Maxwell Smart, an old friend from Microsoft called, he should know my number". The woman says "No problem, I'm sure he'll be happy to hear from you". 
+"Make up a name, say you're an old friend from Microsoft" I wave my hands, not knowing what to do. Orion un-mutes, "Sure, just tell him Maxwell Smart, an old friend from Microsoft called, he should know my number". The woman says "No problem, I'm sure he'll be happy to hear from you". 
 
-"Ok thanks" Orion says and lifts the hand set and drops it.
+"OK thanks" Orion says and lifts the hand set and drops it.
 
 "Maxwell Smart? From Get Smart?" I say. Orion shrugs his shoulders, "Might as well use a spy name to spy."
 
-I ask Orion to stay in the room as I flip through my rolodex and call up Donald from Ashton-Tate. "Hey Donald, who was that guy who interrupted us? I see, can you transfer us" the line clicks and goes dead for a second, "Hi, this is Chuck, from BOOTSTRA, Don't worry, I'm not angry. Tell me a bit more about what you remember about Greg. Yes..."
+I ask Orion to stay in the room as I flip through my Rolodex and call up Donald from Ashton-Tate. "Hey Donald, who was that guy who interrupted us? I see, can you transfer us" the line clicks and goes dead for a second, "Hi, this is Chuck, from BOOTSTRA, Don't worry, I'm not angry. Tell me a bit more about what you remember about Greg. Yes..."
 
-Pitman shorthand, smoking breaks, multiple pen colors, 3x5 index cards, it was stunningly accurate. Then he said the clincher "The craziest part about it. 8PM, not AM, PM meeting."
+Pitman shorthand, smoking breaks, multiple pen colors, 3x5 index cards, it was stunningly accurate. Then he said the clincher "The craziest part about it. 8 PM, not AM, PM meeting."
 
 I still find it hard to believe "How sure are you?". He replies "I have his business card right here. Greg Stillman, Features Research. Here call his home phone number" and he read off the number we just called, twice. 
 
-Orion and I froze. "I think we had a mole" Orion says. "That's incredible." the man says. "It's ok. Potemkin sucks anyway, we need to toss most of it in the garbage" I reply, "I hope I didn't cause issues for you at the office." the man laughs, "I don't work for Donald. It's fine." We thank him and hang up the phone.
+Orion and I froze. "I think we had a mole" Orion says. "That's incredible." the man says. "It's OK. Potemkin sucks anyway, we need to toss most of it in the garbage" I reply, "I hope I didn't cause issues for you at the office." the man laughs, "I don't work for Donald. It's fine." We thank him and hang up the phone.
 
 
 # Fail?
@@ -602,7 +602,7 @@ I pick up the phone and dial the number. A man on the other line answers, "Hello
 
 He responds "Sure why not? Start with F0, shift left, OR with NOT itself ANDED with 0x10 shift right 4 bits and repeat. Works really nicely on the 68000 but the 8086 can do it too."
 
-I say "Hold on let me check that" as I put the handset down on the table and work it out through a pen and pad of paper.  What a clever trick, 4 bits on, 4 bits off, sliding left-wise in a ring, it's an animation in a single byte with just a few operations for each frame. I pick up the handset "Can you come in for an interview tomorrow morning at 9am?"
+I say "Hold on let me check that" as I put the handset down on the table and work it out through a pen and pad of paper.  What a clever trick, 4 bits on, 4 bits off, sliding left-wise in a ring, it's an animation in a single byte with just a few operations for each frame. I pick up the handset "Can you come in for an interview tomorrow morning at 9:00 AM?"
 
 He says "Absolutely!"
 
@@ -671,7 +671,7 @@ Everyone thinks time travel is going to be glamorous but really, you go back to 
 
 No friends, bank account, connections, place to live... 
 
-February 1983 wasn't really a time of significance. It's hard to explain but not all times are equally accessible. There's a topology and the distances are very non-euclidean. It's just as uneven and entropic as everything else this universe creates. For whatever reason, the next easily accessible date that requires under 50KW and wasn't millions of years ago is February 1983, 25 years before I was born. I have about a 5 minute window at 3:32am tonight to catch it otherwise I will be sent off to somewhere in the Proterozoic.
+February 1983 wasn't really a time of significance. It's hard to explain but not all times are equally accessible. There's a topology and the distances are very non-euclidean. It's just as uneven and entropic as everything else this universe creates. For whatever reason, the next easily accessible date that requires under 50KW and wasn't millions of years ago is February 1983, 25 years before I was born. I have about a 5 minute window at 3:32 AM tonight to catch it otherwise I will be sent off to somewhere in the Proterozoic.
 
 The best way to travel isn't to get vintage currency, that's expensive. What I do is purchase jewelry at estate sales. Then I pawn it off. At least that way I'll have a few hundred bucks. 
 
@@ -732,13 +732,13 @@ Tracy Kidder enters the chat
 
 Gilda snaps back, "Oh you want another UCSD P-system?"
 
-The UCSD P-system is a lambasted operating system decades ahead of its time from the late 1970s. Similar to how Android, Python, PHP, Ruby, and the Web work in the 21sth century code is written against not the underlying computer but for a suite of functions that run on a theoretical, idealized "virtual machine". On the P-System, it's done in Pascal and compiled to something called P-code. This inarguably works as it is the primary way software is written in the 21st century. Modern processors have specialized instructions and architectures to accomodate for software that uses such design. They have the resources to orchestrate such an abstraction. However, on early 1980s computer hardware, this is wildly ambitious.
+The UCSD P-system is a lambasted operating system decades ahead of its time from the late 1970s. Similar to how Android, Python, PHP, Ruby, and the Web work in the 21st century code is written against not the underlying computer but for a suite of functions that run on a theoretical, idealized "virtual machine". On the P-System, it's done in Pascal and compiled to something called P-code. This unarguably works as it is the primary way software is written in the 21st century. Modern processors have specialized instructions and architectures to accommodate for software that uses such design. They have the resources to orchestrate such an abstraction. However, on early 1980s computer hardware, this is wildly ambitious.
 
 "No, stop. Look. The P-System is for assembly that will never be native and CPUs that will never be built."
 
-"I don't care about the 8086." I finally say exasperated. "Look what did we have nine years ago? The MITS Altair 8800. A bank of lights, paper punched tape 256 byte of memory out of the box... now I've got 2500 times that sitting on my desk. What will the world be like nine years from now?" ... I pause, "Let's not build new things to glean harvested fields.  We are here to sow the seeds of the next season. Are we farmers or scavangers?"
+"I don't care about the 8086." I finally say exasperated. "Look what did we have nine years ago? The MITS Altair 8800. A bank of lights, paper punched tape 256 byte of memory out of the box... now I've got 2500 times that sitting on my desk. What will the world be like nine years from now?" ... I pause, "Let's not build new things to glean harvested fields.  We are here to sow the seeds of the next season. Are we farmers or scavengers?"
 
-Chuck leans back in his chair, "That's very poetic but I agree with Gilda. How is this dfferent from the P-System?"
+Chuck leans back in his chair, "That's very poetic but I agree with Gilda. How is this different from the P-System?"
 
 Dealing with the past is so exhausting sometimes. I continue "We can all agree, in the future, the graphics layer will be more sensible, we will have faster buses so we don't have to jump through hoops to do 32-bit operations. We will have hardware instructions that simplify countless things. Claiming there's going to be a hardware P-System is unreasonable. Claiming there's going to be a 200 MB hard disk instead of a 10 MB one, 8 MB of memory instead of 640 KB, 256 colors instead of 2? This isn't fantasy. We all know it's coming, probably by the end of the decade. 
 
@@ -749,9 +749,9 @@ Gilda finally understood that building empires and preparing for them are differ
 
 # Boston II
 
-Silicon Valley didn't really become tech center until the 1990s. The corporate office is in a neoclassical brick building off Route 128 where everyone still dresses in suits, even on Friday. We enter the executive conference room with our duffelbag
+Silicon Valley didn't really become tech center until the 1990s. The corporate office is in a neoclassical brick building off Route 128 where everyone still dresses in suits, even on Friday. We enter the executive conference room with our duffel bag
 
-McBride stands up "Chuck, what the hell is that?" as we pull out the butcher paper and rolodex. He looks at me and I respond, "it's our software."
+McBride stands up "Chuck, what the hell is that?" as we pull out the butcher paper and Rolodex. He looks at me and I respond, "it's our software."
 
 McBride shakes his hands exasperated, "your software? where's the computer?"
 
@@ -823,13 +823,13 @@ I look around the room, this is somehow working.
 
 "What's that on the back" Orion raises his finger.
 
-Without missing a beat I say "Ah that! That's for digital photography and videography." Hasegawa starts snapping photos as I continue, "this is about the size of an instamatic if you rotate it on its side" as I hold the phone in landscape mode, "see these buttons on top can be contextual. Sometimes it can raise volume, other times it can power the device or snap pictures, it all depends on what mode you are in."
+Without missing a beat I say "Ah that! That's for digital photography and videography." Hasegawa starts snapping photos as I continue, "this is about the size of an Instamatic if you rotate it on its side" as I hold the phone in landscape mode, "see these buttons on top can be contextual. Sometimes it can raise volume, other times it can power the device or snap pictures, it all depends on what mode you are in."
 
 And then, "after you snap your picture you have it on the screen and can use the radio network to send it to someone or even share it publicly by uploading it to a server, all with a few strokes of the thumbs, in seconds."
 
-"Incredible" Chuck mouths as I see Kidder slip into the room fervantly writing down notes. "So the schedulebook problem, it's solved by this" I go on, "Your communal calendar automatically updates and people can RSVP for your meetings electronically... In fact", I speak slowly and deliberately, "the entire meeting can happen on the box. Look at this notch in the front, it's a second camera lens, this one faces the user. All the meeting attendants start the conference program and hold the box up at the scheduled time and they enter a virtual meeting space where they can collaborate like a party line"
+"Incredible" Chuck mouths as I see Kidder slip into the room fervently writing down notes. "So the schedule-book problem, it's solved by this" I go on, "Your communal calendar automatically updates and people can RSVP for your meetings electronically... In fact", I speak slowly and deliberately, "the entire meeting can happen on the box. Look at this notch in the front, it's a second camera lens, this one faces the user. All the meeting attendants start the conference program and hold the box up at the scheduled time and they enter a virtual meeting space where they can collaborate like a party line"
 
-I let the silence do the talking. "The possibilites, they are endless. Imagine biometric authentication, paying for things via a cryptographic radio protocol, just hovering the device over a payment terminal. Or what about navigation? Imagine a constellation of geo-stationary satellites where you can triangulate your position, super-impose it on top of a map, which is constantly updated from a remote server, and then have it suggest a navigational route."
+I let the silence do the talking. "The possibilities, they are endless. Imagine biometric authentication, paying for things via a cryptographic radio protocol, just hovering the device over a payment terminal. Or what about navigation? Imagine a constellation of geo-stationary satellites where you can triangulate your position, super-impose it on top of a map, which is constantly updated from a remote server, and then have it suggest a navigational route."
 
 "Now, " I go on, clearly getting ahead of myself, "if everyone has one and if they all contact the same server for the navigation, you could offer traffic conditions because you know how fast the devices, and thus the vehicles are moving. You don't have to listen to the AM radio for traffic, you have every accident and slowdown updated in real time."
 
@@ -863,7 +863,7 @@ With nothing much more to go on I go to the police and fill out a missing person
 
 Wednesday morning around noon I get a call from the police. What I heard made me think we had another Thomas on our hands. The social security number? Fake - not scheduled to be issued for decades. Nothing matched real information at least as far as the police were concerned. I didn't know what to do. I leave work early that day in a daze and head back to the apartment and knock on the manager's door. I give her the situation and she's just as shocked as I am.
 
-Her info on him matches ours. We go to open his mailbox to investigate and a flood of unopened mail comes pouring out addressed to previous tenants. It looks like he has never opened the box. The samsonite suitcase he brought to Boston was gone. 
+Her info on him matches ours. We go to open his mailbox to investigate and a flood of unopened mail comes pouring out addressed to previous tenants. It looks like he has never opened the box. The Samsonite suitcase he brought to Boston was gone. 
 
 I walk over to his PC, which is still up and running and flick on the monitor. On it is a black screen with the text: "Look Under Keyboard. This Page Intentionally Left Blank".
 
@@ -885,7 +885,7 @@ I lift the keyboard and find a team photograph I've included in this text and a 
 
 Hasegawa, who is leaning back in his chair, chokes on his coffee as he sits forward. "Sharaku!" he blurts out. "It's Sharaku, not shock-a-roo." We all look confused.
 
-Hasegawa clears his throat, "Sharaku Toshusai is a legendary Ukiyo-e artist in Japan. He came from nowhere, revolutionized Japanese art. He was the first to show the human side of the actors, the unflattering wrinkles and imperfections - not as we imagine but as they are. As a result his art appear more real, more authentic to life. You can see the full human in his work. But then, 10 months later, he dissappears without a trace. Nobody knows who he is, all we have are the prints. Children in Japan are told tales about him as a magical fox in school..."
+Hasegawa clears his throat, "Sharaku Toshusai is a legendary Ukiyo-e artist in Japan. He came from nowhere, revolutionized Japanese art. He was the first to show the human side of the actors, the unflattering wrinkles and imperfections - not as we imagine but as they are. As a result his art appear more real, more authentic to life. You can see the full human in his work. But then, 10 months later, he disappears without a trace. Nobody knows who he is, all we have are the prints. Children in Japan are told tales about him as a magical fox in school..."
 
 We sit in silence for a few minutes and realize he's gone, intentionally.  Hasegawa looks at me, "Press any key to continue" he stutters. 
 
@@ -895,7 +895,7 @@ As the months and years go by I increasingly realize Sharaku is a metaphor for t
 
 It's moreover the philosophy of tools: they exist to bring harmony to your life. They need to exit before they're disruptive or a nuisance. 
 
-But of course, there's a lot of money to be made, a lot of power to be had by broken tools: they hold your attention hostage as you chase fleeting harmony - one they temporarily bequeath you at a cost like some kind of narcotic. These tools are fundamentally disingenous, facilitators of habitual self-abuse in the name of expedience. This is probably what television is.
+But of course, there's a lot of money to be made, a lot of power to be had by broken tools: they hold your attention hostage as you chase fleeting harmony - one they temporarily bequeath you at a cost like some kind of narcotic. These tools are fundamentally disingenuous, facilitators of habitual self-abuse in the name of expedience. This is probably what television is.
 
 The ideal tools are free of this negotiated cadence - they under-ask yet over-deliver and facilitate without exploitation. That's what I want to have exist in the world.
 
