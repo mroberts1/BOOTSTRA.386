@@ -468,8 +468,32 @@ What we need to do is two-fold:
 
 It wasn't so much that Potemkin is moving a solid line but closer to a ragged perimeter, capturing the more laboriouis tasks from the user and freeing them of the burden. At least that's the objective.
 
+## Facet-views: A new paradigm
 
----
+As I sat around trying to plan I said the classic aphorism that I just couldn't square the circle on the project. It was at that time that Kat made the real breakthrough, "No, it's Prince Ruperts Cube". In this mathematical puzzle you are supposed to pass a "convex polyhedra" (let's use a cube) through itself, fully. This is certainly possible.
+
+Imagine a cube turned on its side, casting a shadow. That shadow is bigger than a face of the cube, of course. So therefore the cube can pass through that shadow, leaving slivers of the projection. Kat is saying that no matter how we try to map our concepts to something physical we always get Prince Ruperts Cube - there's never a completely mapping.
+
+It's the nature of trade-offs: you need to have an opinion on what residue you leave out of your physical manifestations. Or, maybe, you don't.
+
+Going back to our cube, we are free to rotate it, make it encompass different parts and leave other parts out. We don't need to constrain ourselves to a single interface. We can have different ones appropriate for different tasks, that re-imagine the software through bold new ways of thinking.
+
+So our process is to keep copies of each of the Goal diagrams we make and then we try to map them to various piece of software and then categorize the optimizations into different buckets we call facets.
+
+The user chooses the facet given the task by selecting the F key corresponding to the task. Then the DOS pass throughs get arranged in a way that optimizes to their needs.
+
+Each screen, similar to the various screens on the Fairlight CMI interface, allow the user to interact with their computer and their data in new and exciting ways. The keyboard shortcuts are specific to the facet-view. 
+
+Here's an examples. If the user wants their work to be destined for the printer, they go into the paper facet (F3). Now Ctrl+S instead of saving the file, goes directly to the printer! The flow and layout on the screen mimics what the printer is set up as.
+
+To save, simply pass back to the file facet (F1) and then navigate the picture bar and press the same button, in this case the print icon, because you're printing to file.
+
+This way we have persistent pictures, dynamic metaphors, and accessible key-strokes that can facilitate the user throughout the development process! 
+
+And what more, we can even embed it in the document. As a user is writing a computer program. As they go between the code and the comment, the keymappings change from word-processor to code-processor, the metaphors effortless slide back and forth, if the user is in a comment, our print picture prints the code to the printer. Move down to a line of computer code and now that same button compiles the code - the one in the top corner, always doing exactly what you expect!
+
+The compactness and streamline allow us to say you can have a "640k system with 576k left over". Everything is done through jump tables, pointers and low-level bitwise operations like an intricate elegant clock. It's like Buckminster Fuller graced our presence and wrote the software himself.
+
 
 # Abort?
 
