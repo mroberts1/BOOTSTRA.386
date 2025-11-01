@@ -71,7 +71,7 @@ Fall 1982: FNC Headquarters in Boston tasks us with bringing the microcomputer t
 
 The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.  
 
-This is why I'm manning an office 3,000 miles away in Menlo Park, heading "Project Sparkle", an ambitious moonshot by FNC to try and build such a thing.
+This is why I'm manning an office 3,000 miles away in Menlo Park heading *Project Sparkle*, an ambitious moonshot by FNC to try and build such a thing.
 
 We had no serious expectations of becoming the cartographers of tomorrow's empires or breathing the first gasps of a rarified air that will eventually fill our technofuture. That was just kinda right place, right time, I guess.
 
@@ -111,7 +111,7 @@ But like most of our Saturday night conversations this disappeared into the ethe
 
 # On The Road
 
-The drive on Sunday to Vegas was a bit much for the 1973 Winnebago but it was the only vehicle we could rent that had a power outlet. Plus it's pretty fun. Going to Comdex is kinda like camping. OK, not really, we have a hotel. 
+The drive on Sunday to Vegas was a bit much for the 1973 Winnebago but it was the only vehicle we could rent with a power outlet. Plus it's pretty fun. Going to Comdex is kinda like camping. OK, not really, we have a hotel. 
 
 Comdex is a crucial convention for the tech industry. If you miss it, then you might as well just go out of business.
 
@@ -121,7 +121,7 @@ Among engineers the only skill required for spy-craft is smiles and flattery. Th
 
 The back of the Winnebago has Hasegawa, Orion, Kat and a fourth member, Thomas, sitting around 3 microcomputers as I drive down the I-5 past fields of food and cows. So many fragrant cows. Almost makes me want to go vegetarian.
 
-If you haven't had the chance to use a computer yet, let me introduce you to the strangeness. You get a 25 pound box that you place on a table and plug into a wall. Then you flip a switch and it gets increasingly noisy until the box sounds like it needs muffler. The machine chirps a beep as the screen or television you plugged into turns on and, usually, you see an incrementing number in the top left. It will go up into the hundreds in increments of 16. This checks what is known as volatile memory, it's what the computer needs to shuffle things around in its brain.
+If you haven't used a computer yet, let me introduce you to the strangeness. You get a 25 pound box that you place on a table and plug into a wall. Then you flip a switch and it gets increasingly noisy until the box sounds like it needs muffler. The machine chirps a beep as the screen or television you plugged into turns on and, usually, you see an incrementing number in the top left. It will go up into the hundreds in increments of 16. This checks what is known as volatile memory, it's what the computer needs to shuffle things around in its brain.
 
 A top of the line computer these days will go up to 640, which is about the size in computer terms of a paperback novel. This takes minutes. Enough for you to make a cup of coffee. 
 
@@ -397,7 +397,7 @@ KAT: I'm not a behavioral psychologist.
 ORION: Better start...
 ```
 
-And then the tape ends. I had forgotten to rewind the thing before pressing record.
+And then the tape ends. I forgot to rewind the thing before pressing record.
 
 We are there until sunrise. I have no recollection exactly what we spoke although I remember how it felt. I imagine it to be like one of the Milton Erickson's hypnotism sessions.
 
@@ -437,7 +437,7 @@ Our job, however, is the invasion of Normandy. The digital Potsdam Accords are l
 
 MS-DOS function requests are done in 2 bytes. There's a catalog of what each of these codes mean. 09H (that's in base-16, don't ask) for instance, is "Display string" where "string" means a string of characters, as in some sentence. 16H is "Create file" and so on. What our team is trying to do is map each of these to their graphical equivalent. What would that look like in a VisiCorp like system? The idea is that then our traditional DOS program will, if we can say, magically transform to a graphical one with our technology.
 
-We called in project Potemkin because we are really just scaffolding friendlier front doors and hopefully getting more people to open them.
+We called it project Potemkin because we are really just scaffolding friendlier front doors and hopefully getting more people to open them. That's internal. External it's called Sparkle because FNC calls it Sparkle.
 
 We widely agreed this is the only viable way forward. We aren't large enough to command a position in every meaningful place in the marketplace so we must carve out our own. 
 
@@ -494,14 +494,31 @@ Each screen, similar to the various screens on the Fairlight CMI interface, allo
 
 Here's an examples. If the user wants their work to be destined for the printer, they go into the paper facet (F3). Now Ctrl+S instead of saving the file, goes directly to the printer! The flow and layout on the screen mimics what the printer is set up as.
 
-To save, simply pass back to the file facet (F1) and then navigate the picture bar and press the same button, in this case the print icon, because you're printing to file.
+To save, simply pass back to the file facet (F1) and then navigate the picture bar and press the same button, in this case the print picture, because you're printing to file.
 
 This way we have persistent pictures, dynamic metaphors, and accessible key-strokes that can facilitate the user throughout the development process! 
 
-And what more, we can even embed it in the document. As a user is writing a computer program. As they go between the code and the comment, the keymappings change from word-processor to code-processor, the metaphors effortless slide back and forth, if the user is in a comment, our print picture prints the code to the printer. Move down to a line of computer code and now that same button compiles the code - the one in the top corner, always doing exactly what you expect!
+And what more, we can even embed it in the document. As a user is writing a computer program, they go between the code and the comments, the keymappings change from word-processor to code-processor, the metaphors effortless slide back and forth, if the user is in a comment, our print picture prints the code to the printer. Move down to a line of computer code and now that same button compiles the code - the one in the top corner, always doing exactly what you expect!
 
 The compactness and streamline allow us to say you can have a "640k system with 576k left over". Everything is done through jump tables, pointers and low-level bitwise operations like an intricate elegant clock. It's like Buckminster Fuller graced our presence and wrote the software himself.
 
+Since we needed to explore these interfaces we create a file format that will load each one. They are stored in object files, that the user could, ostensibly make themselves and then share around their own office.
+
+All the user needs to do is code the schematic in Forth and compile! 
+
+## It Sparkles
+
+We have an entire wall dedicated to drawing the design of Potemkin and we place strings and pins on top of it as property lines, passing regions off to specific developers. 
+
+Each of these regions correspond to a filing cabinet where all the tasks and issue live for that particular team.
+
+My week is full of going left-to-right, top to bottom on the diagram, like a CRT scan gun. I walk over and meet with each of the islands of teams and then go back and do it again. 
+
+Then, every Friday we get together for lunch and see if the map needs to be redrawn.
+
+The entire process feels like ptolemaic celestial mechanics. 
+
+---
 
 # Abort?
 
@@ -515,27 +532,53 @@ I know this is a lot of musings but I'm on a TWA flight from SFO to Boston with 
 
 We like the technology, it is genuinely something new. But we built it, it's our natural proclivity. The other people at the office, not so much. How much of a problem this is I'm about to find out.
 
----
+I load up Potemkin and introduce the executives to the facet way of viewing the world. I show how you can glide smoothly around metaphors with the F keys and how it's like having a dozen computers in one.
 
-"Look, I'm doing the same thing I usually do, just now with cartoon symbols"  McBride says. "I had no idea how to build a pie graph in Lotus 123 and having a bunch of words splattered on the screen with drawings isn't clearing things up."
+After I was done with my breathless presentation, a VP named McBride gets out a notebook. 
+
+"Alright Mr. Gaoler [My last name]."  McBride sits back in his leather chair, "we expected you to give a compelling presentation and you delivered. However, we have to actually use the thing."
+
+McBride puts his bifocals on as he looks at the notebook, "Task 1: I have to print a pie chart"
+
+I start talking trying to describe.
+
+McBride holds up his hand, "Now Mr. Gaoler! You will not be there for every user. If I cannot figure this out myself, then the product is no good." 
+
+I see McBridge move the mouse pointer around the screen and talk to his colleague Sheryl, "Do you know where the pie chart button is?"
+
+Sheryl looks over his shoulder, "maybe you need to press those F keys". I watch as McBride cycles through the F keys. He doesn't know the metaphores. "It's the aggregate button, the big A" I keep thinking, "In the Print facet." 
+
+After 5 minutes he and Sheryl whisper to each other and look back from the screen.
+
+"Look, I feel like doing the same thing I usually do, just now with cartoon symbols"  McBride says. "I have no idea how to build a pie graph in Lotus 123 and having a bunch of words splattered on the screen with drawings isn't clearing things up."
+
+Sheryl interjects, "I'm sure these features are very powerful but tools I cannot use are effectively useless."
+
+McBride removes the floppy disk from the computer and has it in his hand, labeled "Sparkle" with today's date. He glances at it and then looks at me.
 
 "I am losing faith that these are products we should be building" McBride raises his eyebrows as he shakes his head.
 
-"I heard Lisa sales are terrible" Sheryl responds. 
+"I hear Lisa sales are terrible" Sheryl responds, "Maybe all we need is an easier to use DOS"
 
-I focus my eyes on an existential plane, feeling myself astral project, like I'm leaving the my corpial form. This is become a memory before an experience. My lips start moving, words start coming out but I have no recollection of the thoughts being generated: "Pretend you sleep for 20 years and wake up. You walk into the office of the 21st century. Everyone is using a computer. Are they manipulating things on the screen or using a command line?"
+"Yes, that might be fine. Something that's a little less technical looking. Why didn't you make that instead" McBride sighs in dissappointment.
+
+"Make that instead? That's like a week of work" I think. "If I had made that they woud have asked for this. There's no win here." 
+
+I focus my eyes on an existential plane, feeling myself astral project, like I'm leaving the my corpial form. This has become a memory before an experience. My lips start moving, words start coming out but I have no recollection of the thoughts being generated: "Pretend you sleep for 20 years and wake up. You walk into the office of the 21st century. Everyone is using a computer. Are they manipulating things on the screen or using a command line?"
 
 And then, I commit a heresy.
 
 "If everyone is to have a computer, are there more people or companies? What will the demands be for a $500,000 FNC 7000-DS series minicomputer be in the year 2000 in a world of $500 micros?" 
 
-I swear someone scoffed at me and to this day I'll never know who. 
+I swear someone scoffed at me and to this day I'll never know who. Imagining a future without every office having a Minicomputer room was just unthinkable to corporate.
 
-McBride stares at me aggressively, "You will be back here in 28 days. You will come with something better. Have a good day." 
+McBride whispers with Sheryl a bit more. I hear them say something like "it's not costing us mach." and "the payoff might be huge". McBride shrugs and turns to me sternly
+
+He stares at me aggressively, "You will be back here in 28 days. You will come with something better. Have a good day." 
 
 The meeting was over.  28 days is brutal.
 
-I should probably use that health insurance while I still have it.
+I should probably go use that health insurance while I still have it.
 
 # Retry?
 
@@ -553,7 +596,7 @@ Thomas looks at him and says "I'm sorry?"
 
 The man replies "We spoke with you last month. You're working on that secret graphical system at Microsoft". 
 
-I had to interject, "I'm sorry. I don't mean to be rude. Thomas has been with us at FNC for over a year. I'm sorry, I think you're mistaken... We do have our own graphical system if you'd like to see."
+I interjected, "I'm sorry. I don't mean to be rude. Thomas has been with us at FNC for over a year. I'm sorry, I think you're mistaken... We do have our own graphical system if you'd like to see."
 
 The man steps back in confusion, his face turning red in embarrassment "I'm ... I'm sorry. You look and sound just like him. I'm so sorry for interrupting you. Excuse me. I'm so sorry Donald." 
 
