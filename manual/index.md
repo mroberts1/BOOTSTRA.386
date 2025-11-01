@@ -67,11 +67,13 @@ pandoc-latex-environment:
 
 # Preface
 
-Fall 1982: FNC Headquarters in Boston tasks us with bringing the microcomputer to the mainstream. Their dream is a full-screen interface supporting pointing devices and color displays running on everything from future palmtops to today's IBM PC usable by a non-technical person in minutes.
+Fall 1982: FNC Headquarters in Boston tasks us with bringing the microcomputer to the mainstream. Their dream is a full-screen interface supporting pointing devices and color displays running on everything from future palmtops to today's IBM PC and usable by a non-technical person in minutes.
 
-The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.  Hence why I'm manning an office 3,000 miles away in Menlo Park, operating "Project Sparkle". 
+The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.  
 
-We had no aspirations of becoming the cartographers of tomorrow's empires or breathing the first gasps of a rarified air that will eventually fill our technofuture. That was just kinda right place, right time, I guess.
+This is why I'm manning an office 3,000 miles away in Menlo Park, heading "Project Sparkle", an ambitious moonshot by FNC to try and build such a thing.
+
+We had no serious expectations of becoming the cartographers of tomorrow's empires or breathing the first gasps of a rarified air that will eventually fill our technofuture. That was just kinda right place, right time, I guess.
 
 This is our story.
 
@@ -83,7 +85,7 @@ Like most Saturday night parties in Silicon Valley, we talked about the future o
 
 Xerox invented a way to make these computers talk to each other similar to how Kahn, Kleinrock and Cerf did with their ARPA project at UCLA but without the giant BBN machine. Instead it was an add-on board - Metcalfe, the inventor, called it Ethernet.
 
-As we ate our pizza, Kat, a gifted Engineer from Stanford, pointed out that this was only going to be useful if non-technical people, without reading manuals, were able to effectively use the computers.
+As we ate our pizza, Kat, a gifted Engineer from Stanford, who prefers that name over Kathy so as to "not waste everybody's time", points out that this was only going to be useful if non-technical people, without reading manuals, are able to effectively use the computers.
 
 "This is a monumental task", she says, while munching on a slice of pizza, "think about the desk calculator. We can't effectively explain the memory and percent buttons to people, how do you expect those same people to typeset a sales report by themselves?"
 
@@ -125,7 +127,7 @@ A top of the line computer these days will go up to 640, which is about the size
 
 And then the diskette drives make a disturbing crunching sound as their lights go red, looking to see if anything is in there. If it's not, then the default system loads or maybe you have to have something in there to start.  Depends on the computer.
 
-Regardless, this is eventually followed by a prompt which consists of a series of characters followed by a blinking rectangle called a cursor.  Now it's your turn: you instruct the computer what to do through terse languages inside of that default software, which has names like "CP/M" and "MS-DOS". Yes, it's all caps with symbols in between them. For the first name you just say the letters and omit the slash. The second name is not a fair maiden named Ms. Dos nor do you say all the letters. Instead the "MS" is letters and the "DOS" part rhymes with loss.
+Regardless, this is eventually followed by a prompt which consists of a series of characters followed by a blinking rectangle called a cursor.  Now it's your turn: you instruct the computer what to do through terse languages inside of that default software, which in our case is called "MS-DOS". Yes, it's all caps with a hyphen. This isn't referring to a fair maiden named Ms. Dos nor do you say all the letters. Instead the "MS" is letters and the "DOS" part rhymes with loss.
 
 These machines, costing thousands of dollars each, are, eventually, supposed to replace the back-office and be orchestrated by the general public.
 
@@ -165,7 +167,7 @@ Thomas returns soon as well after talking to a young a Indian programmer with a 
 
 Back in the 70s Enterprise Resource Planning (ERP) software was hot. if you're manufacturing something, you have this cascade of inputs with costs, availability, all these constraints. You need to make sure you aren't losing money. In larger firms it's actually not easy to know how to price things and where the money is going and coming from. so spreadsheets, specifically Lotus 123, looks like feasible solution.
 
-Just at that moment, Hasegawa comes running over to me catching his breath. He's still too far away for me to hear him but has he gets closer I hear "they did it, they did it". He's flustered, surprised, almost nervous. Kat and I give him a confused look. "They're called VisiCorp", come look. 
+Just at that moment, Hasegawa comes running over to me catching his breath. He's still too far away for me to hear him but as he gets closer I hear "they did it, they did it". He's flustered, surprised, almost nervous. Kat and I give him a confused look. "They're called VisiCorp", come look. 
 
 We follow him through the maze of stalls and see a large crowd around a number of IBM PCs. I'm a fairly tall guy so I peak over and see a black 3 button mouse hooked up to a screen displaying a cascade of black boxes in a monochrome graphics mode. In one of the boxes is a bar graph and another looks like a Lotus-123 screen, no - that's their own spreadsheet. 
 
@@ -189,7 +191,7 @@ I look back and we are at a consensus. We don't need to stay in Vegas another da
 
 # Menlo Return 
 
-I was tired. Probably too tired for the all night drive back through the desert and up the I-5. The Winnebago has two beds and luckily Hasegawa was up for trading off on the drive. I can't sleep though. I hear everyone talking as my head fills with anxiety.
+I was tired. Probably too tired for the all night drive back through the desert and up the I-5. The Winnebago has an approximation of a bed and luckily Hasegawa was up for trading off on the drive. I can't sleep though. I hear everyone talking as my head fills with anxiety.
 
 We blaze past Barstow as I see a sky full of stars out the back window. "We can't just clone them" Thomas gripes as he looks over his notes. "We need to be finishing races they're still lacing up for." 
 
@@ -257,8 +259,6 @@ This works because each of these competitors are tied to their verticals, they w
 The key insight here is you never sell a thing, you sell a relationship with a customer expressed as a thing. These relationships are intrinsically human and operate the same way.
 
 Take DEC Rainbow for example. They're designed to pair well with their VAX-11/780 minicomputers.  As a result, the Rainbows are "married" to the minicomputers and can't go off and form "relationships" with new computers without the "spouse" (minicomputer) getting bossy. 
-
-----
 
 I conclude the presentation taking longer than I intend but shorter than I need, my constant problem.
 
@@ -348,7 +348,7 @@ Lord have mercy!
 
 I need the right tool! Not extra strength, Not heavy duty but appropriately sized and shaped for what I need to do!"
 
-Orion has now opened his eyes and is looking at me, "Ms. Jones, are you OK?"
+Orion opens his eyes and is looking at me, "Ms. Jones, are you OK?"
 
 She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, the shimmering darkness of this moldy rectangle invades my mind, trying to conquer the frontier of my thoughts. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again and detoxicify myself from its enabling malevolence."
 
@@ -380,20 +380,20 @@ I realize I have an executive recorder I never use. Everyone agrees to stay and 
 
 ```{.dialog}
 CHUCK: OK, I think it's going. Thanks for waiting. Anyone want to start.
-GILDA: Orion, what on earth was that?
+KAT: Orion, what on earth was that?
 ORION: The future I think?
 THOMAS: OK (muffled) What did we actually get from it?
 ORION: There's so much there. We can't build the thought stuffs of our collective electronic dreams.
 CHUCK: But we have to...
 ORION: They are flimsy impertinent bedfellows (pause) spanning fuzzy impermanent horizons, an optical illusion that shows a different face with every glance. 
-GILDA: Oh please, first Grace now you...
+KAT: Oh please, first Grace now you...
 ORION: We can only hope to facilitate a fulfilling relationship with their desires through our software.
 THOMAS: Right (muffled) work with that? What are we building?
 ORION: The future is about managing infinities and disciplining imaginaries. 
 CHUCK: Not a product, a relationship.
-GILDA: So, SQL? An expert system? What CGA mode are we talking about? Got some 8088 routine we can use?
+KAT: So, SQL? An expert system? What CGA mode are we talking about? Got some 8088 routine we can use?
 THOMAS: You're starting with the computer Kat, and ending with the human. We ... we need to start with the human and end with the computer.
-GILDA: I'm not a behavioral psychologist.
+KAT: I'm not a behavioral psychologist.
 ORION: Better start...
 ```
 
@@ -470,13 +470,21 @@ It wasn't so much that Potemkin is moving a solid line but closer to a ragged pe
 
 ## Facet-views: A new paradigm
 
-As I sat around trying to plan I said the classic aphorism that I just couldn't square the circle on the project. It was at that time that Kat made the real breakthrough, "No, it's Prince Ruperts Cube". In this mathematical puzzle you are supposed to pass a "convex polyhedra" (let's use a cube) through itself, fully. This is certainly possible.
+As I sit around trying to plan I used the classic aphorism that I just couldn't "square the circle" on the project. It was at that time that Kat made the real breakthrough, "No, it's Prince Ruperts Cube". 
 
-Imagine a cube turned on its side, casting a shadow. That shadow is bigger than a face of the cube, of course. So therefore the cube can pass through that shadow, leaving slivers of the projection. Kat is saying that no matter how we try to map our concepts to something physical we always get Prince Ruperts Cube - there's never a completely mapping.
+In this mathematical puzzle you are supposed to pass a "convex polyhedra" (let's use a cube) through itself, fully. This is certainly possible.
 
-It's the nature of trade-offs: you need to have an opinion on what residue you leave out of your physical manifestations. Or, maybe, you don't.
+Imagine a cube turned on its side, casting a shadow. That shadow is bigger than a face of the cube of course. So therefore the cube can pass through that shadow, leaving slivers of the projection. Kat is saying that no matter how we try to map our concepts to something physical we always get Prince Ruperts Cube - there's never a complete mapping.
 
-Going back to our cube, we are free to rotate it, make it encompass different parts and leave other parts out. We don't need to constrain ourselves to a single interface. We can have different ones appropriate for different tasks, that re-imagine the software through bold new ways of thinking.
+It's the nature of trade-offs: you need to have an opinion on what residue you leave out of your physical manifestations. You can't fulfill every facet of your fantasy in the physical world.
+
+Usually we talk about this as balance triangles. There's three desirable features but you can only have two. Let's take vacations for examples. You want it to be exotic, cheap, and easy.  However, if it's exotic and easy, then you aren't going out of your way or doing bargain hunting so it's not cheap. If it's say, cheap and easy, then it will probably be down the street at the local motel - you probably aren't flying off to Bali.
+
+You can only get two. There's always residue, slivers left in the cube falling into the shadow. Or, maybe, there isn't.
+
+Going back to our cube, we are free to rotate it, make it encompass different parts and leave other parts out. These constraints of the triangle can be negotiated.
+
+We don't need to constrain ourselves to a single interface. We can have different ones appropriate for different tasks, that re-imagine the software through bold new ways of thinking.
 
 So our process is to keep copies of each of the Goal diagrams we make and then we try to map them to various piece of software and then categorize the optimizations into different buckets we call facets.
 
@@ -598,7 +606,7 @@ Orion and I freeze. "I think we had a mole" Orion says. "That's incredible." the
 
 # Fail?
 
-Everyone has read Mythical Man-Month, the idea that adding another developer too late in the game actually makes the product take longer.  The problem is it's March and we're basically right where we were at in the Tehachapi Denny's - not willing to clone VisiCorp and trying to move ahead. And now we not only have the Apple Lisa to deal with but thanks to Thomas we know that Microsoft is working on a graphical system as well. I'm sure IBM and Digital Research is in the game too.
+Everyone has read that part of Mythical Man-Month where the author shows how adding another developer too late in the development cycle actually makes the product take longer.  The problem is it's March and we're basically right where we were at in the Tehachapi Denny's - not willing to clone VisiCorp and trying to move ahead. And now we not only have the Apple Lisa to deal with but thanks to Thomas we know that Microsoft is working on a graphical system as well. I'm sure IBM and Digital Research is in the game too.
 
 I feel asphyxiated before taking the first breath. I lean back in my chair. On the edge of my desk sit a pile of resumes. We get a trickle in constantly regardless of whether we have a job posted and it's my job to go through them and I do, sometimes, do my job on occasion. 
 
@@ -745,7 +753,7 @@ Photographs
 \begin{center}
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{jaybox.png}
-    \captionof{figure}{The now famous August 1983 Jaybox photo by Hasegawa originally included in his 1991 text Pen Computing Design which coined multi-touch rotation, pinch-zooming, and gestural swipes.}
+    \captionof{figure}{The now famous August 1983 Jaybox photo by Hasegawa originally included in his 1991 text, "Pen Computing Design", which coined multi-touch rotation, pinch-zooming, and gestural swipes.}
     \label{fig:image1}
 \end{minipage}
 
@@ -761,7 +769,7 @@ Photographs
 
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{jaywriting.png}
-    \captionof{figure}{From "The Dreams of Tomorrow", photographed by Kidder, this is Jay writing up a mock interface. The men on the left and right are from potential customers from Ashton-Tate. The other two are Hasegawa and Kat}
+    \captionof{figure}{From "The Dreams of Tomorrow", photographed by Kidder, this is Jay writing up a mock interface.}
     \label{fig:image3}
 \end{minipage}
 \end{center}
@@ -859,6 +867,8 @@ You've earned your 6 months. Go build this."
 # Software begins
 
 "Look, we aren't going to outsell Microsoft or Apple. They are too entrenched and their positions are too defensible. But this doesn't mean we can't change the world." I look at Chuck and everyone, "It's our time to make a lasting mark on the future of computing. When it comes to impact, I'd rather make change than cash, it'd be nice to have both. But change is in reach and cash, not so much. Let's just build the future. 
+
+"FNC isn't GOD" Orion snaps back. "Well... actually it is only off by one letter" Kat replies.
 
 ---
 
