@@ -262,6 +262,8 @@ Take DEC Rainbow for example. They're designed to pair well with their VAX-11/78
 
 I conclude the presentation taking longer than I intend but shorter than I need, my constant problem.
 
+## FNC's Grace
+
 Thomas looks up from his notebook, "I appreciate the free HBS lecture but what are we actually building?"
 
 Kat shrugs, "well we aren't the actual user. I can debug circuitboards and program assembly. Don't ask me these questions, I just want a cheaper CAD machine."
@@ -441,7 +443,7 @@ We called it project Potemkin because we are really just scaffolding friendlier 
 
 We widely agreed this is the only viable way forward. We aren't large enough to command a position in every meaningful place in the marketplace so we must carve out our own. 
 
-## VisiOn for everything
+## VisiOn Everything
 
 Our goals, in summary, are to be able to load multiple applications at once without them realizing they are sharing the computer. There's a wild amount of hacks that we need to do to get this done.
 
@@ -468,9 +470,9 @@ What we need to do is two-fold:
 
 It wasn't so much that Potemkin is moving a solid line but closer to a ragged perimeter, capturing the more laboriouis tasks from the user and freeing them of the burden. At least that's the objective.
 
-## Facet-views: A new paradigm
+## Facet-views: A New Paradigm
 
-As I sit around trying to plan I used the classic aphorism that I just couldn't "square the circle" on the project. It was at that time that Kat made the real breakthrough, "No, it's Prince Ruperts Cube". 
+As we sit around trying to plan I use the classic aphorism that I just couldn't "square the circle" on the project. It was at that time that Kat made the real breakthrough, "No, it's Prince Ruperts Cube". 
 
 In this mathematical puzzle you are supposed to pass a "convex polyhedra" (let's use a cube) through itself, fully. This is certainly possible.
 
@@ -761,7 +763,15 @@ The best way to travel isn't to get vintage currency, that's expensive. What I d
 
 But that money and the rest of the stuff in my Samsonite really doesn't last long. My chance to return won't open up for 6 months and this money will last about 2 weeks if I'm stingy.
 
-What I need is a job. 
+Most people think that they would just invest in stocks and become a millionaire. 
+
+There's a few problems. You Driver's license has a date of birth 25 years in a future. How are you going to open up that brokerage account?
+
+"Work with the mob" you might say. Ok, how? Call 1-800-MAFIA and get Guido on the horn? Be real. 
+
+Let's say you bring back $50,000 in jewelry to sell. Anyone you sell it to has to file anything priced over $1,000 with the Feds and they need your ID which once again you don't have.
+
+So gambling. Fine. If you win too often people get suspicious and it gets dangerous for you.  So you have to be smart, lose sometimes, win sometimes, just not too big - but now, you have a job. So skip the gambling and just get a normal job.
 
 Silicon Valley seems obvious since I already knew the future and they will just hire anyone off the street if they sound like they can hack it. This sounds like it would be easy. I always admired FNC as building revolutionary products in the mid-1980s ever since reading Tracy Kidder's masterpiece, *The Dreams of Tomorrow* on the BOOSTRA team.
 
@@ -817,7 +827,7 @@ Photographs
 \end{minipage}
 \end{center}
 
-# BOOTSTRA
+# Monday
 
 I roll in to the office at 9 AM Monday morning wearing the same thing I wore on Friday. First mistake. Everyone is in slacks and formal wear. I completely forgot that the street-wear tech office is a 1990s invention. That was casual Friday, this is Office Monday. Luckily nobody says anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
 
@@ -855,8 +865,7 @@ It was then I realized that tools are a function of your behavior as much as beh
 
 Chuck taps me on the shoulder, "hey welcome aboard"
 
----
-
+# Tuesday
 
 
 Tracy Kidder enters the chat
@@ -877,6 +886,27 @@ These clever clockwork routines won't work on the machines with 50Mhz clocks. We
 
 Kat finally understood that building empires and preparing for them are different games.
 
+# Wednesday
+
+First piece of construction paper demo
+
+# Thursday
+
+Drop down menu and drag
+
+# Friday
+
+Scroll wheel on the mouse
+
+# Monday
+
+Aston Tate return with the pieces - Hyperlinks/CSS/JS
+
+# Tuesday
+
+Bootstra/386 features
+
+# Friday
 
 # Boston II
 
@@ -907,18 +937,20 @@ She drops them in a nearby trash can.
 You've earned your 6 months. Go build this."
 
 
-# Software begins
+# Software Begins
 
 "Look, we aren't going to outsell Microsoft or Apple. They are too entrenched and their positions are too defensible. But this doesn't mean we can't change the world." I look at Chuck and everyone, "It's our time to make a lasting mark on the future of computing. When it comes to impact, I'd rather make change than cash, it'd be nice to have both. But change is in reach and cash, not so much. Let's just build the future. 
 
 "FNC isn't GOD" Orion snaps back. "Well... actually it is only off by one letter" Kat replies.
 
----
 
+# Spring Software
 
- (1) the awkward monday, (2) the explanation of the future like it's obvious. A manual pretotyping. They make cardboard cutouts and index cards and then non technical people come in with pointer sticks to emulate a mouse and try to accomplish tasks as they go back and realize "OK we need pillboxes" or whatever bootstrap feature. (3) the storm of companies like Microsoft and apple working on their own version. (4) the discovery of espionage - a Microsoft agent has been in their midst (5) the customer feedback "we don't need this yet" "I'm not doing these things with my computer right now" (6) the boss discovering the smart phone and the microsd card. (7) Jay presenting a speculative future world holding his dead cell phone and saying "these will be common in the future" and laying out the world of the 2020s to the perplexing awe of the coworkers and saying he uses these to "imagine tomorrow" and (8) his exit back to the future.
+More design and features of bootstra
 
---
+# Reflections
+
+time window getting close, more personal stuff
 
 # The Jay Box
 
