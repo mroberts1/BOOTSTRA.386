@@ -217,7 +217,7 @@ Kat looks down, "well we need something more concrete than that"
 
 I respond, "We have time. Not much. But we have some. At least enough to finish this food". 
 
-And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7am November weather of Northern California. Everyone else went hone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
+And so we did. And then I slept for real and woke up Tuesday morning in our office parking lot in the back of the Winnebago in the chilly 7 AM November weather of Northern California. Everyone else went hone home and let me sleep, very kind of them. I suppose I'm dressed well enough for the office. It was time to get to work.
 
 # Version 0.0: Potemkin
 I call my core team in the office for a presentation I've put together so we can figure out exactly what we're going and how to succeed in innovative markets. I break the necessary strategy down to three principles:
@@ -225,7 +225,7 @@ I call my core team in the office for a presentation I've put together so we can
 ## 1. Assume Competitor Success
 The first thing to assume is VisiCorp is successful. We say "if so then what?" this is almost always a fruitful exploration and if you do it right, you come up with the "N+1" idea, assuming the current thing is the "N" idea.
 
-For example, let's go to 1979, the Sony Walkman is introduced. We have two business ideas. Based on the walkman's success or failure we are going ballpark what the probability of success of the two business models will be:
+For example, let's go to 1979, the Sony Walkman is introduced. We have two business ideas. Based on the Walkman's success or failure we are going ballpark what the probability of success of the two business models will be:
 
 | Walkman | Succeeds | Fails |
 |---------|----------|-------|
@@ -302,7 +302,7 @@ As it comes closer to 11 more people show up. I guess word spreads around the of
 
 "Why are the lights off? Is this what I was invited to? This is most unusual." she sniffs a bit "Is that sagebrush?" 
 
-Kat whipser to Orion, "what on earth are you doing? Have you done this before?"
+Kat whispers to Orion, "what on earth are you doing? Have you done this before?"
 
 Orion shrugs, "Maybe?!" 
 
@@ -310,11 +310,11 @@ Everyone sits down and Orion rings a bell on the table. "Thank you for joining u
 
 Orion admits, "That's plan B. Let's do this for five minutes. You in?"
 
-She responds skeptically, "A PhD in Control Systems and now I'm Carnac the Magnificent." she looks areound for a second, "alright, fine. Let's do this"
+She responds skeptically, "A PhD in Control Systems and now I'm Carnac the Magnificent." she looks around for a second, "alright, fine. Let's do this"
 
 Orion calmly sooths, "Alright good. Everyone hold the hand of the person next to you. We together form a rectangular portal around this office table into the world of tomorrow. Now, close your eyes."
 
-Grace reponds, "Ok, Eyes closed."
+Grace responds, "Ok, Eyes closed."
 
 Orion says "You look around."
 
@@ -370,7 +370,7 @@ The room has a palpable deafening silence. It was my turn to speak to it.
 
 "Why of course, I'd be glad to" as Grace gets up and heads to the black board.
 
-The next 90 minutes we get a tour de force of Fitt's Law on the keyboard home row, GOMS  efficiency models, KLM timing routines that harken back to Taylor's Scientific Management, all the dead-end ideas we were trying to run away from.
+The next 90 minutes we get a tour de force of Fitt's Law on the keyboard home row, GOMS efficiency models, KLM timing routines that harken back to Taylor's Scientific Management, all the dead-end ideas we were trying to run away from.
 
 Various office members excused themselves in murmurs as the night wore on. The clock struck 1:00 AM as Grace concluded and excused herself as well. 
 
@@ -447,7 +447,7 @@ We widely agreed this is the only viable way forward. We aren't large enough to 
 
 Our goals, in summary, are to be able to load multiple applications at once without them realizing they are sharing the computer. There's a wild amount of hacks that we need to do to get this done.
 
-First of all, it doesn't look like our applications can overlap like visicalc. Second, we'll have to somehow lie to the application that the computer has less volatile memory because we need a bunch for ourselves.
+First of all, it doesn't look like our applications can overlap like VisiOn. Second, we'll have to somehow lie to the application that the computer has less volatile memory because we need a bunch for ourselves.
 
 Third of all, we need the user to have a hard disk. This is persistent memory on magnetic platters. They're very expensive.
 
@@ -468,7 +468,7 @@ What we need to do is two-fold:
  * Create an environment where there's non-disruptive flow between these various applications
  * Remove the cognitive load needed to perform the executive function of the task. It should be subliminal by exposing the interface
 
-It wasn't so much that Potemkin is moving a solid line but closer to a ragged perimeter, capturing the more laboriouis tasks from the user and freeing them of the burden. At least that's the objective.
+It wasn't so much that Potemkin is moving a solid line but closer to a ragged perimeter, capturing the more laborious tasks from the user and freeing them of the burden. At least that's the objective.
 
 ## Facet-views: A New Paradigm
 
@@ -518,7 +518,7 @@ My week is full of going left-to-right, top to bottom on the diagram, like a CRT
 
 Then, every Friday we get together for lunch and see if the map needs to be redrawn.
 
-The entire process feels like ptolemaic celestial mechanics. 
+The entire process feels like Ptolemaic celestial mechanics. 
 
 ---
 
@@ -548,7 +548,7 @@ McBride holds up his hand, "Now Mr. Gaoler! You will not be there for every user
 
 I see McBridge move the mouse pointer around the screen and talk to his colleague Sheryl, "Do you know where the pie chart button is?"
 
-Sheryl looks over his shoulder, "maybe you need to press those F keys". I watch as McBride cycles through the F keys. He doesn't know the metaphores. "It's the aggregate button, the big A" I keep thinking, "In the Print facet." 
+Sheryl looks over his shoulder, "maybe you need to press those F keys". I watch as McBride cycles through the F keys. He doesn't know the metaphors. "It's the aggregate button, the big A" I keep thinking, "In the Print facet." 
 
 After 5 minutes he and Sheryl whisper to each other and look back from the screen.
 
@@ -562,9 +562,9 @@ McBride removes the floppy disk from the computer and has it in his hand, labele
 
 "I hear Lisa sales are terrible" Sheryl responds, "Maybe all we need is an easier to use DOS"
 
-"Yes, that might be fine. Something that's a little less technical looking. Why didn't you make that instead" McBride sighs in dissappointment.
+"Yes, that might be fine. Something that's a little less technical looking. Why didn't you make that instead" McBride sighs in disappointment.
 
-"Make that instead? That's like a week of work" I think. "If I had made that they woud have asked for this. There's no win here." 
+"Make that instead? That's like a week of work" I think. "If I had made that they would have asked for this. There's no win here." 
 
 I focus my eyes on an existential plane, feeling myself astral project, like I'm leaving the my corpial form. This has become a memory before an experience. My lips start moving, words start coming out but I have no recollection of the thoughts being generated: "Pretend you sleep for 20 years and wake up. You walk into the office of the 21st century. Everyone is using a computer. Are they manipulating things on the screen or using a command line?"
 
@@ -606,7 +606,7 @@ Thomas pauses and responds "Oh it's quite alright. I suppose I look like many pe
 
 The man says "Excuse me." and then leaves the room. 
 
-Donalds asks "Has that ever happened to you before?"
+Donald asks "Has that ever happened to you before?"
 
 Thomas shrugs and says "No, I can't say it has. I hope Greg is handsome."
 
@@ -763,15 +763,15 @@ Time travelers already exist and you know about them. Giuseppe Arcimboldo, Marie
 
 Most time travelers are extremely sterilized robots going back hundreds of millions of years to collect samples. And even then, only about 16% come back. Most missions fail. The robots crash or they fail to come back. The Antikythera device is actually a gear from one famous fiery crash in Alexandria which got "reverse engineered" as the Aeolipile and of course there's Roswell.
 
-The best way to travel isn't to get vintage currency, that's expensive. Instead, purchase jewelry at estate sales then pawn it off. Then you'll have a couple weeks of money without having to purchase currency from coin collectors before you go. 
+The best way to travel isn't to get vintage currency, that's expensive. Instead, purchase jewelry at estate sales then pawn it off. Then you'll have a couple weeks of money without having to buy currency from coin collectors before you go. 
 
 But that money and the rest of the stuff in my Samsonite really doesn't last long. My chance to return won't open up for 6 months and this money will last about 3 weeks if I'm stingy.
 
 Most people think that they would just invest in stocks and become a millionaire. 
 
-There's a few problems. You Driver's license has a date of birth 35 years in a future. How are you going to open up that brokerage account?
+There's a few problems. You Driver's license has a date of birth decades in the future. How are you going to open up that brokerage account?
 
-"Work with the mob" you might say. Ok, how? Call 1-800-MAFIA4U and get Guido on the horn? Be real. 
+"Work with the mob" you might say. OK, how? Call 1-800-MAFIA4U and get Guido on the horn? Be real. 
 
 Let's say you bring back $50,000 in jewelry to sell. Anyone you sell it to has to file anything priced over $1,000 with the Feds and they need your ID which once again you don't have.
 
@@ -821,11 +821,11 @@ Photographs
 \begin{center}
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{jaybox.png}
-    \captionof{figure}{The now famous August 1983 Jaybox photo by Hasegawa originally included in his 1991 text, "Pen Computing Design", which coined multi-touch rotation, pinch-zooming, and gestural swipes.}
+    \captionof{figure}{The famous Jaybox photo by Hasegawa from his 1991 text, "Pen Computing Design", which coined pinch-zooming and gestural swipes. Steve Jobs said this photo inspired his signature turtleneck.}
     \label{fig:image1}
 \end{minipage}
 
-\vspace{1.5em}
+\vspace{1em}
 
 \begin{minipage}[t]{0.80\textwidth}
     \includegraphics[width=\textwidth]{group.png}
@@ -842,7 +842,8 @@ Photographs
 \end{minipage}
 \end{center}
 
-# February 14 on a Monday?
+# Week 1
+## February 14 on a Monday?
 
 I roll in to the office at 9 AM Monday morning, Valentines Day of all things, wearing the same thing I wore on Friday. First mistake. Everyone is in slacks and formal wear. I completely forgot that the street-wear tech office is a 1990s invention. That was casual Friday, this is Office Monday. Luckily nobody says anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
 
@@ -852,11 +853,11 @@ There's a coaxial network connection on the back of the machine. Probably for cr
 
 This is all probably exorbitantly expensive. Back where I'm from, the microchips inside of talking greeting cards are more capable than all this.
 
-I am surprised but I really shouldn't be. What did I expect the programmer's workstation to look like in 1983? I guess I'm expected to know how to use the software on the disk labelled "IBM Macro Assembler".
+I am surprised but I really shouldn't be. What did I expect the programmer's workstation to look like in 1983? I guess I'm expected to know how to use the software on the disk labeled "IBM Macro Assembler".
 
 I don't. 
 
-I've never even touched an original IBM PC. I press the space bar. Ok, now I have.
+I've never even touched an original IBM PC. I press the space bar. OK, now I have.
 
 21st century computer programming is nothing like this. First of all, I have LLMs and the Internet. Second, I'm dealing with abstract objects that I have control and insight into. With this, I'm just sending core instructions to the processor. I need to have all kinds of opinions simply because nothing is being done for me.  I've got none of those.
 
@@ -882,9 +883,9 @@ Chuck taps me on the shoulder, "Hey welcome aboard!"
 
 He hands me two floppy disks and says "Here's the latest source code. Try getting it running and come by if there's any questions."
 
-## Getting Lost
+### Getting Lost
 
-Alright, Ok, I think I know how to do this. Right..
+Alright, OK, I think I know how to do this. Right..
 
 ```
 Enter new time: 10:00
@@ -909,7 +910,7 @@ I decline as politely as possible as he starts up a debugger and steps through h
 I turn back to my screen, type DIR and see some ASM files. Alright let's try this, fine:
 
 ```
-A> m main.asm
+A> masm main.asm
 ...
 A> link main.obj
 ```
@@ -920,7 +921,7 @@ My ID badge says "FNC: Sparkle" but this might ... Oh I think this was the first
 
 There's this predecessor project that they claimed had "multi-facets" where metaphors would move around via the F keys. No existing copies of it survive now.
 
-I guess this is it. This is the failed 1.0 Potemkin softwared running on my screen. I'm sure historians would love to get their hands on this.
+I guess this is it. This is the failed 1.0 Potemkin software running on my screen. I'm sure historians would love to get their hands on this.
 
 I understand why it failed. I need to ask someone how to use it and what I'm looking at. That's never a good sign.
 
@@ -932,7 +933,7 @@ I hear a voice from behind me "You know, the Friday before you came I demoed thi
 
 "Fired already?" I nervously think as I follow the guy.
 
-"Alright, let me tell you the stakes." Chuck breathes and makes sure his voice is calm "The friday after next. I need to go back to Boston. They didn't like that software you have running. If I can't show them something they like, this project is canceled. We shut down the office. Everyone is fired."
+"Alright, let me tell you the stakes." Chuck breathes and makes sure his voice is calm "The Friday after next. I need to go back to Boston. They didn't like that software you have running. If I can't show them something they like, this project is canceled. We shut down the office. Everyone is fired."
 
 He stops for a second.
 
@@ -948,18 +949,19 @@ It's my job, then, to find this new point.
 
 This is a relief. I don't actually know 8088 assembly. Maybe I can leverage what I do know, the future.
 
-That's how I cheated to begin with.
+> That's how I cheated to begin with.
 
-# Tuesday
+## Tuesday
 
-I pour myself some of the gross 1983-style coffee as I overhear Kat talking with another employee, "I still don't think they did it. I can't imagine a husband and wife together abducing teenage girls from a mall like that". The other employee responds "ok, I know. They don't have any other suspects though. 18 year old, mother of 3, to the electric chair ... ".
+I pour myself some of the gross 1983-style french roast as I overhear Kat talking with another employee, "I still don't think they did it. I can't imagine a husband and wife together abducing teenage girls from a mall like that". The other employee responds "OK, I know. They don't have any other suspects though. 18 year old, mother of 3, to the electric chair ... ".
 
 I have no idea who on earth they are talking about. I keep my head low and don't volunteer information.
 
-"Regardless, they should have never brought back the death penalty. I'm against it morally" Kat responds as I walk away trying had not to engage.
+"Regardless, they should have never brought back the death penalty. I'm against it morally" Kat responds as I walk away trying hard not to engage. I pass a new person I didn't see there yesterday, about 40. I introduce myself and he identifies himself "Tracy Kidder". The thoughts that ran through my mind at that point as I glance down at his notebook seeing the first scribblings of the *Dreams of Tomorrow*. I pass it off, "the pulitzer prize winner?" He blushes, almost ashamed of being associated with such an honor.
 
+He pauses for a second, "Well, I'm hear to write a sequel. Please ignore me as much as possible." I almost roll my eyes at him incredulously as I walk back to my cubicle. "Ignore him? It'd be like if someone said "Hey, I'm Stanley Kubrick, just here shooting a documentary, I hope you don't mind!" Alright, I'll try hard to not mug to the pen.
 
-Tracy Kidder enters the chat
+---
 
 Kat snaps back, "Oh you want another UCSD P-system?"
 
@@ -985,34 +987,87 @@ She looks at me confused, "Like a Woolworths? There's one downtown."
 
 Like a Woolworths. Yes, exactly.
 
-# Wednesday
+## Wednesday: Construction begins
 
-I've got 2.5 weeks to invent modern computing with 1983 technology. Showing up at Woolworths at 7am was a good try. Locked doors, opens at 10. "You know," I think, "Google Maps would be great right now". I survey the parking lot and see a Longs Drug Store. 
+I've got two and half weeks to invent modern computing with 1983 technology otherwise I'll have to go out and get a new job. Showing up at Woolworth's at 7 AM was a good try. Locked doors, opens at 10. "You know," I think, "Google Maps would be great right now". I survey the parking lot and see a Longs Drug Store. 
 
-As I walk through the aisle I see construction paper and try to match the EGA 16 color palette in my head. I haven't gone over that yet so for the modern audience
+As I walk through the aisle I see construction paper and try to match the EGA 16 color palette in my head. I feel like a school-teacher buying supplies for a room full of students. Maybe I am?
 
+---
 
-First piece of construction paper demo
+As I layer different color construction paper on top of each other to represent a computer interface I feel like the Japanese woodblock print artists where they incrementally added each color as a separate "stamp". 
 
-# Thursday
+In Japan, this was most prominently part of Ukiyo culture, a term for the "transient, unreliable world". It was marked by excess and brothels in 17th-19th c. Japan. Ukiyo-e was their mass-produced art work recontextualized from crude to revolutionary with the passage of time.
+
+I march the rectangles on top of each other in a cascade of solid colors to make a humane interface. As the strips of cut paper slowly construct the fleeting human spirit I comment, "this is like pure Sharaku". Craig mishears me "Shock-a-roo? Yes! This is exactly what we're looking for Mr. Peg. We need shocks like a defibrillator, we're so dead."
+
+"Alright," I think, "shock-a-roo it is".
+
+## Thursday: A New Language
+
+"What about a Ted Nelson Hypertext system, but simplified. I mean dramatically simplified. We start with TROFF format, used in UNIX man pages, dating back to the 1970s. It has syntax like this, using things it calls macros:
+
+```
+  .B  Bold
+  .I  Italic
+  .P  Paragraph
+```
+
+WordStar built on top of this and they were already familiar with it. Next we went to IBM's Generalized Markup Language (GML), which has starter tags with names like "BODY", "TITLE", and "H0-H6".
+
+I then propose it can be extended, and annotatable if we just change the syntax slightly ... have a start and an end delimeter. I propose something like this:
+
+```html
+  <TITLE>Hello World</TITLE>
+  <BODY>
+    <H1>This is a Title</H1>
+    <P>And This is a paragraph</P>
+  </BODY>
+```
+
+With the following caveat: the syntax should describe a document's structure and other attributes rather than specify the processing that needs to be performed.
+
+I get all kinds of pushback over how wasteful the schema is with space. They think this is bloated and redundant. They're proposal was to just close off every tag the same, it walks up the tree and can be implied.
+
+```html
+  <TITLE>Hello World</
+  <BODY>
+    <H1>This is a Title</
+    <P>And This is a paragraph</
+  </
+```
 
 Drop down menu and drag
 
-# Friday
+## Friday: Demo in 2 weeks
+
+# Week 2
+
+## Monday: Navigating the menu
 
 Scroll wheel on the mouse
 
-# Monday
+## Tuesday
+
+## Wednesday
+
+## Thursday
+
+## Friday: One Week
 
 Aston Tate return with the pieces - Hyperlinks/CSS/JS
 
-# Tuesday
+# Week 3
 
-Bootstra/386 features
+## Monday
 
-# Friday
+## Tuesday
 
-# Boston II
+## Wednesday
+
+## Thursday: 24 hours to go.
+
+## Friday: Boston II
 
 Silicon Valley didn't really become tech center until the 1990s. The corporate office is in a neoclassical brick building off Route 128 where everyone still dresses in suits, even on Friday. We enter the executive conference room with our duffel bag
 
@@ -1052,6 +1107,9 @@ You've earned your 6 months. Go build this."
 
 More design and features of bootstra
 
+# Protocols: the language of Communication
+
+
 # Reflections
 
 time window getting close, more personal stuff
@@ -1080,7 +1138,7 @@ I respond "No you uh ..." and I see everyone has stopped work and is looking at 
 
 Chuck hands me back my "prop" and we shuffle off to the main room where I am front and center, trying to explain myself out of this one.
 
-"Let's imagine everything that constrains us is gone." I start as I scribble on the black board, "Instead of 640KB, we have Gigabytes, or even Terabytes of memory and terabytes of storage as well - practically endless." People are on the edge of their seat listening to this banter so I continue, "not only, but let's also assume that computation and graphics are easily solved. I can do full motion video, 3d scenes, supercomputer level computation. And just to be crazy let's also assume that I can communicate via radio frequencies, on the order of hundreds of megabytes a second."
+"Let's imagine everything that constrains us is gone." I start as I scribble on the black board, "Instead of 640KB, we have Gigabytes, or even Terabytes of memory and terabytes of storage as well - practically endless." People are on the edge of their seat listening to this banter so I continue, "not only, but let's also assume that computation and graphics are easily solved. I can do full motion video, 3D scenes, supercomputer level computation. And just to be crazy let's also assume that I can communicate via radio frequencies, on the order of hundreds of megabytes a second."
 
 I see Kat shake her head incredulously.
 
@@ -1126,19 +1184,21 @@ I set my time machine and I pull the lever.
 
 # Epilogue`\\`{=latex}The Final Shock-A-Roo
 
-Monday came by and Jay didn't come in for work. No calls, no contact. We assume he is sick. Would he quit before the release? No. After the demo? No. On Tuesday when there was still no Jay we decided to investigate.
+Monday comes by and Jay doesn't come in for work. No calls, no contact. We assume he is sick. Would he quit before the release? No. After the demo? No. 
+
+On Tuesday when there is still no Jay we decide to investigate.
 
 I drive over to his place and find the door unlocked. All his stuff is there, untouched but he is not. His car sits in the driveway. The hood is cold. 
 
 With nothing much more to go on I go to the police and fill out a missing person's form. Then I go to work.
 
-Wednesday morning around noon I get a call from the police. What I heard made me think we had another Thomas on our hands. The social security number? Fake - not scheduled to be issued for decades. Nothing matched real information at least as far as the police were concerned. I didn't know what to do. I leave work early that day in a daze and head back to the apartment and knock on the manager's door. I give her the situation and she's just as shocked as I am.
+Wednesday morning around noon I get a call from the police. What I heard made me think we had another Thomas on our hands. The social security number? Fake - not scheduled to be issued for decades. Nothing matched real information at least as far as the police were concerned. I don't know what to do. I leave work early in a daze and head back to the apartment and knock on the manager's door. I give her the situation and she's just as shocked as I am.
 
-Her info on him matches ours. We go to open his mailbox to investigate and a flood of unopened mail comes pouring out addressed to previous tenants. It looks like he has never opened the box. The Samsonite suitcase he brought to Boston was gone. 
+Her info on him matches ours. We go to open his mailbox to investigate and a flood of unopened mail comes pouring out addressed to previous tenants. It looks like he has never opened the box. The Samsonite suitcase he brought to Boston is gone. 
 
 I walk over to his PC, which is still up and running and flick on the monitor. On it is a black screen with the text: "Look Under Keyboard. This Page Intentionally Left Blank".
 
-I lift the keyboard and find a team photograph I've included in this text and a mysterious prop about the size of my fingernail. It's a delicate plastic chip labeled "SanDisk Extreme Plus SDUC" and has a large "32" followed by the letter "TB". On the underside are metal contacts, like you'd find on an Atari game, 8 of them with 2 slightly longer. There's a slight plastic notch on the side. I look at the photograph and turn it around. On the back he left his note:
+I lift the keyboard and find a team photograph (Editor's Note: it's been included in this text) and a mysterious prop about the size of my fingernail. It's a delicate plastic chip labeled "SanDisk Extreme Plus SDUC" and has a large "64" followed by the letter "TB". On the underside are metal contacts, like you'd find on an Atari game, 8 of them with 2 slightly longer. There's a slight plastic notch on the side. I look at the photograph and turn it around. On the back he left his note:
 
 >
 > Dear Everyone,  
@@ -1162,27 +1222,35 @@ We sit in silence for a few minutes and realize he's gone, intentionally.  Haseg
 
 ------
 
-To this day we still have no idea what happened to Jay and time-travel, as far as I know, is still completely fictional. 
+To this day we still do not know who Jay Peg actually was or what happened to him. As far as we can tell, he just vanished. Time-travel, as far as I know, is still fictional. 
 
-My father kept the "prop" in a security box at the bank. In 2005 he knew it was a MicroSD card shortly after they were announced. The commercial ones at the time however, were megabytes and Jay's one, 32 terabytes was a million that.  Years pass and capacity of the cards increased as new standards passed. In 2018, the SDUC standard was released that supported such capacities. It was then my father was confident about the true identy of Jay. However, he knew the optics of a man in his seventies telling wild stories about time-travel so he kept it to his diary. 
+My father kept Jay's prop in a security box at the bank. In 2005 he identified it as a MicroSD card shortly after they were announced. The commercial ones at the time however were megabytes and Jay's one, 64 terabytes was over a million that.  
 
-In 2027 he passed from a stroke. I'm his daughter, a software designer working at Tuchu Labs in Shanghai. While cleaning out his Palo Alto home, I discovered his journal and the security box.  In 2030, I finally acquired something that could read it. 
+As capacity of the cards increased and new standards arrived, my father became confident about the true identity of Jay when the "SDUC" standard, whose logo is printed on the MicroSD card, became capable someday of reading a 64TB disk. However, Dad also knew the optics of a man in his seventies telling wild stories about time-travel so he kept his revelations to his diary. In 2029 he passed from a stroke. 
 
-This book is what I found: Jay’s disk, my father’s notes, and a set of photographs I was able to license. The surviving BOOTSTRA members declined to comment, except Kat, who told me: "Reality is a negotiated struggle. Confidence is a fiction for fools."
+I'm his daughter, a software designer working at Tuchu Labs in Shanghai. While cleaning out his Palo Alto home, I discovered his journals and the key to the security box. A few years ago when capable MicroSD readers became available I carefully placed the half century old artifact with the faded logo in my reader. Somehow it worked.
 
-As the months and years went on, my father increasingly used Sharaku as a metaphor for the computer itself. He wanted the machines to empower the user but not have power over them; for the common person to be able to influence the machine and not necessarily have the machine influence their own executive decisions.
+This book is a consolidation of all I found: Jay’s disk, my father’s notes, and a set of photographs I was able to license. I'd also like to thank Tracy Kidder's son who gave me access to his fathers notes. They were crucial in the corroboration of countless passages.
 
-Sharaku became moreover his philosophy of tools: they exist to bring harmony to your life and need to exit before they're disruptive or a nuisance. 
+The surviving Sparkle members who worked on BOOTSTRA declined to comment, except Kat, who told me: "Reality is a negotiated struggle. Confidence is a fiction for fools."
 
-But of course, there's a lot of money to be made, a lot of power to be had by broken tools: they hold your attention hostage as you chase fleeting harmony - one they temporarily bequeath you at a cost like some kind of narcotic. These tools are fundamentally disingenuous, facilitators of habitual self-abuse in the name of expedience. Throughout the 2000s, his journal entries turn to bitterness and cynicism as he laments over the potentials of computing ravaged by the wreckless plundering of insatiable profiteers.  He writes in horror about the calcifying rise of a "digital feudal" relationship that continues to infect the core ethos of technology.
+Lastly, neither I nor my editors make any claims regarding the rumors surrounding Jay Peg and time-travel. This text is an assemblage of the existing documents with clear provenance.
 
-I've tried to keep this text free of such negativity. The words of hope and liberation brought about by a digital village seem quaint and bittersweet but they still proclaim a powerful vision that we have the agency to pursuit if we only believe in it as well.
+As the months and years went on, my father increasingly used Sharaku as a metaphor for the computer itself. He wanted machines to facilitate but not shape the user and to give space for their humanity to shine.
 
-It's this renegotiation of technology that continues to be as crucialas as it was when stories of Ned Ludd were spread around the Liverpool Mechanics Institutes meetings in the 1820s. Technology ought not be solely for the capitalizing on new forms of labor. My father believed in this: the ideal tools are free of this negotiated cadence - they under-ask yet over-deliver and facilitate without exploitation. That was his life's work.
+Sharaku became his philosophy of tools: they exist to bring harmony to your life and need to exit before they're disruptive or a nuisance. 
+
+But of course, there's a lot of money to be made, a lot of power to be had by broken tools. They hold your attention hostage as you chase fleeting harmony - one they temporarily bequeath you at a cost like some kind of narcotic. These tools are fundamentally disingenuous, facilitators of habitual self-abuse in the name of expedience. 
+
+Throughout the 2000s, my father's journal entries turn to bitterness and cynicism as he laments over the potentials of computing ravaged by the reckless plundering of insatiable profiteers.  He writes in horror about the calcifying rise of a "digital feudal" relationship that continues to infect the core ethos of technology.
+
+We've excluded the negativity of his later writings. The earlier words of hope and liberation brought about by a digital village acting in good faith seem quaint and bittersweet but they still proclaim a powerful vision that we have the agency to pursue if we only believe in it as well.
+
+It's this renegotiation of technology that continues to be as crucial as it was when stories of Ned Ludd were spread around the Liverpool Mechanics Institutes meetings in the 1820s. Technology ought not be solely for the capitalizing of new forms of labor.
+
+My father believed in this: the ideal tools are free of this negotiated cadence - they under-ask yet over-deliver and facilitate without exploitation. That was his life's work.
 
 My goal now is to live his and Jay's legacy: to create software that I can interact with like my father interacted with Jay. That, to quote Kidder's famous work, is collectively, our Dream of Tomorrow.
-
-
 
 ---
 

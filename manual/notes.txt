@@ -25,12 +25,12 @@ Timeline
                22 Tuesday    - Device orientation & 12 column layout
                23 Wednesday  - Buttons Groups and Lists 
                24 Thursday   - Forms Input groups and Bredcrumbs
-               25 Thursday   - Tooltips Alerts and Toasts
-               28 Friday     - Spinners Progress and Pagers
+               25 Friday     - Tooltips Alerts and Toasts
+               28 Monday     - Spinners Progress and Pagers
              3 - 
-                1 Monday     - Carousels Jumbotron Popovers
-                2 Tuesday    - Cards Badges and Navbar
-                3 Wedneday   - Todo apps & SPA
+                1 Tuesday    - Carousels Jumbotron Popovers
+                2 Wednesday  - Cards Badges and Navbar
+                3 Thursday   - Todo apps & SPA
                 4 Boston II
              4               - standards bodies & rfcs
              5               - SAS & http protocols 
