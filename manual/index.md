@@ -121,7 +121,7 @@ Among engineers the only skill required for spy-craft is smiles and flattery. Th
 
 The back of the Winnebago has Hasegawa, Orion, Kat and a fourth member, Thomas, sitting around 3 microcomputers as I drive down the I-5 past fields of food and cows. So many fragrant cows. Almost makes me want to go vegetarian.
 
-If you haven't used a computer yet, let me introduce you to the strangeness. You get a 25 pound box that you place on a table and plug into a wall. Then you flip a switch and it gets increasingly noisy until the box sounds like it needs muffler. The machine chirps a beep as the screen or television you plugged into turns on and, usually, you see an incrementing number in the top left. It will go up into the hundreds in increments of 16. This checks what is known as volatile memory, it's what the computer needs to shuffle things around in its brain.
+If you haven't used a computer yet, let me introduce you to the strangeness. You get a 25 pound box that you place on a table and plug into a wall. Then you flip a switch and it gets increasingly noisy until the box sounds like it needs muffler. The machine chirps a beep as the screen or television you plugged into turns on and, usually, you see an incrementing number in the top left. It will go up into the hundreds in increments of 64. This checks what is known as volatile memory, it's what the computer needs to shuffle things around in its brain.
 
 A top of the line computer these days will go up to 640, which is about the size in computer terms of a paperback novel. This takes minutes. Enough for you to make a cup of coffee. 
 
@@ -524,7 +524,7 @@ The entire process feels like ptolemaic celestial mechanics.
 
 # Abort?
 
-Four months is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a project manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
+Three months is hardly enough time to finish a complex computer program but it is enough to expect to see some movement. The difference between doing something and getting things done is the direction of that movement. The path taken makes the product as much as the people taking it. As a project manager in a corporate structure my job is not to choose the destination but instead, to try to find a way to get there. 
 
 This all sounds abstract and it is. Fred Brooks, of IBM OS/360 fame, coined software as "pure thought stuff". Building is making manifest things imagined. There's tons of ambiguities, problems, and miscommunications. Engineers are the ultimate Monkey's Paw and we find out how some ideas are only compelling as long as they remain imagined but once they become real, we have no interest. 
 
@@ -759,15 +759,19 @@ No friends, bank account, connections, place to live...
 
 February 1983 wasn't really a time of significance. It's hard to explain but not all times are equally accessible. There's a topology and the distances are very non-euclidean. It's just as uneven and entropic as everything else this universe creates. For whatever reason, the next easily accessible date that requires under 50KW and wasn't millions of years ago is February 1983, 25 years before I was born. I have about a 5 minute window at 3:32 AM tonight to catch it otherwise I will be sent off to somewhere in the Proterozoic.
 
-The best way to travel isn't to get vintage currency, that's expensive. What I do is purchase jewelry at estate sales. Then I pawn it off. At least that way I'll have a few hundred bucks. 
+Time travelers already exist and you know about them. Giuseppe Arcimboldo, Marie Curie, Magnus Hirschfeld, Adam Ferguson, James Maxwell....you know how people say they were 100 years ahead of everyone else ... Well, about that .... They're all members of the Chrono-motorist club. They used to go to the monthly meetings before their decent to the past.
 
-But that money and the rest of the stuff in my Samsonite really doesn't last long. My chance to return won't open up for 6 months and this money will last about 2 weeks if I'm stingy.
+Most time travelers are extremely sterilized robots going back hundreds of millions of years to collect samples. And even then, only about 16% come back. Most missions fail. The robots crash or they fail to come back. The Antikythera device is actually a gear from one famous fiery crash in Alexandria which got "reverse engineered" as the Aeolipile and of course there's Roswell.
+
+The best way to travel isn't to get vintage currency, that's expensive. Instead, purchase jewelry at estate sales then pawn it off. Then you'll have a couple weeks of money without having to purchase currency from coin collectors before you go. 
+
+But that money and the rest of the stuff in my Samsonite really doesn't last long. My chance to return won't open up for 6 months and this money will last about 3 weeks if I'm stingy.
 
 Most people think that they would just invest in stocks and become a millionaire. 
 
-There's a few problems. You Driver's license has a date of birth 25 years in a future. How are you going to open up that brokerage account?
+There's a few problems. You Driver's license has a date of birth 35 years in a future. How are you going to open up that brokerage account?
 
-"Work with the mob" you might say. Ok, how? Call 1-800-MAFIA and get Guido on the horn? Be real. 
+"Work with the mob" you might say. Ok, how? Call 1-800-MAFIA4U and get Guido on the horn? Be real. 
 
 Let's say you bring back $50,000 in jewelry to sell. Anyone you sell it to has to file anything priced over $1,000 with the Feds and they need your ID which once again you don't have.
 
@@ -787,7 +791,18 @@ There's all these details nobody talks about and you don't realize until you're 
 
 Even the lights are different. They have harsh bright glows and buzzing sounds, flickering like the lights in some kind of video game. And then there's the lack of phones of course. I've got mine back at the hotel room, sure, along with my modern laptop and USB power brick ... I wasn't going to travel completely empty-handed.
 
-But it's not just phones, it's screens in general. Small CRTs flicker everywhere with washed out color and have this high pitched squeal when you turn them on. 50 years ago can feel so familiar yet at the same time, so foreign. The NES version of Super Mario Bros is still years in the future.
+I look in my wallet to see what I have left. $1000 after taxes every two weeks should be enough. I just need what's left in here to last until the next payday, I just have to make sure I get that employee ID badge or else I won't be able to cash it.
+
+Right next to it is a business card sized memo from the Chronomotorist club, the time traveling society I'm part of. Here's what it says:
+
+> #### CRONOS CREED
+> 1. Every trip has a 40% survival rate. Nothing is guaranteed.
+> 2. You do not exist prior to arrival. You are a lone invader. 
+> 3. There are no riches. Once people start paying attention to you you've lost.
+> 4. Every historical time is a constructed fiction. Reality is different.
+> 5. Talk only when necessary, keep your head low and try to blend in.
+
+I look around the busy commercial street again. It's not just the lack of phones, it's screens in general. Small CRTs flicker everywhere with washed out color and have this high pitched squeal when you turn them on. 50 years ago can feel so familiar yet at the same time, so foreign. The NES version of Super Mario Bros is still years in the future.
 
 Knowing history doesn't give you the ability to change the future, only to become needlessly invested in the futility of your ability to affect it.
 
@@ -827,9 +842,9 @@ Photographs
 \end{minipage}
 \end{center}
 
-# Monday
+# February 14 on a Monday?
 
-I roll in to the office at 9 AM Monday morning wearing the same thing I wore on Friday. First mistake. Everyone is in slacks and formal wear. I completely forgot that the street-wear tech office is a 1990s invention. That was casual Friday, this is Office Monday. Luckily nobody says anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
+I roll in to the office at 9 AM Monday morning, Valentines Day of all things, wearing the same thing I wore on Friday. First mistake. Everyone is in slacks and formal wear. I completely forgot that the street-wear tech office is a 1990s invention. That was casual Friday, this is Office Monday. Luckily nobody says anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
 
 As I go to my cubicle, I see my company issued computer, an IBM PC with a classic giant heavy keyboard, a DOS prompt on the screen, 10MB hard drive, the works. There's these other boxes I don't recognize. One is labeled "Cyberdrive" another is a "MicroFazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
 
@@ -863,9 +878,85 @@ I watch one of the coders exit out of the program, return to the DOS prompt, the
 
 It was then I realized that tools are a function of your behavior as much as behavior is a function of your tools... The delicate interplay is the thing we call productivity.
 
-Chuck taps me on the shoulder, "hey welcome aboard"
+Chuck taps me on the shoulder, "Hey welcome aboard!"
+
+He hands me two floppy disks and says "Here's the latest source code. Try getting it running and come by if there's any questions."
+
+## Getting Lost
+
+Alright, Ok, I think I know how to do this. Right..
+
+```
+Enter new time: 10:00
+
+C:\> A:
+```
+
+The disk starts whirring. Alright I can do this, maybe?
+
+As I sit there the coder who was doing the compile comes walking back to his desk with a cigarette in his mouth. He sits back down next to me, pulls up and ash tray and then continues typing away, taking drags from his cigarette.
+
+Smoking, at the office, wearing a tie and an Oxford. Right.  
+
+I must have been staring because he looks at me and apologizes, "Oh I'm so sorry."
+
+I try to play it cool, "No it's fine." and he interrupts me, "How rude of me."
+
+He holds out his pack of cigarettes pointing it at my face and says "Would you like one?"
+
+I decline as politely as possible as he starts up a debugger and steps through his code. I can barely use GDB, what on earth he's doing, I have no idea.
+
+I turn back to my screen, type DIR and see some ASM files. Alright let's try this, fine:
+
+```
+A> m main.asm
+...
+A> link main.obj
+```
+
+Then I had my file main and I start it up. I get dropped into a CGA 2-color mode and I have no idea what I'm looking at. I give up trying to figure out the computer and look up at the wall. There's a bunch of diagrams with "digital frontier" lines and messages about Potemkin.
+
+My ID badge says "FNC: Sparkle" but this might ... Oh I think this was the first project that's only referred to by reference in those books. 
+
+There's this predecessor project that they claimed had "multi-facets" where metaphors would move around via the F keys. No existing copies of it survive now.
+
+I guess this is it. This is the failed 1.0 Potemkin softwared running on my screen. I'm sure historians would love to get their hands on this.
+
+I understand why it failed. I need to ask someone how to use it and what I'm looking at. That's never a good sign.
+
+I start pressing random keys and then a dialog pops up after I press "R" ... no idea, let's try edlin, I type that in and a window comes up with the line editor. 
+
+Alright now what? 
+
+I hear a voice from behind me "You know, the Friday before you came I demoed this in Boston at HQ. They couldn't figure out how to use it, can you imagine?" Chuck laughs nervously. "I see you seem to be getting along quite fine. Can you come to my cubicle for a minute, I need to talk to you."
+
+"Fired already?" I nervously think as I follow the guy.
+
+"Alright, let me tell you the stakes." Chuck breathes and makes sure his voice is calm "The friday after next. I need to go back to Boston. They didn't like that software you have running. If I can't show them something they like, this project is canceled. We shut down the office. Everyone is fired."
+
+He stops for a second.
+
+"Mr. Peg, I'm really sorry for deceiving you and I don't blame you if you have other offers and decide to walk. You are a shot in the dark. I'm in need of a miracle but all I have are lottery tickets called resumes. I thought the odds with you were pretty good." He pauses a bit more, "but what we need, it's a radical departure.
+
+I don't need anther 8088 assembly programmer. I need a new direction for the project. Something that's not like what we currently have. We need a dramatic departure.
+
+And ... well ... disruption is only possible if you increase the entropy."
+
+Poincare in 1885 talked about bifurcation: from one equilibria to another, through some kind of parameter. I'm supposed to be bifurcation parameter between two points of structural stability: what I see on the screen and ... something else.
+
+It's my job, then, to find this new point.
+
+This is a relief. I don't actually know 8088 assembly. Maybe I can leverage what I do know, the future.
+
+That's how I cheated to begin with.
 
 # Tuesday
+
+I pour myself some of the gross 1983-style coffee as I overhear Kat talking with another employee, "I still don't think they did it. I can't imagine a husband and wife together abducing teenage girls from a mall like that". The other employee responds "ok, I know. They don't have any other suspects though. 18 year old, mother of 3, to the electric chair ... ".
+
+I have no idea who on earth they are talking about. I keep my head low and don't volunteer information.
+
+"Regardless, they should have never brought back the death penalty. I'm against it morally" Kat responds as I walk away trying had not to engage.
 
 
 Tracy Kidder enters the chat
@@ -886,7 +977,20 @@ These clever clockwork routines won't work on the machines with 50Mhz clocks. We
 
 Kat finally understood that building empires and preparing for them are different games.
 
+The only way this would be possible is through theater. We have to arts and craft it.
+
+I ask Kat where the nearest Staples is and she hands me a stapler. This is where time-traveler training comes in. Staples is a ubiquitous office supply store but Kat handed me a stapler when I asked where it is. Therefore, it must not exist yet. Maybe the Office Supply Warehouse store came later. I thank her kindly and say, "well actually I'm planning to work with Hasegawa on some physical designs. Where can I get construction paper, glues (I'm now questioning when glue sticks were invented)? I usually don't buy such things?"
+
+She looks at me confused, "Like a Woolworths? There's one downtown."
+
+Like a Woolworths. Yes, exactly.
+
 # Wednesday
+
+I've got 2.5 weeks to invent modern computing with 1983 technology. Showing up at Woolworths at 7am was a good try. Locked doors, opens at 10. "You know," I think, "Google Maps would be great right now". I survey the parking lot and see a Longs Drug Store. 
+
+As I walk through the aisle I see construction paper and try to match the EGA 16 color palette in my head. I haven't gone over that yet so for the modern audience
+
 
 First piece of construction paper demo
 
@@ -1016,6 +1120,8 @@ I came empty-handed and now I will leave them empty, a mystery of the ages. We w
 
 But now, I look on my own works, however mighty, and all they fill me with is despair.
 
+I open up my wallet and look over my CRONOS CREED. Every trip has a 40% survival rate. 
+
 I set my time machine and I pull the lever.
 
 # Epilogue`\\`{=latex}The Final Shock-A-Roo
@@ -1032,12 +1138,12 @@ Her info on him matches ours. We go to open his mailbox to investigate and a flo
 
 I walk over to his PC, which is still up and running and flick on the monitor. On it is a black screen with the text: "Look Under Keyboard. This Page Intentionally Left Blank".
 
-I lift the keyboard and find a team photograph I've included in this text and a mysterious prop about the size of my fingernail. It's a delicate plastic chip labeled "SanDisk Extreme Plus" and has a large "4" followed by the letter "TB". On the underside are metal contacts, like you'd find on an Atari game, 8 of them with 2 slightly longer. There's a slight plastic notch on the side. I look at the photograph and turn it around. On the back he left his note:
+I lift the keyboard and find a team photograph I've included in this text and a mysterious prop about the size of my fingernail. It's a delicate plastic chip labeled "SanDisk Extreme Plus SDUC" and has a large "32" followed by the letter "TB". On the underside are metal contacts, like you'd find on an Atari game, 8 of them with 2 slightly longer. There's a slight plastic notch on the side. I look at the photograph and turn it around. On the back he left his note:
 
 >
 > Dear Everyone,  
 > 
-> I'm sorry I had to leave so suddenly. There was an opportunity far away I could not pass up. When you understand this prop, we may have a chance to meet again. I am looking forward to it.
+> I'm sorry I had to leave so suddenly. There was an opportunity I could not pass up. When you understand this prop, we may have a chance to meet again. I am looking forward to it.
 >
 > I will miss you all. I hope all my time will be as special as it was with you.
 > 
@@ -1054,17 +1160,27 @@ Hasegawa clears his throat, "Sharaku Toshusai is a legendary Ukiyo-e artist in J
 
 We sit in silence for a few minutes and realize he's gone, intentionally.  Hasegawa looks at me, "Press any key to continue" he stutters. 
 
-To this day I still have no idea what happened to Jay and sadly I somehow misplaced his mysterious prop. Maybe one day I'll find it, hopefully.
+------
 
-As the months and years go by I increasingly realize Sharaku is a metaphor for the computer itself. You want it to empower you but not have power over you, for you to be able to influence it and not necessarily have it influence you. 
+To this day we still have no idea what happened to Jay and time-travel, as far as I know, is still completely fictional. 
 
-It's moreover the philosophy of tools: they exist to bring harmony to your life. They need to exit before they're disruptive or a nuisance. 
+My father kept the "prop" in a security box at the bank. In 2005 he knew it was a MicroSD card shortly after they were announced. The commercial ones at the time however, were megabytes and Jay's one, 32 terabytes was a million that.  Years pass and capacity of the cards increased as new standards passed. In 2018, the SDUC standard was released that supported such capacities. It was then my father was confident about the true identy of Jay. However, he knew the optics of a man in his seventies telling wild stories about time-travel so he kept it to his diary. 
 
-But of course, there's a lot of money to be made, a lot of power to be had by broken tools: they hold your attention hostage as you chase fleeting harmony - one they temporarily bequeath you at a cost like some kind of narcotic. These tools are fundamentally disingenuous, facilitators of habitual self-abuse in the name of expedience. This is probably what television is.
+In 2027 he passed from a stroke. I'm his daughter, a software designer working at Tuchu Labs in Shanghai. While cleaning out his Palo Alto home, I discovered his journal and the security box.  In 2030, I finally acquired something that could read it. 
 
-The ideal tools are free of this negotiated cadence - they under-ask yet over-deliver and facilitate without exploitation. That's what I want to have exist in the world.
+This book is what I found: Jay’s disk, my father’s notes, and a set of photographs I was able to license. The surviving BOOTSTRA members declined to comment, except Kat, who told me: "Reality is a negotiated struggle. Confidence is a fiction for fools."
 
-My goal now has become to create software that I can interact with like Jay interacted with me. That, to quote Kidder's famous work, is My Dream of Tomorrow.
+As the months and years went on, my father increasingly used Sharaku as a metaphor for the computer itself. He wanted the machines to empower the user but not have power over them; for the common person to be able to influence the machine and not necessarily have the machine influence their own executive decisions.
+
+Sharaku became moreover his philosophy of tools: they exist to bring harmony to your life and need to exit before they're disruptive or a nuisance. 
+
+But of course, there's a lot of money to be made, a lot of power to be had by broken tools: they hold your attention hostage as you chase fleeting harmony - one they temporarily bequeath you at a cost like some kind of narcotic. These tools are fundamentally disingenuous, facilitators of habitual self-abuse in the name of expedience. Throughout the 2000s, his journal entries turn to bitterness and cynicism as he laments over the potentials of computing ravaged by the wreckless plundering of insatiable profiteers.  He writes in horror about the calcifying rise of a "digital feudal" relationship that continues to infect the core ethos of technology.
+
+I've tried to keep this text free of such negativity. The words of hope and liberation brought about by a digital village seem quaint and bittersweet but they still proclaim a powerful vision that we have the agency to pursuit if we only believe in it as well.
+
+It's this renegotiation of technology that continues to be as crucialas as it was when stories of Ned Ludd were spread around the Liverpool Mechanics Institutes meetings in the 1820s. Technology ought not be solely for the capitalizing on new forms of labor. My father believed in this: the ideal tools are free of this negotiated cadence - they under-ask yet over-deliver and facilitate without exploitation. That was his life's work.
+
+My goal now is to live his and Jay's legacy: to create software that I can interact with like my father interacted with Jay. That, to quote Kidder's famous work, is collectively, our Dream of Tomorrow.
 
 
 
