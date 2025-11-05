@@ -67,7 +67,7 @@ pandoc-latex-environment:
 
 # Preface
 
-Fall 1982: FNC Headquarters in Boston tasks us with bringing the microcomputer to the mainstream. Their dream is a full-screen interface supporting pointing devices and color displays running on everything from future palmtops to today's IBM PC and usable by a non-technical person in minutes.
+Fall 1982: FNC Headquarters in Boston tasks us with bringing the microcomputer to the mainstream. Their dream is an interface supporting pointing devices and color displays running on everything from future palmtops to today's IBM PC usable by a non-technical person in minutes.
 
 The problem is nobody has built this and nobody knows how. We don't even know if IBM PCs are capable of such a feat.  
 
@@ -191,7 +191,7 @@ I look back and we are at a consensus. We don't need to stay in Vegas another da
 
 # Menlo Return 
 
-I was tired. Probably too tired for the all night drive back through the desert and up the I-5. The Winnebago has an approximation of a bed and luckily Hasegawa was up for trading off on the drive. I can't sleep though. I hear everyone talking as my head fills with anxiety.
+I am tired. Probably too tired for the all night drive back through the desert and up the I-5. The Winnebago has an approximation of a bed and luckily Hasegawa is up for trading off on the drive. I can't sleep though. I hear everyone talking as my head fills with anxiety.
 
 We blaze past Barstow as I see a sky full of stars out the back window. "We can't just clone them" Thomas gripes as he looks over his notes. "We need to be finishing races they're still lacing up for." 
 
@@ -1003,7 +1003,30 @@ I march the rectangles on top of each other in a cascade of solid colors to make
 
 "Alright," I think, "shock-a-roo it is".
 
-## Thursday: A New Language
+
+Right before I leave that day I realize there's no SCRUM standup or modern structure. I ask if everyone is willing to meet at 9am every day. 
+
+"For how long?" Chuck asks. I shrug, "We can call it a standup. Essentially nobody is sitting down. So not long."
+
+Chuck nods. I go on, "but, sometimes, it'll be all day. I'm planning on doing another workshop like this tomorrow, maybe. I think..."
+
+Everyone looks at each other, they know they've got nothing to lose. Hasegawa says "Press any key to continue?" 
+
+That's from Kidder's book. Here they're using it, in front of me. I'm not suppose to know what that means. I look confused. They explain what I already know. I give them the time to have he experience.
+
+We adjourn for the day.
+
+## Thursday: Three New Languages
+
+I lay that night in my weekly-rate motel room and realize that I need to introduce about 30 years in a few days. I gotta get something close to HTML, JS, and CSS in there. But how?
+
+I stay up later than I should and barely get any sleep. When I wake up I forgot what I wrote. But whatever, I'll go in anyway.
+
+---
+
+"Ok ok, so you know how I said that sometimes it's going to be all day. That's what we're doing."
+
+### HML
 
 "What about a Ted Nelson Hypertext system, but simplified. I mean dramatically simplified. We start with TROFF format, used in UNIX man pages, dating back to the 1970s. It has syntax like this, using things it calls macros:
 
@@ -1033,11 +1056,44 @@ I get all kinds of pushback over how wasteful the schema is with space. They thi
   <TITLE>Hello World</
   <BODY>
     <H1>This is a Title</
-    <P>And This is a paragraph</
-  </
+    <P>And This is a paragraph<//
 ```
 
-Drop down menu and drag
+Fine this is close enough. I invite them to come up with a name and by wild chance, we settle on HML, with H being one more than G and leave the H undefined.
+
+### FNC Scheme
+
+We break for lunch and come back.
+
+Next is the scripting language. I have to justify it first. On the board I have all of these examples with my proposals for buttons and other interactive elements. That's great.
+
+"Ok, now let's say the user wants to interact with this element, how do we do that - let's say we want to make the text italics", I pause for a moment.
+
+"Events? A lookup table maybe?" Kat says, almsot frustrated by the question.
+
+I look at Orion, he's wild enough to know this, "Ever hear of Scheme? The Lisp language?" 
+
+His eyes light up, "Yes, it's a tiny language like Forth" 
+
+Right I say as I go over to the blackboard. Now given say the following HML code:
+
+```html
+<BUTTON ID=I_BTN>italicize</
+<TEXTAREA ID=INPUT></
+```
+
+Let's try this:
+```javascript
+(define (italicize element)
+  (italic_routine (element 'value))
+)
+
+(onClick I_BTN ( 
+  lambda() (
+    italicize INPUT
+  ) 
+)
+```
 
 ## Friday: Demo in 2 weeks
 
@@ -1222,17 +1278,17 @@ We sit in silence for a few minutes and realize he's gone, intentionally.  Haseg
 
 ------
 
-To this day we still do not know who Jay Peg actually was or what happened to him. As far as we can tell, he just vanished. Time-travel, as far as I know, is still fictional. 
+We still do not know who Jay Peg actually was or what happened to him. As far as we can tell, he just vanished and time-travel, as far as I know, is still fictional. 
 
-My father kept Jay's prop in a security box at the bank. In 2005 he identified it as a MicroSD card shortly after they were announced. The commercial ones at the time however were megabytes and Jay's one, 64 terabytes was over a million that.  
+My father kept Jay's prop in a security box at a Wells Fargo bank in Palo Alto. In 2005 he identified it as a MicroSD card shortly after they were announced. The commercial ones at the time however were megabytes and Jay's one, 64 terabytes, was over a million that.  
 
-As capacity of the cards increased and new standards arrived, my father became confident about the true identity of Jay when the "SDUC" standard, whose logo is printed on the MicroSD card, became capable someday of reading a 64TB disk. However, Dad also knew the optics of a man in his seventies telling wild stories about time-travel so he kept his revelations to his diary. In 2029 he passed from a stroke. 
+As capacity of the cards increased and new standards arrived, my father became confident about the true identity of Jay when the "SDUC" standard, whose logo is printed on the MicroSD card, became capable of someday reading a 64TB disk. However, Dad also knew the optics of a man in his seventies telling wild stories about time-travel so he kept his revelations to his diary and I had no idea about any of this. In 2029 he passed from a stroke. 
 
-I'm his daughter, a software designer working at Tuchu Labs in Shanghai. While cleaning out his Palo Alto home, I discovered his journals and the key to the security box. A few years ago when capable MicroSD readers became available I carefully placed the half century old artifact with the faded logo in my reader. Somehow it worked.
+I'm his daughter, a software designer working at Tuchu Labs in Shanghai. While cleaning out his Palo Alto home, I discovered his journals and the key to the security box with the MicroSD card in a ziplock bag with silica gel packets. A few years ago when capable MicroSD readers became available I carefully placed the half century old artifact with the faded logo in a reader. Somehow it worked.
 
-This book is a consolidation of all I found: Jay’s disk, my father’s notes, and a set of photographs I was able to license. I'd also like to thank Tracy Kidder's son who gave me access to his fathers notes. They were crucial in the corroboration of countless passages.
+This book is a consolidation of all I found: Jay’s disk, my father’s notes, and a set of photographs I was able to license. I'd also like to thank Tracy Kidder's son who gave me access to his father's archival notes. They were crucial in the corroboration of countless passages.
 
-The surviving Sparkle members who worked on BOOTSTRA declined to comment, except Kat, who told me: "Reality is a negotiated struggle. Confidence is a fiction for fools."
+The surviving FNC Sparkle members who worked on BOOTSTRA declined to comment, except Kat, who told me: "Reality is a negotiated struggle. Confidence is a fiction for fools." They claim to get Jay  Peg claimants contacting them frequently and have a secret test which nobody has passed.
 
 Lastly, neither I nor my editors make any claims regarding the rumors surrounding Jay Peg and time-travel. This text is an assemblage of the existing documents with clear provenance.
 
@@ -1242,7 +1298,7 @@ Sharaku became his philosophy of tools: they exist to bring harmony to your life
 
 But of course, there's a lot of money to be made, a lot of power to be had by broken tools. They hold your attention hostage as you chase fleeting harmony - one they temporarily bequeath you at a cost like some kind of narcotic. These tools are fundamentally disingenuous, facilitators of habitual self-abuse in the name of expedience. 
 
-Throughout the 2000s, my father's journal entries turn to bitterness and cynicism as he laments over the potentials of computing ravaged by the reckless plundering of insatiable profiteers.  He writes in horror about the calcifying rise of a "digital feudal" relationship that continues to infect the core ethos of technology.
+Throughout the 2000s, my father's journal entries turned to bitterness and cynicism as he lamented over the potentials of computing ravaged by the reckless plundering of insatiable profiteers.  He writes in horror about the calcifying rise of a "digital feudal" relationship that continues to infect the core ethos of technology.
 
 We've excluded the negativity of his later writings. The earlier words of hope and liberation brought about by a digital village acting in good faith seem quaint and bittersweet but they still proclaim a powerful vision that we have the agency to pursue if we only believe in it as well.
 
