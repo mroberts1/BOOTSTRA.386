@@ -1095,7 +1095,107 @@ Let's try this:
 )
 ```
 
+Cascading Style Sheets (CSS) was the hard one really. First, it came from effectively thin air in the 1990s and is not tied to an earlier system. Typesetting systems like LaTeX are just coming out and there are certainly vendors like Harris, Camex, and CompuGraphics for typesetting advertisement and newspapers on computers but the destination is paper. 
+
+The destination of CSS is someone else's computer screen with that being the point of consumption. There's another difficulty, CSS is an indirect system. Ideally you craft a conceptual abstraction such as "important" and then you describe what important things ought to look like. Then you go into your document and you mark things as important.
+
+Essentially it breaks things into three layers: content, presentation, and consumption. The content ostensibly can be presented in a variety of ways and then consumed on a variety of devices. This clean separation, of generalizing each of these concepts, is foreign. Music is kind of like it - you have the recording, the medium such as a vinyl record, and the equipment the person experiences it on, but it's very far away.
+
+And then there is the syntax itself. I decided to maybe just do things incrementally.
+
+"Ok let's say we have a word processor, some common functions, New, Open, Save, we want buttons for them in HML, let's do that"
+
+```html
+  <BUTTON>New</
+  <BUTTON>Open</
+  <BUTTON>Save</
+```
+
+Orion interrupts me, "But Wait, what if we want pictures in there?" and I erase the part of the blackboard
+```html
+  <BUTTON><IMG SRC=NEW.BIN><//
+  <BUTTON><IMG SRC=OPEN.BIN><//
+  <BUTTON><IMG SRC=SAVE.BIN><//
+```
+
+Then Kat interrupts and says "ok, but not all terminals are raster. So I erase again. "Let's not break our hierarchy. Let's call these, spans of text...
+```html
+  <BUTTON><SPAN>New</<IMG SRC=NEW.BIN><//
+  <BUTTON><SPAN>Open</<IMG SRC=OPEN.BIN><//
+  <BUTTON><SPAN>Save</<IMG SRC=SAVE.BIN><//
+```
+
+Chuck drops his hands on the table "now you got both in there, how will that work? Sometimes we want pictures, sometimes we want text."
+
+Kat responsds, "well we can give it IDs like in the Scheme example from earlier, test the device and then decide which to turn off and on"
+
+So I erase again
+```html
+  <BUTTON ID=B_NEW><SPAN>New</<IMG SRC=NEW.BIN><//
+  <BUTTON ID=B_OPEN><SPAN>Open</<IMG SRC=OPEN.BIN><//
+  <BUTTON ID=B_SAVE><SPAN>Save</<IMG SRC=SAVE.BIN><//
+```
+And write 
+
+```javascript
+(onLoad Document ( 
+  lambda() (
+    (if (= device "text") 
+      (map hide '(B_NEW B_OPEN B_...
+```
+
+"Not so fast" Hasegawa interrupts before I could finish. "See here's the problem. What something looks like and what it does, these are not the same. Nor are they the same as the structure."
+
+He pauses and takes a sip of that folgers coffee, somehow enjoying it, "We all come to the same office in different cars. If we swapped cars one night we would all still successfully come to the office. The instructions for operating a car is independent from the actual car. The content of the journey is also different. Here we have two cars. The graphical and text terminal. This distinction should live separate from the journey and the operation."
+
+I erase the bottom part, "olright, let's imagine something different
+
+```css
+@media GRAPHICAL {
+  BUTTON SPAN { 
+    DISPLAY: NONE;
+  }
+}
+@media TEXT {
+  BUTTON IMG { 
+    DISPLAY: NONE;
+  }
+}
+```
+
+"There!", I say, hoping to have successfully smuggled things in.
+
+"In this syntax", Kat says, "You don't need those IDs at all. You just referenced the entire class of them."
+
+I shrug, "I guess I did. Would classifying things be a useful idea? I erase a few things and add a bit more
+
+```html
+  <BUTTON><SPAN>New</<IMG SRC=NEW.BIN><//
+  <BUTTON><SPAN>Open</<IMG SRC=OPEN.BIN><//
+  <BUTTON><SPAN>Save</<IMG SRC=SAVE.BIN><//
+  <BUTTON><SPAN>B</<IMG SRC=BOLD.BIN><//
+  <BUTTON><SPAN>I</<IMG SRC=ITALICS.BIN><//
+  <BUTTON><SPAN>U</<IMG SRC=UNDERLINE.BIN><//
+```
+
+"Well yes, you obviously need something in there now" Chuck says. More erasing and I get this
+
+
+```html
+  <DIV ID=GRP_FILE>
+    <BUTTON><SPAN>New</<IMG SRC=NEW.BIN><//
+    <BUTTON><SPAN>Open</<IMG SRC=OPEN.BIN><//
+    <BUTTON><SPAN>Save</<IMG SRC=SAVE.BIN><//
+  </<DIV ID=GRP_EDIT>
+    <BUTTON><SPAN>B</<IMG SRC=BOLD.BIN><//
+    <BUTTON><SPAN>I</<IMG SRC=ITALICS.BIN><//
+    <BUTTON><SPAN>U</<IMG SRC=UNDERLINE.BIN><//
+  </
+```
+
 ## Friday: Demo in 2 weeks
+
+Now that I've convinced these people this is possible, I need to fake build it. We have our terminology and we are going to go back and redo the exploration on construction paper and 3x5 cards. Maybe with better luck this time.
 
 # Week 2
 
@@ -1111,7 +1211,7 @@ Scroll wheel on the mouse
 
 ## Friday: One Week
 
-Aston Tate return with the pieces - Hyperlinks/CSS/JS
+Ashton Tate return with the pieces - Hyperlinks/CSS/JS
 
 # Week 3
 
