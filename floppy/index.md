@@ -546,7 +546,7 @@ I start talking trying to describe.
 
 McBride holds up his hand, "Now Mr. Gaoler! You will not be there for every user. If I cannot figure this out myself, then the product is no good." 
 
-I see McBridge move the mouse pointer around the screen and talk to his colleague Sheryl, "Do you know where the pie chart button is?"
+I see McBride move the mouse pointer around the screen and talk to his colleague Sheryl, "Do you know where the pie chart button is?"
 
 Sheryl looks over his shoulder, "maybe you need to press those F keys". I watch as McBride cycles through the F keys. He doesn't know the metaphors. "It's the aggregate button, the big A" I keep thinking, "In the Print facet." 
 
@@ -949,8 +949,6 @@ It's my job, then, to find this new point.
 
 This is a relief. I don't actually know 8088 assembly. Maybe I can leverage what I do know, the future.
 
-> That's how I cheated to begin with.
-
 ## Tuesday
 
 I pour myself some of the gross 1983-style french roast as I overhear Kat talking with another employee, "I still don't think they did it. I can't imagine a husband and wife together abducing teenage girls from a mall like that". The other employee responds "OK, I know. They don't have any other suspects though. 18 year old, mother of 3, to the electric chair ... ".
@@ -961,9 +959,29 @@ I have no idea who on earth they are talking about. I keep my head low and don't
 
 He pauses for a second, "Well, I'm hear to write a sequel. Please ignore me as much as possible." I almost roll my eyes at him incredulously as I walk back to my cubicle. "Ignore him? It'd be like if someone said "Hey, I'm Stanley Kubrick, just here shooting a documentary, I hope you don't mind!" Alright, I'll try hard to not mug to the pen.
 
----
+My first job is to justify the approach. The computer brings to people a new form of symbolic interaction.
 
-Kat snaps back, "Oh you want another UCSD P-system?"
+I thought I could somehow leverage that. I walk into the conference room, this time with Kidder in it waiting for us. "Oh great" Alright, I look around after everyone is assembled.
+
+"So I know the time crunch and I know why I'm here. I'm going to try to give you a philosophy for the next few minutes ... we can then talk about whether it makes sense."
+
+"A philosophy?!" Chuck shakes his head at me.
+
+"Well," I stumble, "a design if you will. They're really the same thing." 
+
+What I say next is best captured in *Dreams of Tomorrow*:
+
+> Jay was mesmerized ... images, imagery, imagination. This was the source of the spark. He started, almost, with an ambition beyond language, "Symbols, language, and communication are the same thing. We can use them interchangeably with varying efficacies to achieve the same ends. As far as human relationship and interaction can be represented by symbols and language, they can be done by the computer." He shrugs his shoulders and raises his eyebrows like this is intuitively obvious and he was apologizing for wasting everybody's time.
+
+> He goes on, "It's not so much the personal computer will mechanize labor as much as it will subsume a subset of human interaction through new symbols, and a new language, isolated to the world of the machine. The task doesn't go away, the person still has to do it. The relationship with the human however, that becomes nullified in the same way Gutenberg allowed the masses to engage with the ideas of the dead as a substitute for interacting with the living. The time, once spent, becomes unrecoverable. Since human interaction is substituted for dead labor, the symbols on a computer are not those of productivity but actually, of alienation.
+
+This is not necessarily a wholly positive development for human society, but it will happen for economics reasons. I go on, as far as I can recall, with the following, "Instead of software in terms of tasks and tools in the name of the computer, we start with symbols of human engagement. Offensive to the human spirit but necessary for human flourishing.
+
+We describe as a first principle the relationship between the person and the machine, and then we make the software to meet it, as opposed to crafting software constrained by our presumed relationships. The digital frontier doesn't move on its own accord. We must push it there via a symbolic intermediary. We must make software not as machine code but as structure that expresses relationships we are, unfortunately, subsuming by the machine." 
+
+After finishing that, I wasn't so sure I actually wanted to be a part of the personal computer revolution after all. But then again, I knew the future, there was no choice.
+
+Kat interrupts, "Oh you want another UCSD P-system?"
 
 The UCSD P-system is a lambasted operating system decades ahead of its time from the late 1970s. Similar to how Android, Python, PHP, Ruby, and the Web work in the 21st century code is written against not the underlying computer but for a suite of functions that run on a theoretical, idealized "virtual machine". On the P-System, it's done in Pascal and compiled to something called P-code. This unarguably works as it is the primary way software is written in the 21st century. Modern processors have specialized instructions and architectures to accommodate for software that uses such design. They have the resources to orchestrate such an abstraction. However, on early 1980s computer hardware, this is wildly ambitious.
 
