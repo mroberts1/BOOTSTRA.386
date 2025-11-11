@@ -21,6 +21,10 @@ possibilities:
     
     maybe a scene of casual sexism
 
+--
+
+
+--
 They're with a client who constantly defers to a male engineer despite Kat being helpful and informative.
 
 Discipline is the art of surveillance
@@ -30,6 +34,29 @@ Every interface is a moral stance
 Mumford said it's not technology but language (symbols and communication) - teckhne social milieu and technological innovation—the "wishes, habits, ideas, goals" as well as "industrial processes" of a society.
 
 War and mass sport (games) he saw as social releases from mechanized life, and the hysteric duties of wartime production
+
+Colonialism worked through intermediaries. There were the subjects, the oversears, and the owners. The computer is also the oversear and the user is the subject
+The oversears utility 
+
+The intermediary must render the oppressed legible and governable to the dominator.
+Why? Masters, lords, and CEOs can’t surveil thousands directly.
+ Structural need: Reduce the information asymmetry that protects the oppressed.
+
+ Enforcement with Plausible Deniabilit
+ Why? Direct repression is costly, risky, and delegitimizing.
+ Outsource moral risk and operational friction.
+
+Ideological Reproduction
+Why? Coercion alone is unsustainable; consent (or resignation) is cheaper.
+Convert structural inequality into perceived meritocracy.
+
+Buffer Against Collective Action
+Why? Unity is the greatest threat to hierarchy.
+ Fragment the subordinate class into competing subgroups.
+
+Contingent & Revocable Privilege
+Why? Absolute security breeds independence; insecurity breeds compliance.
+Ensure loyalty through existential dependency.
 
 Mcluhan:
 

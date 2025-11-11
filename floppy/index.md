@@ -1219,17 +1219,80 @@ Now that I've convinced these people this is possible, I need to fake build it. 
 
 ## Monday: Navigating the menu
 
-Scroll wheel on the mouse
+Chuck starts drawing graphs on the chalkboard, a series of lines on a graph:
+
+"There's really two ends to a continuum when it comes to computer users:
+
+At one end is the intrepid user: Software not only can be customized to a state where the user no longer is confident in its operation but the process to modify the states were poorly understood. Fear and anxiety are driving emotions. Not only because the machine is poorly understood but also because it is expensive enough to be given a high level of attention to. There is a price put on everything: expected time + cognitive burden + anxiety + probability of success. When the sum of these are less than the reward, the user sticks with their suboptimal local minima. They'll use software they hate for years because the cost, or the friction, is too high.
+
+At the other end is the exuberant user: Novelty and exploration is fetishized. The division between fan and practitioner is expressed starkly here. They'll know all the latest devices but never engage with them at the same level of intimacy as the intreped user. They're always riding the latest fad and don't stick with the thing long enough to experience the difficulties that can arise from a long term relationship. 
+
+When building technology you need the exuberant user and then you'll get the intrepid eventually on board."
+
+Chuck labels his lines, the exuberant user, descending quickly and the other, the intrepid ascending slowly. 
+
+"The key is these lines have to intersect or the second will never happen. Making a splash is easy. Getting sustainable revenue, that's the point of mastery."
+
+He then drew sharper downward lines and said "see these are no good ... you need to keep people interested somehow"
+
+I realized then I was looking at Geoffrey Moore's famous chasm being depicted as two lines. After that book gets published about a decade from now it becomes read by everybody and people talk about this dynamic using his terms and diagrams. All the thoughts on the matter get set within the framework of that foundational text k
+
+However the relationships existed prior and thus the observations will as well. I wonder how many other managers drew different pictures and set up separate categories. Tools constrain how we solve the domain. We all become the intrepid user after finding a framework of sufficient convenience and stop doing the cognitive work of analyzing the problem. It becomes difficult to claw your way out of that holes of convenience, to not succumb to Planck's principle that science progresses one funeral at a time and that with age, the innovators become the facilitators and then, ultimately, the obstructors.
 
 ## Tuesday
+Now it's my turn. I'm going to talk about the intimacy of the machine and the human experience
+
+The size of the screen and the distance from the viewer determines the intimacy of the content. Have you ever been to a television store where they're playing romance?
 
 ## Wednesday
+It's Hasegawa's turn at the chalkboard:
+
+The personal computer is not merely an interface to goals but also, it's primary obstruction. A door serves no purpose unless it is part of a wall. The computer is a natural wall and we are in the business of designing doors. It mediates interaction as much as any other form of communication.
 
 ## Thursday
+Kat gets up
+
+There's three temporal relationships a user has with a tool. This applies to computers and kitchen knives equally:
+
+  * Before: The user accumulates, frames, and prepares the needs based on the capability of the tool. 
+  * During: The engagement of the users needs and raw inputs during the operation of the machine
+  * Post: The product of the tools and the input
+
+She then puts a formula on the board:
+
+$$
+  \mathrm{tool}(\mathrm{input}) = \mathrm{output}
+$$
+
+"But the residue of the tool continues to live with the entirety of the process. The difference between a DOT Matrix printer and a linotype machine is obvious. Even though the product of the printed word on a page is ostensibly the same, the constraints of the tool shapes the process and the thing."
+
+I interject "not only but also in how we think about it?"
+
+Kat responds almost condescendingly "I'm not so sure about that". But actually I'm not so sure about her confidence. Arrogance is almost exclusively a social tool to hide uncertainty when the ego is at stake.
 
 ## Friday: One Week
 
-Ashton Tate return with the pieces - Hyperlinks/CSS/JS
+Orion finishes the week:
+"Feudalism, Colonialism, Industrial Factories, Slavery, they all have a common structure. There's the laborers, the intermediaries and the owners that orchestrate the work and accumulate the benefits"
+
+"Oh come on now" Chuck scoffs, "this isn't supposed to be one of your anti-nuclear protests"
+
+Orion raises his hands in defense "no no I have a point, don't worry." 
+
+"See, the computer, the personal computer, is the intermediary for the electronic age. In order to get things done we need to have discipline. And discipline is the art of surveillance. The intermediary is the owners tool of surveillance. Computers, if anything, are highly disciplined objects. They only follow instructions. They lack the agency to dispute."
+
+"I still don't see it" Kat says as Orion opens a book, "The Wretched of the Earth" by Frantz Fanon with all these sheets of paper scribbled all over it strewn out, "Just hear me out here. Tell me if I'm talking about computers"
+
+And now if you allow me to quote again from the Dreams of Tomorrow:
+
+> The unwashed hippy stroked his beard as the thoughts of centuries whisked through his hairs. He raised the book up and adjusted his glasses and like a Pentacostal preacher condemning the damn he quoth "The intermediary must render the oppressed legible and governable to the dominator. They serve to enforce with plausible deniability, reproduce the ideology, buffer against collective action, and provide contingent and revocable privilege. They facilite the role of both the opressor and the liberator"
+
+> The other team members look at each other confused thinking this sounds more like the Battle of Algiers than a description of the personal computer. Orion flips a few pages and looks at his notes and continues:
+
+> "You need to surveil thousands, reduce the information asymmetry, make it so your repression isn't deligitimizing, outsource the operational friction, convert structural inequality to perceived meritocracy and ensure loyalty through existential dependency." Structurally, in capitalism, the computer both deskills and, eventually eliminates the disciplining role. It's not about freeing up labor, it's about making Fredrick Taylor's Scientific Management move from hour precision to second. This, and I contend, only this is why coroporate america will buy computers."
+
+
+
 
 # Week 3
 
