@@ -266,7 +266,7 @@ I conclude the presentation taking longer than I intend but shorter than I need,
 
 Thomas looks up from his notebook, "I appreciate the free HBS lecture but what are we actually building?"
 
-Kat shrugs, "well we aren't the actual user. I can debug circuitboards and program assembly. Don't ask me these questions, I just want a cheaper CAD machine."
+Kat shrugs, "well we aren't the actual user. I can debug circuit boards and program assembly. Don't ask me these questions, I just want a cheaper CAD machine."
 
 Orion looks up and hesitates, "What about Grace? She *is* a research scientist."
 
@@ -314,7 +314,7 @@ She responds skeptically, "A PhD in Control Systems and now I'm Carnac the Magni
 
 Orion calmly sooths, "Alright good. Everyone hold the hand of the person next to you. We together form a rectangular portal around this office table into the world of tomorrow. Now, close your eyes."
 
-Grace responds, "Ok, Eyes closed."
+Grace responds, "OK, Eyes closed."
 
 Orion says "You look around."
 
@@ -352,7 +352,7 @@ I need the right tool! Not extra strength, Not heavy duty but appropriately size
 
 Orion opens his eyes and is looking at me, "Ms. Jones, are you OK?"
 
-She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, the shimmering darkness of this moldy rectangle invades my mind, trying to conquer the frontier of my thoughts. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again and detoxicify myself from its enabling malevolence."
+She grips tighter on the hand holding and continues, "The machine feels grafted on to my hip, like some weed, the shimmering darkness of this moldy rectangle invades my mind, trying to conquer the frontier of my thoughts. I have become the slave to its beck and call, what I need is distance.  Quiet space to become a human again and detoxify myself from its enabling malevolence."
 
 By now I look around and many people have opened their eyes. Thomas actually never closed his and is writing all this down. I'm glad I have that notebook.
 
@@ -451,17 +451,17 @@ First of all, it doesn't look like our applications can overlap like VisiOn. Sec
 
 Third of all, we need the user to have a hard disk. This is persistent memory on magnetic platters. They're very expensive.
 
-As far as the software we really want to slap layers on top of each other and connect them by interface, but the IBM PC doesn’t really work that way - it's a complicated machine. For instance, the 640×200 monochrome screen has separate 8 KB banks for odd and even scanlines. Each bank is effectively two “frames,” and the video hardware cycles between them like a two-page flipbook, only the pages are interleaved in memory.
+As far as the software we really want to slap layers on top of each other and connect them by interface, but the IBM PC doesn’t really work that way - it's a complicated machine. For instance, the 640×200 monochrome screen has separate 8 KB banks for odd and even scan-lines. Each bank is effectively two “frames,” and the video hardware cycles between them like a two-page flip-book, only the pages are interleaved in memory.
 
 To display anything, you fill the buffers as fast as you can; the hardware turns your writes into visible pixels. Everything ticks to a central clock, 4.77 MHz, the PC’s Planck constant.
 
-As a result everything you make feels like a meticulously designed clock, some ornate Turkish automaton from the 1830s. Yet upon this, we must build reasonable software and unfortunately can’t ship a little short man hiding inside mylar disks to play chess.
+As a result everything you make feels like a meticulously designed clock, some ornate Turkish automaton from the 1830s. Yet upon this, we must build reasonable software and unfortunately can’t ship a little short man hiding inside Mylar disks to play chess.
 
 Well kinda. That's the open secret about computers in general. People use them as if they're magic. But they're actually just as stupid as any other machine. The magic is the disk. On a record we know the symphony isn't inside the stereo. Instead we have a dumb machine that makes an electronic speaker move along the groove a record.
 
 Computers are the same. The dumb machine dances by whatever song, in this case software, you feed into it. I'm kind of the conductor and the engineers are kind of the symphony.
 
-So there seems to be more or less three types of software: Wordprocessing, Financial, and Database. There's a lot of players in this field: Fox & Geller, Continental, Sorcim, Micropro ... and then there's wildcards like Lifetree's Volkswriter (VW) - even used by a few people in the office. 
+So there seems to be more or less three types of software: Word processing, Financial, and Database. There's a lot of players in this field: Fox & Geller, Continental, Sorcim, Micropro ... and then there's wildcards like Lifetree's Volkswriter (VW) - even used by a few people in the office. 
 
 What we need to do is two-fold:
 
@@ -472,11 +472,11 @@ It wasn't so much that Potemkin is moving a solid line but closer to a ragged pe
 
 ## Facet-views: A New Paradigm
 
-As we sit around trying to plan I use the classic aphorism that I just couldn't "square the circle" on the project. It was at that time that Kat made the real breakthrough, "No, it's Prince Ruperts Cube". 
+As we sit around trying to plan I use the classic aphorism that I just couldn't "square the circle" on the project. It was at that time that Kat made the real breakthrough, "No, it's Prince Rupert's Cube". 
 
 In this mathematical puzzle you are supposed to pass a "convex polyhedra" (let's use a cube) through itself, fully. This is certainly possible.
 
-Imagine a cube turned on its side, casting a shadow. That shadow is bigger than a face of the cube of course. So therefore the cube can pass through that shadow, leaving slivers of the projection. Kat is saying that no matter how we try to map our concepts to something physical we always get Prince Ruperts Cube - there's never a complete mapping.
+Imagine a cube turned on its side, casting a shadow. That shadow is bigger than a face of the cube of course. So therefore the cube can pass through that shadow, leaving slivers of the projection. Kat is saying that no matter how we try to map our concepts to something physical we always get Prince Rupert's Cube - there's never a complete mapping.
 
 It's the nature of trade-offs: you need to have an opinion on what residue you leave out of your physical manifestations. You can't fulfill every facet of your fantasy in the physical world.
 
@@ -500,9 +500,9 @@ To save, simply pass back to the file facet (F1) and then navigate the picture b
 
 This way we have persistent pictures, dynamic metaphors, and accessible key-strokes that can facilitate the user throughout the development process! 
 
-And what more, we can even embed it in the document. As a user is writing a computer program, they go between the code and the comments, the keymappings change from word-processor to code-processor, the metaphors effortless slide back and forth, if the user is in a comment, our print picture prints the code to the printer. Move down to a line of computer code and now that same button compiles the code - the one in the top corner, always doing exactly what you expect!
+And what more, we can even embed it in the document. As a user is writing a computer program, they go between the code and the comments, the key mappings change from word-processor to code-processor, the metaphors effortless slide back and forth, if the user is in a comment, our print picture prints the code to the printer. Move down to a line of computer code and now that same button compiles the code - the one in the top corner, always doing exactly what you expect!
 
-The compactness and streamline allow us to say you can have a "640k system with 576k left over". Everything is done through jump tables, pointers and low-level bitwise operations like an intricate elegant clock. It's like Buckminster Fuller graced our presence and wrote the software himself.
+The compactness and streamline allow us to say you can have a "640k system with 576k left over". Everything is done through jump tables, pointers and low-level bit-wise operations like an intricate elegant clock. It's like Buckminster Fuller graced our presence and wrote the software himself.
 
 Since we needed to explore these interfaces we create a file format that will load each one. They are stored in object files, that the user could, ostensibly make themselves and then share around their own office.
 
@@ -847,7 +847,7 @@ Photographs
 
 I roll in to the office at 9 AM Monday morning, Valentines Day of all things, wearing the same thing I wore on Friday. First mistake. Everyone is in slacks and formal wear. I completely forgot that the street-wear tech office is a 1990s invention. That was casual Friday, this is Office Monday. Luckily nobody says anything, they didn't have to. I obviously need to go head out to JC Penny's tonight.
 
-As I go to my cubicle, I see my company issued computer, an IBM PC with a classic giant heavy keyboard, a DOS prompt on the screen, 10MB hard drive, the works. There's these other boxes I don't recognize. One is labeled "Cyberdrive" another is a "MicroFazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
+As I go to my cubicle, I see my company issued computer, an IBM PC with a classic giant heavy keyboard, a DOS prompt on the screen, the works. There's these other boxes I don't recognize. One is labeled "Cyberdrive" another is a "MicroFazer". There's a small stack of reference books, one on 8088 and another on DOS. There's also a stencil tool with, I guess flowchart shapes in them right next to a slide rule.
 
 There's a coaxial network connection on the back of the machine. Probably for crude networking. It's fairly obvious sneakernet is the dominant medium.
 
@@ -955,7 +955,7 @@ I pour myself some of the gross 1983-style french roast as I overhear Kat talkin
 
 I have no idea who on earth they are talking about. I keep my head low and don't volunteer information.
 
-"Regardless, they should have never brought back the death penalty. I'm against it morally" Kat responds as I walk away trying hard not to engage. I pass a new person I didn't see there yesterday, about 40. I introduce myself and he identifies himself "Tracy Kidder". The thoughts that ran through my mind at that point as I glance down at his notebook seeing the first scribblings of the *Dreams of Tomorrow*. I pass it off, "the pulitzer prize winner?" He blushes, almost ashamed of being associated with such an honor.
+"Regardless, they should have never brought back the death penalty. I'm against it morally" Kat responds as I walk away trying hard not to engage. I pass a new person I didn't see there yesterday, about 40. I introduce myself and he identifies himself "Tracy Kidder". The thoughts that ran through my mind at that point as I glance down at his notebook seeing the first scribblings of the *Dreams of Tomorrow*. I pass it off, "the Pulitzer prize winner?" He blushes, almost ashamed of being associated with such an honor.
 
 He pauses for a second, "Well, I'm hear to write a sequel. Please ignore me as much as possible." I almost roll my eyes at him incredulously as I walk back to my cubicle. "Ignore him? It'd be like if someone said "Hey, I'm Stanley Kubrick, just here shooting a documentary, I hope you don't mind!" Alright, I'll try hard to not mug to the pen.
 
@@ -1003,7 +1003,7 @@ I ask Kat where the nearest Staples is and she hands me a stapler. This is where
 
 She looks at me confused, "Like a Woolworths? There's one downtown."
 
-Like a Woolworths. Yes, exactly.
+Like a Woolworth's. Yes, exactly.
 
 ## Wednesday: Construction begins
 
@@ -1022,9 +1022,9 @@ I march the rectangles on top of each other in a cascade of solid colors to make
 "Alright," I think, "shock-a-roo it is".
 
 
-Right before I leave that day I realize there's no SCRUM standup or modern structure. I ask if everyone is willing to meet at 9am every day. 
+Right before I leave that day I realize there's no SCRUM stand-up or modern structure. I ask if everyone is willing to meet at 9am every day. 
 
-"For how long?" Chuck asks. I shrug, "We can call it a standup. Essentially nobody is sitting down. So not long."
+"For how long?" Chuck asks. I shrug, "We can call it a stand-up. Essentially nobody is sitting down. So not long."
 
 Chuck nods. I go on, "but, sometimes, it'll be all day. I'm planning on doing another workshop like this tomorrow, maybe. I think..."
 
@@ -1042,7 +1042,7 @@ I stay up later than I should and barely get any sleep. When I wake up I forgot 
 
 ---
 
-"Ok ok, so you know how I said that sometimes it's going to be all day. That's what we're doing."
+"OK OK, so you know how I said that sometimes it's going to be all day. That's what we're doing."
 
 ### HML
 
@@ -1056,7 +1056,7 @@ I stay up later than I should and barely get any sleep. When I wake up I forgot 
 
 WordStar built on top of this and they were already familiar with it. Next we went to IBM's Generalized Markup Language (GML), which has starter tags with names like "BODY", "TITLE", and "H0-H6".
 
-I then propose it can be extended, and annotatable if we just change the syntax slightly ... have a start and an end delimeter. I propose something like this:
+I then propose it can be extended, and annotatable if we just change the syntax slightly ... have a start and an end delimiter. I propose something like this:
 
 ```html
   <TITLE>Hello World</TITLE>
@@ -1068,7 +1068,7 @@ I then propose it can be extended, and annotatable if we just change the syntax 
 
 With the following caveat: the syntax should describe a document's structure and other attributes rather than specify the processing that needs to be performed.
 
-I get all kinds of pushback over how wasteful the schema is with space. They think this is bloated and redundant. They're proposal was to just close off every tag the same, it walks up the tree and can be implied.
+I get all kinds of push back over how wasteful the schema is with space. They think this is bloated and redundant. They're proposal was to just close off every tag the same, it walks up the tree and can be implied.
 
 ```html
   <TITLE>Hello World</
@@ -1085,9 +1085,9 @@ We break for lunch and come back.
 
 Next is the scripting language. I have to justify it first. On the board I have all of these examples with my proposals for buttons and other interactive elements. That's great.
 
-"Ok, now let's say the user wants to interact with this element, how do we do that - let's say we want to make the text italics", I pause for a moment.
+"OK, now let's say the user wants to interact with this element, how do we do that - let's say we want to make the text italics", I pause for a moment.
 
-"Events? A lookup table maybe?" Kat says, almsot frustrated by the question.
+"Events? A lookup table maybe?" Kat says, almost frustrated by the question.
 
 I look at Orion, he's wild enough to know this, "Ever hear of Scheme? The Lisp language?" 
 
@@ -1121,7 +1121,7 @@ Essentially it breaks things into three layers: content, presentation, and consu
 
 And then there is the syntax itself. I decided to maybe just do things incrementally.
 
-"Ok let's say we have a word processor, some common functions, New, Open, Save, we want buttons for them in HML, let's do that"
+"OK let's say we have a word processor, some common functions, New, Open, Save, we want buttons for them in HML, let's do that"
 
 ```html
   <BUTTON>New</
@@ -1136,7 +1136,7 @@ Orion interrupts me, "But Wait, what if we want pictures in there?" and I erase 
   <BUTTON><IMG SRC=SAVE.BIN><//
 ```
 
-Then Kat interrupts and says "ok, but not all terminals are raster. So I erase again. "Let's not break our hierarchy. Let's call these, spans of text...
+Then Kat interrupts and says "OK, but not all terminals are raster. So I erase again. "Let's not break our hierarchy. Let's call these, spans of text...
 ```html
   <BUTTON><SPAN>New</<IMG SRC=NEW.BIN><//
   <BUTTON><SPAN>Open</<IMG SRC=OPEN.BIN><//
@@ -1145,7 +1145,7 @@ Then Kat interrupts and says "ok, but not all terminals are raster. So I erase a
 
 Chuck drops his hands on the table "now you got both in there, how will that work? Sometimes we want pictures, sometimes we want text."
 
-Kat responsds, "well we can give it IDs like in the Scheme example from earlier, test the device and then decide which to turn off and on"
+Kat responds, "well we can give it IDs like in the Scheme example from earlier, test the device and then decide which to turn off and on"
 
 So I erase again
 ```html
@@ -1164,9 +1164,9 @@ And write
 
 "Not so fast" Hasegawa interrupts before I could finish. "See here's the problem. What something looks like and what it does, these are not the same. Nor are they the same as the structure."
 
-He pauses and takes a sip of that folgers coffee, somehow enjoying it, "We all come to the same office in different cars. If we swapped cars one night we would all still successfully come to the office. The instructions for operating a car is independent from the actual car. The content of the journey is also different. Here we have two cars. The graphical and text terminal. This distinction should live separate from the journey and the operation."
+He pauses and takes a sip of that Folgers coffee, somehow enjoying it, "We all come to the same office in different cars. If we swapped cars one night we would all still successfully come to the office. The instructions for operating a car is independent from the actual car. The content of the journey is also different. Here we have two cars. The graphical and text terminal. This distinction should live separate from the journey and the operation."
 
-I erase the bottom part, "olright, let's imagine something different
+I erase the bottom part, "alright, let's imagine something different
 
 ```css
 @media GRAPHICAL {
@@ -1215,9 +1215,15 @@ I shrug, "I guess I did. Would classifying things be a useful idea? I erase a fe
 
 Now that I've convinced these people this is possible, I need to fake build it. We have our terminology and we are going to go back and redo the exploration on construction paper and 3x5 cards. Maybe with better luck this time.
 
+Chuck says "Alright, I want to figure this out a little better. You've all stuck with me. There's plenty of great jobs out there but we're here. I want to understand why each of you are doing this. Next week, every morning, each of you will give a presentation of what we're building and why it is important. I'll start Monday and then I wrote a small computer program to assign each of you a day. Watch what I do and then follow my lead"
+
+## The Weekend
+
+I leave work with my first paycheck. Good, I really needed it, maybe I can finally ditch this bicycle and bus pass and get a car. The smog in the air is really uncomfortable. As I rush off to the bank I notice there's a machine outside that looks like the kind that you fill up a water bottle with. Having no idea how to use some weird bank tube, I walk in to see a giant line. This is clearly a ritual, before the ACH deposit, Friday was probably the busiest day at the bank.
+
 # Week 2
 
-## Monday: Navigating the menu
+## Chuck: Monday
 
 Chuck starts drawing graphs on the chalkboard, a series of lines on a graph:
 
@@ -1225,7 +1231,7 @@ Chuck starts drawing graphs on the chalkboard, a series of lines on a graph:
 
 At one end is the intrepid user: Software not only can be customized to a state where the user no longer is confident in its operation but the process to modify the states were poorly understood. Fear and anxiety are driving emotions. Not only because the machine is poorly understood but also because it is expensive enough to be given a high level of attention to. There is a price put on everything: expected time + cognitive burden + anxiety + probability of success. When the sum of these are less than the reward, the user sticks with their suboptimal local minima. They'll use software they hate for years because the cost, or the friction, is too high.
 
-At the other end is the exuberant user: Novelty and exploration is fetishized. The division between fan and practitioner is expressed starkly here. They'll know all the latest devices but never engage with them at the same level of intimacy as the intreped user. They're always riding the latest fad and don't stick with the thing long enough to experience the difficulties that can arise from a long term relationship. 
+At the other end is the exuberant user: Novelty and exploration is fetishized. The division between fan and practitioner is expressed starkly here. They'll know all the latest devices but never engage with them at the same level of intimacy as the intrepid user. They're always riding the latest fad and don't stick with the thing long enough to experience the difficulties that can arise from a long term relationship. 
 
 When building technology you need the exuberant user and then you'll get the intrepid eventually on board."
 
@@ -1239,24 +1245,26 @@ I realized then I was looking at Geoffrey Moore's famous chasm being depicted as
 
 However the relationships existed prior and thus the observations will as well. I wonder how many other managers drew different pictures and set up separate categories. Tools constrain how we solve the domain. We all become the intrepid user after finding a framework of sufficient convenience and stop doing the cognitive work of analyzing the problem. It becomes difficult to claw your way out of that holes of convenience, to not succumb to Planck's principle that science progresses one funeral at a time and that with age, the innovators become the facilitators and then, ultimately, the obstructors.
 
-## Tuesday
+## Jay: Tuesday
 Now it's my turn. I'm going to talk about the intimacy of the machine and the human experience
 
 The size of the screen and the distance from the viewer determines the intimacy of the content. Have you ever been to a television store where they're playing romance?
 
-## Wednesday
+## Hasegawa: Wednesday
 It's Hasegawa's turn at the chalkboard:
 
-The personal computer is not merely an interface to goals but also, it's primary obstruction. A door serves no purpose unless it is part of a wall. The computer is a natural wall and we are in the business of designing doors. It mediates interaction as much as any other form of communication.
+The personal computer is not merely an interface to goals but also, it's primary obstruction. A door serves no purpose unless it is part of a wall. The computer is a natural wall and we are in the business of designing doors. It mediates interaction as much as any other form of communication. The next question is where does the door lead?" Hasegawa adjusts his tie, "Is it a factory? A prison? The Panopticon?", he looks around the room, "I want a garden, your own garden, with fertile soil and plenty of sunshine. I am here, not to create a tool..  
 
-## Thursday
-Kat gets up
+## Kat: Thursday
+Kat goes up to the board with a binder of typewritten notes as she draws three columns and a horizontal line labeled time. 
 
-There's three temporal relationships a user has with a tool. This applies to computers and kitchen knives equally:
+She looks back at us and asks for permission to start:
 
-  * Before: The user accumulates, frames, and prepares the needs based on the capability of the tool. 
-  * During: The engagement of the users needs and raw inputs during the operation of the machine
-  * Post: The product of the tools and the input
+> There's three temporal relationships a user has with a tool. This applies to computers and kitchen knives equally:
+> 
+>  * Before: The user accumulates, frames, and prepares the needs based on the capability of the tool. 
+>  * During: The engagement of the users needs and raw inputs during the operation of the machine
+>  * Post: The product of the tools and the input
 
 She then puts a formula on the board:
 
@@ -1264,15 +1272,19 @@ $$
   \mathrm{tool}(\mathrm{input}) = \mathrm{output}
 $$
 
-"But the residue of the tool continues to live with the entirety of the process. The difference between a DOT Matrix printer and a linotype machine is obvious. Even though the product of the printed word on a page is ostensibly the same, the constraints of the tool shapes the process and the thing."
+Then she scribbles a zig-zag over the three columns and puts arrows on top of the zig-zag emanating from the center column, the tool use. She goes on
+
+"The residue of the tool continues to live with the entirety of the process. The difference between a Dot-Matrix printer and a Linotype machine is obvious. Even though the product of the printed word on a page is ostensibly the same, the constraints of the tool shapes the process and the thing."
 
 I interject "not only but also in how we think about it?"
 
-Kat responds almost condescendingly "I'm not so sure about that". But actually I'm not so sure about her confidence. Arrogance is almost exclusively a social tool to hide uncertainty when the ego is at stake.
+Kat responds almost condescendingly "I'm not so sure about that". 
 
-## Friday: One Week
+But actually I'm not so sure about her confidence. Arrogance is almost exclusively a social tool to hide uncertainty when the ego is at stake.
 
-Orion finishes the week:
+## Orion: Friday
+Orion finishes the week. He walks up with a paper bag full of mysteries, he picks up the chalk. We've all used it. But then, he sets is back down, and places the bag on the table in front of him. A silence fills the air and he starts:
+
 "Feudalism, Colonialism, Industrial Factories, Slavery, they all have a common structure. There's the laborers, the intermediaries and the owners that orchestrate the work and accumulate the benefits"
 
 "Oh come on now" Chuck scoffs, "this isn't supposed to be one of your anti-nuclear protests"
@@ -1283,15 +1295,16 @@ Orion raises his hands in defense "no no I have a point, don't worry."
 
 "I still don't see it" Kat says as Orion opens a book, "The Wretched of the Earth" by Frantz Fanon with all these sheets of paper scribbled all over it strewn out, "Just hear me out here. Tell me if I'm talking about computers"
 
-And now if you allow me to quote again from the Dreams of Tomorrow:
+And now if you allow me to quote from the *Dreams of Tomorrow*:
 
-> The unwashed hippy stroked his beard as the thoughts of centuries whisked through his hairs. He raised the book up and adjusted his glasses and like a Pentacostal preacher condemning the damn he quoth "The intermediary must render the oppressed legible and governable to the dominator. They serve to enforce with plausible deniability, reproduce the ideology, buffer against collective action, and provide contingent and revocable privilege. They facilite the role of both the opressor and the liberator"
+> The unwashed hippy stroked his beard as the thoughts of centuries whisked through his hairs. He raised the book up and adjusted his glasses and like a Pentecostal preacher condemning the damn he quoth "The intermediary must render the oppressed legible and governable to the dominator. They serve to enforce with plausible deniability, reproduce the ideology, buffer against collective action, and provide contingent and revocable privilege. They facilitate the role of both the oppressor and the liberator"
 
 > The other team members look at each other confused thinking this sounds more like the Battle of Algiers than a description of the personal computer. Orion flips a few pages and looks at his notes and continues:
 
-> "You need to surveil thousands, reduce the information asymmetry, make it so your repression isn't deligitimizing, outsource the operational friction, convert structural inequality to perceived meritocracy and ensure loyalty through existential dependency." Structurally, in capitalism, the computer both deskills and, eventually eliminates the disciplining role. It's not about freeing up labor, it's about making Fredrick Taylor's Scientific Management move from hour precision to second. This, and I contend, only this is why coroporate america will buy computers."
+> "You need to surveil thousands, reduce the information asymmetry, make it so your repression isn't deligitimizing, outsource the operational friction, convert structural inequality to perceived meritocracy and ensure loyalty through existential dependency." Structurally, in capitalism, the computer both deskills and, eventually eliminates the disciplining role. It's not about freeing up labor, it's about making Fredrick Taylor's Scientific Management move from hour precision to second. This, and I contend, only this is why corporate America will buy computers."
 
 
+## The Weekend
 
 
 # Week 3
